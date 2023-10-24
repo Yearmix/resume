@@ -52,10 +52,10 @@ technique like WPF, WCF.
 
 ### Education:
 
-**Institution:** NAU (National Aviation University), Ukraine
-**Dates Attended:** September 2005 - May 2008
-**Qualification(s):** Bachelor
-**Major Subject(s):** Application programming
+**Institution:** NAU (National Aviation University), Ukraine<br>
+**Dates Attended:** September 2005 - May 2008<br>
+**Qualification(s):** Bachelor<br>
+**Major Subject(s):** Application programming<br>
 
 ---
 
