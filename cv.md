@@ -6,7 +6,7 @@
 
 **Phone:** +380 67 1828879<br>
 **E-mail:** alex.pokrowskiy@gmail.com<br>
-[LinkedIn](linkedin.com/in/alex-pokrowskiy)<br>
+[LinkedIn](https://www.linkedin.com/in/alex-pokrowskiy)<br>
 
 ---
 
