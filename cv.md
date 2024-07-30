@@ -125,7 +125,7 @@ Oracle, PL/SQL, APL <br>
 
 **Duration:** Nov 2009 - Jun 2014 (over 4 years)<br>
 **Role:** .NET Developer and system engineer <br>
-**Project Description:**  property management<br>
+**Project Description:**  retail management system software<br>
 **Responsibilities:** develop retail management system software (pharmacy case) WPF, WCF, intranet application such as KPI tooling and reporting MSSQL (1C preferable), maintain network, servers and workstation.<br>
 **Technologies:** .NET (WPF, WCF, ASP.NET Web Forms), MSSQL, SQL CE, C++(MFC), 1C, Unix(FreeBSD), Windows, Powershell, Python, SVN<br>
 
@@ -135,7 +135,7 @@ Oracle, PL/SQL, APL <br>
 
 **Duration:** Jan 2008 - Nov 2009 (almost 2 years)<br>
 **Role:** System Engineer with data analyst ability <br>
-**Project Description:**  property management<br>
+**Project Description:**  Support retail endpoints<br>
 **Responsibilities:** supporting, configuring, maintaining and upgrading corporate networks, building ETLs from 1C to Firebird, MSSQL reports with SSRS<br>
 **Technologies:** MSSQL, Firebird, SSRS, ASP.NET web forms, 1C, Windows, Linux <br>
 
