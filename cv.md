@@ -1,12 +1,15 @@
 # Oleksii Pokrovskyi
-### Software Engineer
+### Software Developer
 ---
 
 ### Contact information:
 
-**Phone:** +380 67 1828879<br>
+**Phone:** +49 170 2884753<br>
+**Address:** Germany, Rheinland-Pfalz, Speyer<br>
 **E-mail:** alex.pokrowskiy@gmail.com<br>
+[WhatsApp](https://wa.me/qr/QKHRAB5ZAMIUK1)<br>
 [LinkedIn](https://www.linkedin.com/in/alex-pokrowskiy)<br>
+[Xing](https://www.xing.com/profile/Alex_Pokrowskiy)<br>
 
 ---
 
@@ -67,11 +70,10 @@ technique like WPF, WCF.
 
 ### Professional Experience:
 ---
----
 
 #### **Dotnet developer** - GlobalLogic, Simcorp, Kyiv
 
-**Duration:** Nov 2021 - Present (over 2 years)<br>
+**Duration:** Nov 2021 - July 2024 (over 2 years)<br>
 **Role:** Observability developer <br>
 **Project Description:** observability area<br>
 **Responsibilities:** collation of 2 different type of telemetry AppInsights and InfuxDb + Kibana + Grafana and matching
