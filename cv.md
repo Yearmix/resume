@@ -37,10 +37,11 @@ technique like WPF, WCF.
 ### Technical Skills:
 
 - **.NET:** ASP.NET, ASP .NET MVC, ASP .NET Web API, Entity Framework, .NET generics, SignalR
-- **JavaScript:** AJAX, Knockout JS
+- **JavaScript:** Vanilla JS, Knockout JS, jQuery.
 - **Testing:** Unit Testing, Nunit, XUnit, NSubstitute, Moq
-- **Databases:** T-SQL, SQL, SQL Stored Procedures, SQL Table Functions, SQL Server Administration, SQL Triggers, Plan profiling
-- **UI Development:** jQuery, Angular, DevExpress, WPF
+- **Databases:** T-SQL / PL-SQL, MS SQL, Oracle, PostgreSQL, MySQL, SQL Stored Procedures, SQL Table Functions, SQL Server Administration, SQL Triggers, Plan profiling.
+- **NoSQL:** Azure Cosmos, MongoDB, Redis, InfluxDB.
+- **UI Development:** Angular, DevExpress, WPF
 - **C++:** Qt, Boost, MFC
 - **Python:** Python, Flask
 - **DevOps:** Linux, shell/PoSH scripting, docker, kubernetes, bicept, terraform, helm, flux, Azure.
@@ -50,6 +51,7 @@ technique like WPF, WCF.
 ### Foreign Language Skills:
 
 **English:** Written - Intermediate, Spoken - Advanced
+**German:** Written/Spoken - [B1](https://dtz.gast.de/portal/certificate/verification-dtz-choice)
 
 ---
 
