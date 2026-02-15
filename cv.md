@@ -1,3 +1,11 @@
+---
+layout: page
+title: resume
+redirect_from:
+  - /resume
+  - /index.md
+---
+
 # Oleksii Pokrovskyi
 ### Software Developer
 ---
