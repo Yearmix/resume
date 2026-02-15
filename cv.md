@@ -50,7 +50,7 @@ technique like WPF, WCF.
 
 ### Foreign Language Skills:
 
-**English:** Written - Intermediate, Spoken - Advanced
+**English:** Written - Intermediate, Spoken - Advanced<br>
 **German:** Written/Spoken - [B1](https://dtz.gast.de/portal/certificate/verification-dtz-choice)
 
 ---
