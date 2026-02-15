@@ -4,6 +4,7 @@ title: resume
 redirect_from:
   - /resume
   - /index.md
+  - /index.html
 ---
 
 # Oleksii Pokrovskyi
