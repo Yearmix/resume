@@ -1,10 +1,6 @@
 ---
 layout: page
 title: resume
-redirect_from:
-  - /resume
-  - /index.md
-  - /index.html
 ---
 
 # Oleksii Pokrovskyi
@@ -13,12 +9,12 @@ redirect_from:
 
 ### Contact information:
 
-**Phone:** +49 170 2884753<br>
-**Address:** Germany, Rheinland-Pfalz, Speyer<br>
-**E-mail:** alex.pokrowskiy@gmail.com<br>
-[WhatsApp](https://wa.me/qr/QKHRAB5ZAMIUK1)<br>
-[LinkedIn](https://www.linkedin.com/in/alex-pokrowskiy)<br>
-[Xing](https://www.xing.com/profile/Alex_Pokrowskiy)<br>
+**Phone:** +49 170 2884753  
+**Address:** Germany, Rheinland-Pfalz, Speyer  
+**E-mail:** alex.pokrowskiy@gmail.com  
+[WhatsApp](https://wa.me/qr/QKHRAB5ZAMIUK1)  
+[LinkedIn](https://www.linkedin.com/in/alex-pokrowskiy)  
+[Xing](https://www.xing.com/profile/Alex_Pokrowskiy)  
 
 ---
 
@@ -39,7 +35,7 @@ technique like WPF, WCF.
 - Experienced in developing technical documentation in various stages of Software Development Life Cycle(SDLC). 
 - Experienced in Manual and Automation testing and Testcase ident. 
 - Experience in ISO, CMM models.
-<br>
+  
 
 ---
 
@@ -59,23 +55,23 @@ technique like WPF, WCF.
 
 ### Foreign Language Skills:
 
-**English:** Written - Intermediate, Spoken - Advanced<br>
+**English:** Written - Intermediate, Spoken - Advanced  
 **German:** Written/Spoken - [B1](https://dtz.gast.de/portal/certificate/verification-dtz-choice)
 
 ---
 
 ### Education:
 
-**Institution:** OIT (Olexandria Polytechnic College), Ukraine, Olexandria<br>
-**Dates Attended:** September 2001 - May 2005<br>
-**Qualification(s):** Junior specialist<br>
-**Major Subject(s):** Math programming<br>
+**Institution:** OIT (Olexandria Polytechnic College), Ukraine, Olexandria  
+**Dates Attended:** September 2001 - May 2005  
+**Qualification(s):** Junior specialist  
+**Major Subject(s):** Math programming  
 
 
-**Institution:** NAU (National Aviation University), Ukraine, Kyiv<br>
-**Dates Attended:** September 2005 - May 2008<br>
-**Qualification(s):** Bachelor<br>
-**Major Subject(s):** Application programming<br>
+**Institution:** NAU (National Aviation University), Ukraine, Kyiv  
+**Dates Attended:** September 2005 - May 2008  
+**Qualification(s):** Bachelor  
+**Major Subject(s):** Application programming  
 
 ---
 
@@ -84,72 +80,72 @@ technique like WPF, WCF.
 
 #### **Dotnet developer** - GlobalLogic, Simcorp, Kyiv
 
-**Duration:** Nov 2021 - July 2024 (over 2 years)<br>
-**Role:** Observability developer <br>
-**Project Description:** observability area<br>
+**Duration:** Nov 2021 - July 2024 (over 2 years)  
+**Role:** Observability developer  
+**Project Description:** observability area  
 **Responsibilities:** collation of 2 different type of telemetry AppInsights and InfuxDb + Kibana + Grafana and matching
-it on OpenTelemetry, benchmarking. <br>
+it on OpenTelemetry, benchmarking.   
 **Technologies:** Kubernetes, Docker, PowerShell, Azure(AZ, ACI, AKS, ACS, AAD, RBAC an more), bicep, terraform, Helm, GitOps, bash, .NET(C#/F#/Core), Go, Python,TypeScript, Angular, OpenTelemetry, ELK, Grafana, AppInsights,
-Oracle, PL/SQL, APL <br>
+Oracle, PL/SQL, APL   
 
 ---
 
 #### **Dotnet developer** - GlobalLogic, Simcorp, Kyiv
 
-**Duration:** Nov 2020 - Oct 2021 (12 months)<br>
-**Role:** Software engineer <br>
-**Project Description:**  investment management solutions<br>
-**Responsibilities:** N-tier, N-layer refactoring, taxonomy of unit tests. <br>
-**Technologies:** DevExpress, BenchmarkDotNet, NUnit, XUnit, NSubstitute, Moq,APL, Oracle <br>
+**Duration:** Nov 2020 - Oct 2021 (12 months)  
+**Role:** Software engineer   
+**Project Description:**  investment management solutions  
+**Responsibilities:** N-tier, N-layer refactoring, taxonomy of unit tests.   
+**Technologies:** DevExpress, BenchmarkDotNet, NUnit, XUnit, NSubstitute, Moq,APL, Oracle   
 
 ---
 
 #### **Full-stack developer** - GlobalLogic, Carbonite, Boston (on-site)
 
-**Duration:** January 2018 - October 2020 (2 years 10 months)<br>
-**Role:** .NET Software Engineer <br>
-**Project Description:**  Support billing system<br>
-**Responsibilities:** support existing system, develop new features <br>
-**Technologies:** .NET (ASP.NET MVC, WebForm, Web-API; WCF; NUnit; ); TSQL(MySQL; MS SQL); JS(Vanilla,jQuery); Python; C++ (Qt), Git<br>
+**Duration:** January 2018 - October 2020 (2 years 10 months)  
+**Role:** .NET Software Engineer   
+**Project Description:**  Support billing system  
+**Responsibilities:** support existing system, develop new features   
+**Technologies:** .NET (ASP.NET MVC, WebForm, Web-API; WCF; NUnit; ); TSQL(MySQL; MS SQL); JS(Vanilla,jQuery); Python; C++ (Qt), Git  
 
 ---
 
 #### **Full-stack developer** - GlobalLogic, Microsoft, Kyiv
 
-**Duration:** Mar 2017 - Jan 2018 (11 months)<br>
-**Role:** .NET Software Engineer <br>
-**Project Description:**  Migration tool from Parature to MS Dynamics<br>
-**Responsibilities:** develop migration tools from scratch  <br>
-**Technologies:** .NET (ASP.NET MVC; WCF), JS(Vanilla,jQuery), VSTS <br>
+**Duration:** Mar 2017 - Jan 2018 (11 months)  
+**Role:** .NET Software Engineer   
+**Project Description:**  Migration tool from Parature to MS Dynamics  
+**Responsibilities:** develop migration tools from scratch    
+**Technologies:** .NET (ASP.NET MVC; WCF), JS(Vanilla,jQuery), VSTS   
 
 ---
 
 #### **Full-stack developer** - Kraftek, Vacation Rental Pros, Kyiv
 
-**Duration:** Jun 2014 - Sep 2016 (over 2 years)<br>
-**Role:** .NET Software Engineer <br>
-**Project Description:**  property management<br>
-**Responsibilities:** develop UI for calls and SMS via Cloud API<br>
-**Technologies:** .NET (ASP.NET MVC; WCF, WebAPI), TFS <br>
+**Duration:** Jun 2014 - Sep 2016 (over 2 years)  
+**Role:** .NET Software Engineer   
+**Project Description:**  property management  
+**Responsibilities:** develop UI for calls and SMS via Cloud API  
+**Technologies:** .NET (ASP.NET MVC; WCF, WebAPI), TFS   
 
 ---
 
 #### **Application developer** - TAS-Pharma, Kyiv
 
-**Duration:** Nov 2009 - Jun 2014 (over 4 years)<br>
-**Role:** .NET Developer and system engineer <br>
-**Project Description:**  retail management system software<br>
-**Responsibilities:** develop retail management system software (pharmacy case) WPF, WCF, intranet application such as KPI tooling and reporting MSSQL (1C preferable), maintain network, servers and workstation.<br>
-**Technologies:** .NET (WPF, WCF, ASP.NET Web Forms), MSSQL, SQL CE, C++(MFC), 1C, Unix(FreeBSD), Windows, Powershell, Python, SVN<br>
+**Duration:** Nov 2009 - Jun 2014 (over 4 years)  
+**Role:** .NET Developer and system engineer   
+**Project Description:**  retail management system software  
+**Responsibilities:** develop retail management system software (pharmacy case) WPF, WCF, intranet application such as KPI tooling and reporting MSSQL (1C preferable), maintain network, servers and workstation.  
+**Technologies:** .NET (WPF, WCF, ASP.NET Web Forms), MSSQL, SQL CE, C++(MFC), 1C, Unix(FreeBSD), Windows, Powershell, Python, SVN  
 
 ---
 
 #### **System Engineer** - TERNOPHARM, Kyiv
 
-**Duration:** Jan 2008 - Nov 2009 (almost 2 years)<br>
-**Role:** System Engineer with data analyst ability <br>
-**Project Description:**  Support retail endpoints<br>
-**Responsibilities:** supporting, configuring, maintaining and upgrading corporate networks, building ETLs from 1C to Firebird, MSSQL reports with SSRS<br>
-**Technologies:** MSSQL, Firebird, SSRS, ASP.NET web forms, 1C, Windows, Linux <br>
+**Duration:** Jan 2008 - Nov 2009 (almost 2 years)  
+**Role:** System Engineer with data analyst ability   
+**Project Description:**  Support retail endpoints  
+**Responsibilities:** supporting, configuring, maintaining and upgrading corporate networks, building ETLs from 1C to Firebird, MSSQL reports with SSRS  
+**Technologies:** MSSQL, Firebird, SSRS, ASP.NET web forms, 1C, Windows, Linux   
 
 ---
