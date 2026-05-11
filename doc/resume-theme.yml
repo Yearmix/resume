@@ -1,0 +1,29 @@
+extends: default
+
+table:
+  border-color: #00589A
+  border-width: 3
+  cell:
+    padding: [2,2,2,15]
+
+aright:
+  table:
+    align: right
+
+role:
+  fgray:
+    font-color: #A1A1A1
+  fblack:
+    font-color: #000000
+  fblue:
+    font-color: #00589A
+  head-h1:
+    font-size: 1.8em 
+  head-h2:
+    font-size: 1.4em
+  txt-sml:
+    font-size: 0.8em
+  txt-right:
+    text-align: right
+  txt-center:
+    text-align: center
