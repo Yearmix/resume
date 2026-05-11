@@ -15,9 +15,10 @@
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-OCLC GmbH +
-Am Bahnhofsplatz 1 +
-67459 Böhl-Iggelheim +
+Michael Page +
+Westend Carree +
+Im Trutz 55 +
+60322 Frankfurt am Main +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -37,15 +38,20 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung als Software Engineer .NET - Produktentwicklung
+Bewerbung als C#.net Softwareentwickler +
+Referenznummer: JN-032026-6972118
 
 Sehr geehrte Damen und Herren,
 
-mit großem Interesse habe ich Ihre Stellenausschreibung als Software Engineer .NET gelesen. Die Kombination aus moderner Softwareentwicklung, Scrum-Teamarbeit und KI-gestützten Entwicklungsansätzen passt sehr gut zu meiner Erfahrung und meinen Interessen.
+mit großem Interesse habe ich Ihre Stellenausschreibung für die Position im Bereich .NET-/C#-Entwicklung gelesen. Durch meine mehrjährige Erfahrung in der Softwareentwicklung mit C#, .NET und modernen Webtechnologien bin ich überzeugt, dass ich gut zu Ihrem Team passe.
 
-Ich verfüge über mehrere Jahre Erfahrung mit C# und .NET sowie in der Entwicklung und Weiterentwicklung komplexer Softwarelösungen. Themen wie Clean Code, Refactoring, automatisierte Tests und langfristige Wartbarkeit sind für mich wichtige Bestandteile professioneller Softwareentwicklung. Ich arbeite gerne im Team, tausche Wissen aktiv aus und bringe mich konstruktiv in technische Entscheidungen ein.
+In verschiedenen Projekten habe ich Backend-Systeme, RESTful APIs und datenorientierte Anwendungen entwickelt. Dabei konnte ich fundierte Kenntnisse in C#, .NET, ASP.NET, Entity Framework, SQL, Git sowie automatisierten Tests aufbauen. Die Arbeit an technischen Konzepten und die enge Zusammenarbeit im Team gehören ebenfalls zu meinem Alltag.
 
-Aktuell liegen meine Deutschkenntnisse auf B1-Niveau. Obwohl in der Ausschreibung sehr gute Deutschkenntnisse gefordert werden, sehe ich dies nicht als Problem: Ich spreche fließend Englisch und verbessere mein Deutsch kontinuierlich mit dem Ziel, in kurzer Zeit ein höheres Niveau zu erreichen. 
+Besonders reizt mich an Ihrer Position die Möglichkeit, moderne Lösungen für elektronische Datenaustauschprozesse mitzugestalten und Verantwortung in einem offenen, technischen Umfeld zu übernehmen.
+
+Meine Deutschkenntnisse liegen aktuell auf B1-Niveau. Obwohl sehr gute Deutschkenntnisse gefordert werden, sehe ich darin kein Problem: Ich verfüge über sehr gute Englischkenntnisse, arbeite erfolgreich in internationalen Teams und verbessere mein Deutsch kontinuierlich mit dem Ziel, schnell ein höheres Niveau zu erreichen.
+
+Über die Gelegenheit, mich persönlich vorzustellen, freue ich mich sehr.
 
 [%unbreakable] 
 --
