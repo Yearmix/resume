@@ -15,9 +15,9 @@
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-Am besten GmbH ?? +
-Sonnenstraße 1 +
-12345 Sonnenstadt +
+OCLC GmbH +
+Am Bahnhofsplatz 1 +
+67459 Böhl-Iggelheim +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -37,15 +37,15 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung um eine Stelle als Software Engineer
+Bewerbung als Software Engineer .NET - Produktentwicklung
 
 Sehr geehrte Damen und Herren,
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam varius justo vehicula purus blandit, eu convallis diam euismod. Integer quam tellus, ornare non tellus in, dictum commodo odio. Sed ornare, quam at iaculis vulputate, lacus odio faucibus ante, rutrum laoreet enim urna a elit. Cras sit amet magna leo. Nam et est sit amet velit venenatis posuere. Nulla sodales sit amet tellus vitae ornare. Maecenas quis efficitur tortor. Duis interdum pharetra erat, vel elementum quam congue quis. Aliquam bibendum, metus non imperdiet ultrices, tortor metus sollicitudin purus, sit amet condimentum dui lacus et sapien. Integer a purus in urna venenatis sagittis. Suspendisse potenti. 
+mit großem Interesse habe ich Ihre Stellenausschreibung als Software Engineer .NET gelesen. Die Kombination aus moderner Softwareentwicklung, Scrum-Teamarbeit und KI-gestützten Entwicklungsansätzen passt sehr gut zu meiner Erfahrung und meinen Interessen.
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In quis dictum est. Cras convallis tristique tristique. Curabitur semper sodales bibendum. Nulla facilisis malesuada augue. Sed tincidunt convallis nisl, eu interdum tortor porttitor in. Maecenas ultrices scelerisque ligula sed sollicitudin. Nunc nisi diam, finibus id feugiat ac, molestie vitae erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; 
+Ich verfüge über mehrere Jahre Erfahrung mit C# und .NET sowie in der Entwicklung und Weiterentwicklung komplexer Softwarelösungen. Themen wie Clean Code, Refactoring, automatisierte Tests und langfristige Wartbarkeit sind für mich wichtige Bestandteile professioneller Softwareentwicklung. Ich arbeite gerne im Team, tausche Wissen aktiv aus und bringe mich konstruktiv in technische Entscheidungen ein.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam euismod diam fringilla ligula accumsan, lacinia molestie magna viverra. Aliquam erat volutpat. Integer auctor lacus non ex rhoncus consequat. Cras ut lacinia quam. Vestibulum tristique, elit sed mollis commodo, odio erat euismod nisl, in tincidunt lorem augue id massa. Integer commodo turpis sit amet quam finibus egestas. Fusce tellus lacus, tempus a pellentesque ac, mattis id diam. Mauris mattis congue tellus sed sollicitudin. Aenean varius ipsum arcu. Integer bibendum ipsum a molestie pellentesque. Curabitur eget quam felis. Etiam volutpat ipsum sit amet maximus egestas. Quisque leo risus, vehicula quis ligula eget, tempus mollis tortor. In in iaculis elit. 
+Aktuell liegen meine Deutschkenntnisse auf B1-Niveau. Obwohl in der Ausschreibung sehr gute Deutschkenntnisse gefordert werden, sehe ich dies nicht als Problem: Ich spreche fließend Englisch und verbessere mein Deutsch kontinuierlich mit dem Ziel, in kurzer Zeit ein höheres Niveau zu erreichen. 
 
 [%unbreakable] 
 --
