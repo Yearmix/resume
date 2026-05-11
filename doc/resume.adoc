@@ -15,10 +15,9 @@
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-Michael Page +
-Westend Carree +
-Im Trutz 55 +
-60322 Frankfurt am Main +
+Vesterling +
+Elsenheimerstraße 49 +
+80687 München +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -38,20 +37,20 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung als C#.net Softwareentwickler +
-Referenznummer: JN-032026-6972118
+C# Senior Softwareentwickler | DevOps, TDD +
+Referenznummer 23276
 
 Sehr geehrte Damen und Herren,
 
-mit großem Interesse habe ich Ihre Stellenausschreibung für die Position im Bereich .NET-/C#-Entwicklung gelesen. Durch meine mehrjährige Erfahrung in der Softwareentwicklung mit C#, .NET und modernen Webtechnologien bin ich überzeugt, dass ich gut zu Ihrem Team passe.
+mit großem Interesse habe ich Ihre Position als Senior Softwareentwickler C# gelesen. Aufgrund meiner mehrjährigen Erfahrung in der Entwicklung mit C#/.NET sowie meiner Kenntnisse in modernen Backend-Technologien, Microservices, CI/CD und Cloud-Lösungen bin ich überzeugt, gut zu Ihrem Team zu passen.
 
-In verschiedenen Projekten habe ich Backend-Systeme, RESTful APIs und datenorientierte Anwendungen entwickelt. Dabei konnte ich fundierte Kenntnisse in C#, .NET, ASP.NET, Entity Framework, SQL, Git sowie automatisierten Tests aufbauen. Die Arbeit an technischen Konzepten und die enge Zusammenarbeit im Team gehören ebenfalls zu meinem Alltag.
+Besonders interessant finde ich die Möglichkeit, an einem komplexen und skalierbaren Produkt auf Basis des Microsoft Software Stacks mitzuwirken und moderne Entwicklungsprozesse aktiv mitzugestalten.
 
-Besonders reizt mich an Ihrer Position die Möglichkeit, moderne Lösungen für elektronische Datenaustauschprozesse mitzugestalten und Verantwortung in einem offenen, technischen Umfeld zu übernehmen.
+Ich verfüge aktuell über Deutschkenntnisse auf B1-Niveau. Obwohl in der Stelle sehr gute Deutschkenntnisse gefordert werden, bin ich überzeugt, dass dies kein Problem darstellt, da ich sehr gute Englischkenntnisse besitze und intensiv daran arbeite, mein Deutsch kurzfristig weiter zu verbessern.
 
-Meine Deutschkenntnisse liegen aktuell auf B1-Niveau. Obwohl sehr gute Deutschkenntnisse gefordert werden, sehe ich darin kein Problem: Ich verfüge über sehr gute Englischkenntnisse, arbeite erfolgreich in internationalen Teams und verbessere mein Deutsch kontinuierlich mit dem Ziel, schnell ein höheres Niveau zu erreichen.
+Außerdem besitze ich eine gültige Arbeitserlaubnis in Deutschland bis zum 06/07/2027. Bei einer erfolgreichen Zusammenarbeit plane ich langfristig in Deutschland zu bleiben.
 
-Über die Gelegenheit, mich persönlich vorzustellen, freue ich mich sehr.
+Über die Möglichkeit eines persönlichen Gesprächs freue ich mich sehr.
 
 [%unbreakable] 
 --
