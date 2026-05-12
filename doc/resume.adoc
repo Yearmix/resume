@@ -15,9 +15,9 @@
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-Vesterling +
-Elsenheimerstraße 49 +
-80687 München +
+adesso SE +
+Robert-Bosch-Str. 35 +
+69190 Walldorf +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -37,20 +37,17 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-C# Senior Softwareentwickler | DevOps, TDD +
-Referenznummer 23276
+Senior Software Engineer Backend API 
 
 Sehr geehrte Damen und Herren,
 
-mit großem Interesse habe ich Ihre Position als Senior Softwareentwickler C# gelesen. Aufgrund meiner mehrjährigen Erfahrung in der Entwicklung mit C#/.NET sowie meiner Kenntnisse in modernen Backend-Technologien, Microservices, CI/CD und Cloud-Lösungen bin ich überzeugt, gut zu Ihrem Team zu passen.
+mit großem Interesse habe ich Ihre Stelle im Bereich API- und Backend-Entwicklung gelesen. Aufgrund meiner Erfahrung in der Softwareentwicklung mit .NET, APIs sowie Cloud- und Container-Technologien bin ich überzeugt, gut zu adesso und Ihrem modernen Entwicklungsansatz zu passen.
 
-Besonders interessant finde ich die Möglichkeit, an einem komplexen und skalierbaren Produkt auf Basis des Microsoft Software Stacks mitzuwirken und moderne Entwicklungsprozesse aktiv mitzugestalten.
+Besonders interessant finde ich die Möglichkeit, an skalierbaren Integrationslösungen und API-zentrierten Architekturen für verschiedene Kunden zu arbeiten. Teamarbeit, verantwortungsbewusstes Arbeiten und kontinuierliches Lernen sind für mich selbstverständlich.
 
-Ich verfüge aktuell über Deutschkenntnisse auf B1-Niveau. Obwohl in der Stelle sehr gute Deutschkenntnisse gefordert werden, bin ich überzeugt, dass dies kein Problem darstellt, da ich sehr gute Englischkenntnisse besitze und intensiv daran arbeite, mein Deutsch kurzfristig weiter zu verbessern.
+Aktuell verfüge ich über Deutschkenntnisse auf B1-Niveau. Obwohl in der Stellenbeschreibung sehr gute Deutschkenntnisse gefordert werden, sehe ich dies nicht als langfristiges Hindernis. Ich spreche sehr gut Englisch und lerne Deutsch aktiv weiter, sodass ich meine Sprachkenntnisse in kurzer Zeit deutlich verbessern werde.
 
-Außerdem besitze ich eine gültige Arbeitserlaubnis in Deutschland bis zum 06/07/2027. Bei einer erfolgreichen Zusammenarbeit plane ich langfristig in Deutschland zu bleiben.
-
-Über die Möglichkeit eines persönlichen Gesprächs freue ich mich sehr.
+Außerdem besitze ich eine gültige Arbeitserlaubnis in Deutschland bis zum 07.06.2027. Bei guter Zusammenarbeit plane ich langfristig in Deutschland zu bleiben und meine Zukunft hier aufzubauen.
 
 [%unbreakable] 
 --
