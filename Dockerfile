@@ -29,4 +29,5 @@ FROM base AS final
 
 WORKDIR /usr/src/app
 
-CMD ["bundle", "exec", "rake"]
+ENTRYPOINT ["bundle", "exec", "rake"]
+# CMD ["resume:build_pdf"]
