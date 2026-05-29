@@ -6,7 +6,9 @@ param(
     [string]$dst_path = "C:\Users\alexp\Downloads\todo"
 )
 
-docker build -t $img .
+docker build --build-arg LANG=de_DE.UTF-8 --build-arg LANGUAGE=de_DE:de --build-arg LC_ALL=de_DE.UTF-8 -t $img .
+#docker build --build-arg LANG=en_US.UTF-8 --build-arg LANGUAGE=en_US.UTF-8 --build-arg LC_ALL=en_US.UTF-8 -t $img .
+
 docker run -it --name $cnt $img
 
 $path = $cnt + ":" + $cnt_path

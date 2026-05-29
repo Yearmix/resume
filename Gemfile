@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'fiddle', '1.1.0'
 gem 'rake', '13.2.1'
 gem 'asciidoctor', '2.0.22'
 
