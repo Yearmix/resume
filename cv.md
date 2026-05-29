@@ -33,7 +33,7 @@ technique like WPF, WCF.
 - Highly experienced with SQL Server 2000 & 2005, MySQL, MS-Access databases. 
 - Extensive Knowledge in Visual Studio, Visual Studio.NET, and Versioning tools like VSS, VSTO, SVN, and Git. 
 - Experienced in developing technical documentation in various stages of Software Development Life Cycle(SDLC). 
-- Experienced in Manual and Automation testing and Testcase ident. 
+- Experienced in Manual and Automation testing and Test case identification. 
 - Experience in ISO, CMM models.
   
 
@@ -49,7 +49,7 @@ technique like WPF, WCF.
 - **UI Development:** Angular, DevExpress, WPF
 - **C++:** Qt, Boost, MFC
 - **Python:** Python, Flask
-- **DevOps:** Linux, shell/PoSH scripting, docker, kubernetes, bicept, terraform, helm, flux, Azure.
+- **DevOps:** Linux, shell/PoSH scripting, docker, kubernetes, Bicep, terraform, helm, flux, Azure.
 
 ---
 
@@ -83,7 +83,7 @@ technique like WPF, WCF.
 **Duration:** Nov 2021 - July 2024 (over 2 years)  
 **Role:** Observability developer  
 **Project Description:** observability area  
-**Responsibilities:** collation of 2 different type of telemetry AppInsights and InfuxDb + Kibana + Grafana and matching
+**Responsibilities:** collation of 2 different type of telemetry AppInsights and InfluxDb + Kibana + Grafana and matching
 it on OpenTelemetry, benchmarking.   
 **Technologies:** Kubernetes, Docker, PowerShell, Azure(AZ, ACI, AKS, ACS, AAD, RBAC an more), bicep, terraform, Helm, GitOps, bash, .NET(C#/F#/Core), Go, Python,TypeScript, Angular, OpenTelemetry, ELK, Grafana, AppInsights,
 Oracle, PL/SQL, APL   
