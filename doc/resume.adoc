@@ -15,9 +15,9 @@
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-Funkinform Informations- und Datentechnik GmbH +
-Rudolf-Plank-Str. 31 +
-76275 Ettlingen +
+Exxeta AG +
+Stockholmer Pl. 1 +
+70173 Stuttgart +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -37,22 +37,20 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung um Ihre Stelle als Software-Entwickler C#/.NET (m/w/d) +
-Referenznummer: 10001-1002981040-S
+Bewerbung um Ihre Stelle als Senior Softwareentwickler C# (w/m/d) +
+Referenznummer: 13644-280106-S
 
-Sehr geehrter Herr Heimann,
+Sehr geehrte Frau Bromm,
 
-Ihre Stellenanzeige für die Weiterentwicklung Ihres Verlagssystems DIALOG hat mich sehr angesprochen. Sie suchen einen erfahrenen Entwickler für die Erstellung von Web- und Windows-Anwendungen auf Basis von C#/.NET sowie modernen Oberflächen-Technologien. Genau dies beschreibt meine langjährige Berufserfahrung und die Tätigkeit, die ich als nächsten Schritt meiner Karriere in Deutschland anstrebe.
+Ihre Stellenanzeige auf Ihrer Website hat mich sofort angesprochen. Sie suchen einen leidenschaftlichen Senior-Entwickler für das Microsoft-Umfeld, der anspruchsvolle Softwarelösungen konzipiert, die neuesten Frameworks beherrscht und Lust darauf hat, neue technologische Themen aktiv mitzugestalten. Genau dies beschreibt meine bisherige Position und langjährige Berufserfahrung in der Ukraine sowie die Tätigkeit, die ich als nächsten Schritt meiner Karriere in Deutschland anstrebe.
 
-Die von Ihnen beschriebenen abwechslungsreichen Aufgaben in einem kollegialen Team mit flachen Hierarchien und dem nötigen Gestaltungsspielraum motivieren mich sehr. Ich möchte meine Expertise gerne einbringen, um die crossmediale Zukunft der Medienbranche bei Funkinform aktiv mitzugestalten.
+Die von Ihnen beschriebene Unternehmenskultur bei Exxeta – geprägt von Teamspirit, Neugier, gestalterischen Freiheiten und dem Anspruch, echten Impact zu schaffen („Hightech with a heartbeat“) – motiviert mich sehr. Ich möchte meine Expertise gerne einbringen, um digitale Lösungen für Ihre Kunden aktiv mitzugestalten.
 
-Mit fast 20 Jahren Erfahrung im Bereich Software Engineering und Tätigkeiten für namhafte internationale Unternehmen wie Microsoft, Carbonite und SimCorp war ich umfassend an der Entwicklung, dem Design und der Optimierung komplexer Client-Server- sowie Webanwendungen beteiligt. Ich bringe fundiertes Know-how in C#, .NET (bis .NET 6), ASP.NET MVC, Windows-Anwendungen (WPF/WinForms) sowie Microsoft SQL Server mit. Durch meine flexiblen Full-Stack- und DevOps-Kenntnisse (darunter TypeScript, Angular und Python) bin ich es gewohnt, mich schnell in neue Technologien wie .NET MAUI einzuarbeiten und plattformübergreifende Lösungen voranzutreiben.
+Mit fast 20 Jahren Erfahrung im Bereich Software Engineering und Tätigkeiten für namhafte, multinationale Unternehmen wie Microsoft, Carbonite und SimCorp war ich umfassend an der Entwicklung, dem Design und der Optimierung komplexer Client-Server-, Desktop- (WPF) und Webanwendungen (ASP.NET MVC / Core) beteiligt. Methodenkompetenzen in OOA/OOD, agilen Prozessen (Scrum, XP) und ein extrem hoher Qualitätsanspruch (u.a. durch tiefgehende Testautomatisierung mit NUnit/XUnit) sind für mich selbstverständlich. In meinen letzten Projekten als Observability Developer konnte ich zudem fundierte Erfolge in modernen Cloud- und Container-Umgebungen (Azure, Kubernetes, Docker, Terraform) erzielen und bin hochgradig motiviert, mich in Zukunft auch tiefer in die Integration von LLM-/AI-Services einzubringen.
 
-Aufgrund der Situation in meinem Heimatland bin ich als Flüchtling nach Deutschland gekommen. Während meiner ersten Zeit hier habe ich mich intensiv auf die Integration und den Erwerb der Sprache konzentriert. Mittlerweile verfüge ich über das B1-Zertifikat in Deutsch und baue meine Kenntnisse kontinuierlich weiter aus, um das von Ihnen gewünschte B2-Niveau kurzfristig und sicher zu festigen. Da ich fließend Englisch spreche und stets in multinationalen Kontexten gearbeitet habe, kann ich mich problemlos und effektiv in Ihr Team einfügen.
+Aufgrund der Situation in meinem Heimatland bin ich vor einiger Zeit als Flüchtling nach Deutschland gekommen. Hier habe ich mich intensiv auf den Erwerb der Sprache konzentriert und verfüge mittlerweile über das B1-Zertifikat in Deutsch. Da ich fließend Englisch spreche und stets in internationalen Kontexten gearbeitet habe, werde ich mich problemlos und effektiv in Ihre Teams einfügen.
 
-Um Ihnen die Gelegenheit zu geben, sich von meiner fachlichen Kompetenz, meiner systematischen Herangehensweise und meiner Zuverlässigkeit zu überzeugen, stünde ich Ihnen gerne auch im Rahmen einer Probezeit oder einer kurzen Probearbeit zur Verfügung.
-
-Meine Gehaltsvorstellung liegt bei mindestens 50.700 € brutto pro Jahr, da ich plane, meinen Aufenthaltsstatus auf eine Blue Card umzustellen und langfristig in Deutschland zu bleiben. Da ich in Speyer ansässig bin, ist der Standort Ettlingen für mich gut erreichbar – zudem kommt mir Ihr Angebot von Mobile Office sehr entgegen. Ich bin bereit, die Tätigkeit sofort aufzunehmen.
+Ich bin flexibel, bringe die geforderte Reisebereitschaft für die Beratung Ihrer Kunden vor Ort mit und kann die Tätigkeit sofort aufnehmen. Meine Gehaltsvorstellung liegt bei mindestens 50.700 € brutto pro Jahr, da ich plane, meinen Aufenthaltsstatus auf eine Blue Card umzustellen. Um Ihnen die Gelegenheit zu geben, sich von meiner fachlichen Kompetenz und Zuverlässigkeit zu überzeugen, stünde ich Ihnen gerne auch im Rahmen einer kurzen Probearbeit zur Verfügung.
 
 Über die Gelegenheit, meine Qualifikationen und meine Motivation in einem persönlichen Gespräch mit Ihnen zu besprechen, freue ich mich sehr.
 
