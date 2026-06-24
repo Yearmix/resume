@@ -15,9 +15,9 @@
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-FERCHAU GmbH +
-Lorenzstraße 29 +
-76135 Karlsruhe, Baden +
+MVV Energie AG +
+Luisenring 49 +
+68159 Mannheim-Innenstadt/Jungbusch +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -37,22 +37,22 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung um die Stelle als (Junior) C#.net-Entwickler (m/w/d) +
-Referenznummer: VA46-26010-KA
+Bewerbung um Ihre Stelle als Applications Expert für .NET-Entwicklung (m/w/d) +
+Referenznummer: 13644-308157-S
 
-Sehr geehrte Frau Fischer,
+Sehr geehrte Damen und Herren,
 
-Ihre Stellenanzeige auf Ihrer Website hat mich sehr angesprochen. Sie suchen einen lösungsorientierten C#.net-Entwickler für die Entwicklung anspruchsvoller Softwarelösungen im Fahrzeug- und Systemumfeld. Genau dies beschreibt meine bisherige Position und langjährige Berufserfahrung in der Ukraine sowie die Tätigkeit, die ich als nächsten Schritt meiner Karriere in Deutschland anstrebe.
+Ihre Stellenanzeige für die Gruppe Business Intelligence am Standort Mannheim hat mich sehr angesprochen. Sie suchen einen lösungsorientierten Applications Expert für die Konzeption, Umsetzung und technologische Weiterentwicklung von individuellen Anwendungen auf Basis von C# und .NET. Genau dies beschreibt meine bisherige Position und langjährige Berufserfahrung in der Ukraine sowie die Tätigkeit, die ich als nächsten Schritt meiner Karriere in Deutschland anstrebe.
 
-Die von Ihnen beschriebene Unternehmenskultur bei FERCHAU – geprägt von technologischer Innovation, Vielseitigkeit und der Zusammenarbeit in interdisziplinären Teams – motiviert mich sehr. Ich möchte meine Expertise gerne einbringen, um komplexe Entwicklungsprojekte für namhafte Kunden der Automobilindustrie aktiv mitzugestalten.
+Die von Ihnen beschriebene Unternehmenskultur – geprägt von Nachhaltigkeit, Digitalisierung und einem wertschätzenden Miteinander in einem zukunftsorientierten IT-Umfeld – motiviert mich sehr. Ich möchte meine Expertise gerne einbringen, um die intelligente IT-Landschaft Ihres Unternehmens aktiv mitzugestalten.
 
-Mit fast 20 Jahren Erfahrung im Bereich Software Engineering und Tätigkeiten für namhafte, multinationale Unternehmen wie Microsoft, Carbonite und SimCorp war ich umfassend an der Entwicklung, dem Design und der Optimierung komplexer Desktop-, Client-Server- sowie Webanwendungen beteiligt. Ich bringe fundiertes Know-how in C#, .NET (bis .NET 6), SQL-Datenbanken, APIs sowie in der Durchführung von Unit- und Integrationstests (NUnit, XUnit) mit. Auch die Arbeit in agilen Prozessen mit Visual Studio und Git gehört seit Jahren zu meinem Standardrepertoire. In meinen letzten Projekten konnte ich zudem tiefgehende Ergebnisse in modernen Cloud- und Container-Umgebungen (Azure, Kubernetes, Docker) erzielen.
+Mit fast 20 Jahren Erfahrung im Bereich Software Engineering und Tätigkeiten für namhafte Unternehmen wie Microsoft, Carbonite und SimCorp war ich umfassend an der Entwicklung, dem Design und der Optimierung komplexer Client-Server- sowie Webanwendungen beteiligt. Ich bringe fundiertes Know-how in C#, .NET, der Gestaltung von IT-Architekturen und Datenmodellen (u.a. MS SQL, Oracle, PostgreSQL) mit. Zudem verfüge ich über praktische Erfahrung im Bereich der User-Interfaces mit Angular sowie in der agilen Softwareentwicklung nach Scrum.
 
-Aufgrund der Situation in meinem Heimatland bin ich vor einiger Zeit nach Deutschland gekommen. Während meiner ersten Zeit hier habe ich mich intensiv auf die Integration und den Erwerb der Sprache konzentriert und verfüge aktuell über das B1-Zertifikat in Deutsch. Ich bin hochgradig motiviert, meine Deutschkenntnisse im täglichen Projektumfeld rasch auf das geforderte B2-Niveau und darüber hinaus zu bringen. Da ich fließend Englisch spreche und stets in internationalen Kontexten gearbeitet habe, kann ich mich ab Tag eins problemlos und effektiv in Ihr Team einfügen.
+Aufgrund der Situation in meinem Heimatland bin ich als Flüchtling nach Deutschland gekommen. Während meiner ersten Zeit hier habe ich mich intensiv auf die Integration und den Erwerb der Sprache konzentriert. Mittlerweile verfüge ich über das B1-Zertifikat in Deutsch. Da ich fließend Englisch spreche und in der Vergangenheit stets in multinationalen Kontexten gearbeitet habe, kann ich mich problemlos und effektiv in Ihr Team einfügen.
 
-Ich bin überzeugt, dass meine tiefe technische Erfahrung den Anforderungen Ihrer Position vollständig entspricht. Um Ihnen die Gelegenheit zu geben, sich von meiner fachlichen Kompetenz, meiner systematischen Herangehensweise und meiner Zuverlässigkeit zu überzeugen, stünde ich Ihnen gerne auch im Rahmen einer Probezeit oder einer kurzen Probearbeit zur Verfügung.
+Ich bin überzeugt, dass meine Erfahrung den Anforderungen Ihrer Position vollständig entspricht. Um Ihnen die Gelegenheit zu geben, sich von meiner fachlichen Kompetenz, meiner systematischen Herangehensweise und meiner Zuverlässigkeit zu überzeugen, stünde ich Ihnen gerne auch im Rahmen einer Probezeit oder einer kurzen Probearbeit zur Verfügung.
 
-Da ich plant, meinen Aufenthaltsstatus auf eine Blue Card umzustellen und langfristig in Deutschland zu bleiben, liegt meine Gehaltsvorstellung bei mindestens 50.700 € brutto pro Jahr. Ich bin bereit, die Tätigkeit sofort aufzunehmen.
+Meine Gehaltsvorstellung liegt bei mindestens 50.700 € brutto pro Jahr, da ich plane, meinen Aufenthaltsstatus auf eine Blue Card umzustellen und langfristig in Deutschland zu bleiben. Da ich in Speyer ansässig bin, ist der Standort Mannheim für mich sehr gut erreichbar – zudem kommt mir Ihr Angebot des mobilen Arbeitens und der flexiblen Arbeitszeiten sehr entgegen. Ich bin bereit, die Tätigkeit sofort aufzunehmen.
 
 Über die Gelegenheit, meine Qualifikationen und meine Motivation in einem persönlichen Gespräch mit Ihnen zu besprechen, freue ich mich sehr.
 
