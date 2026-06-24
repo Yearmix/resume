@@ -15,9 +15,9 @@
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-ROMA KG +
-Ostpreußenstraße 9 +
-89331 Burgau +
+Funkinform Informations- und Datentechnik GmbH +
+Rudolf-Plank-Str. 31 +
+76275 Ettlingen +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -37,28 +37,22 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung als Senior / Junior Softwareentwickler .NET (m/w/d) +
-Referenznummer: 13644-290755-S
+Bewerbung um Ihre Stelle als Software-Entwickler C#/.NET (m/w/d) +
+Referenznummer: 10001-1002981040-S
 
-Sehr geehrte Frau Bender,
+Sehr geehrter Herr Heimann,
 
-Ihre Stellenanzeige auf Ihrer Website hat mich sofort angesprochen. Sie suchen einen lösungsorientierten Senior-Entwickler, der das „MITeinander“ lebt und hochmoderne .NET- und Web-Anwendungen vor Ort mitgestaltet. Genau dies beschreibt meine Philosophie sowie meine langjährige Berufserfahrung, die ich nun als nächsten Schritt meiner Karriere in Deutschland bei der ROMA KG einbringen möchte. Die von Ihnen beschriebene Unternehmenskultur, die von echtem Teamgeist und Raum für Eigenverantwortung geprägt ist, motiviert mich sehr.
+Ihre Stellenanzeige für die Weiterentwicklung Ihres Verlagssystems DIALOG hat mich sehr angesprochen. Sie suchen einen erfahrenen Entwickler für die Erstellung von Web- und Windows-Anwendungen auf Basis von C#/.NET sowie modernen Oberflächen-Technologien. Genau dies beschreibt meine langjährige Berufserfahrung und die Tätigkeit, die ich als nächsten Schritt meiner Karriere in Deutschland anstrebe.
 
-Mit fast 20 Jahren Erfahrung im Bereich Software Engineering für namhafte, multinationale Unternehmen (darunter Projekte für Microsoft und SimCorp) decke ich Ihr Anforderungsprofil optimal ab. Ich war über den gesamten Software-Lifecycle hinweg an der Konzeption, Architektur und Optimierung komplexer Client-Server- und Webanwendungen beteiligt.
+Die von Ihnen beschriebenen abwechslungsreichen Aufgaben in einem kollegialen Team mit flachen Hierarchien und dem nötigen Gestaltungsspielraum motivieren mich sehr. Ich möchte meine Expertise gerne einbringen, um die crossmediale Zukunft der Medienbranche bei Funkinform aktiv mitzugestalten.
 
-Ein Auszug aus meiner Expertise, die perfekt zu Ihren Technologien passt:
+Mit fast 20 Jahren Erfahrung im Bereich Software Engineering und Tätigkeiten für namhafte internationale Unternehmen wie Microsoft, Carbonite und SimCorp war ich umfassend an der Entwicklung, dem Design und der Optimierung komplexer Client-Server- sowie Webanwendungen beteiligt. Ich bringe fundiertes Know-how in C#, .NET (bis .NET 6), ASP.NET MVC, Windows-Anwendungen (WPF/WinForms) sowie Microsoft SQL Server mit. Durch meine flexiblen Full-Stack- und DevOps-Kenntnisse (darunter TypeScript, Angular und Python) bin ich es gewohnt, mich schnell in neue Technologien wie .NET MAUI einzuarbeiten und plattformübergreifende Lösungen voranzutreiben.
 
-NET & Architektur: Fundiertes Know-how in C#, .NET Core, ASP.NET MVC, WPF sowie der Cloud-Anbindung via Microsoft Azure.
+Aufgrund der Situation in meinem Heimatland bin ich als Flüchtling nach Deutschland gekommen. Während meiner ersten Zeit hier habe ich mich intensiv auf die Integration und den Erwerb der Sprache konzentriert. Mittlerweile verfüge ich über das B1-Zertifikat in Deutsch und baue meine Kenntnisse kontinuierlich weiter aus, um das von Ihnen gewünschte B2-Niveau kurzfristig und sicher zu festigen. Da ich fließend Englisch spreche und stets in multinationalen Kontexten gearbeitet habe, kann ich mich problemlos und effektiv in Ihr Team einfügen.
 
-Webentwicklung & Datenbanken: Langjährige Erfahrung mit HTML5, JavaScript, Entity Framework sowie der Optimierung relationaler Datenbanksysteme (MS SQL, Oracle, PostgreSQL).
+Um Ihnen die Gelegenheit zu geben, sich von meiner fachlichen Kompetenz, meiner systematischen Herangehensweise und meiner Zuverlässigkeit zu überzeugen, stünde ich Ihnen gerne auch im Rahmen einer Probezeit oder einer kurzen Probearbeit zur Verfügung.
 
-Qualitätsbewusstsein: Fundierte Praxis in agilen Methoden (Scrum), automatisierter Testdurchführung (Unit Testing, XUnit, NSubstitute) und Microsoft DevOps-Tools (CI/CD, Git).
-
-Aufgrund der Situation in meinem Heimatland bin ich als Flüchtling nach Deutschland gekommen. In der ersten Zeit habe ich mich intensiv auf meine Integration und den Spracherwerb konzentriert und verfüge mittlerweile über das B1-Zertifikat in Deutsch. Da ich fließend Englisch spreche und immer in internationalen Teams gearbeitet habe, zeichnen mich eine sehr gute Kommunikationsfähigkeit und Flexibilität aus.
-
-Ich schätze die Arbeit im Team vor Ort sehr und der Standort Ludwigshafen ist von meinem Wohnort Speyer aus hervorragend für mich erreichbar. Um Ihnen die Gelegenheit zu geben, sich von meiner fachlichen Kompetenz und meiner selbstständigen Arbeitsweise zu überzeugen, stehe ich Ihnen gerne auch im Rahmen einer kurzen Probearbeit zur Verfügung.
-
-Meine Gehaltsvorstellung liegt bei mindestens 50.700 € brutto pro Jahr, da ich plane, meinen Aufenthaltsstatus auf eine Blue Card umzustellen. Ich bin bereit, die Tätigkeit sofort aufzunehmen.
+Meine Gehaltsvorstellung liegt bei mindestens 50.700 € brutto pro Jahr, da ich plane, meinen Aufenthaltsstatus auf eine Blue Card umzustellen und langfristig in Deutschland zu bleiben. Da ich in Speyer ansässig bin, ist der Standort Ettlingen für mich gut erreichbar – zudem kommt mir Ihr Angebot von Mobile Office sehr entgegen. Ich bin bereit, die Tätigkeit sofort aufzunehmen.
 
 Über die Gelegenheit, meine Qualifikationen und meine Motivation in einem persönlichen Gespräch mit Ihnen zu besprechen, freue ich mich sehr.
 
