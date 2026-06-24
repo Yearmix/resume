@@ -15,9 +15,9 @@
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-MVV Energie AG +
-Luisenring 49 +
-68159 Mannheim-Innenstadt/Jungbusch +
+ROMA KG +
+Ostpreußenstraße 9 +
+89331 Burgau +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -37,22 +37,28 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung um Ihre Stelle als Applications Expert für .NET-Entwicklung (m/w/d) +
-Referenznummer: 13644-308157-S
+Bewerbung als Senior / Junior Softwareentwickler .NET (m/w/d) +
+Referenznummer: 13644-290755-S
 
-Sehr geehrte Damen und Herren,
+Sehr geehrte Frau Bender,
 
-Ihre Stellenanzeige für die Gruppe Business Intelligence am Standort Mannheim hat mich sehr angesprochen. Sie suchen einen lösungsorientierten Applications Expert für die Konzeption, Umsetzung und technologische Weiterentwicklung von individuellen Anwendungen auf Basis von C# und .NET. Genau dies beschreibt meine bisherige Position und langjährige Berufserfahrung in der Ukraine sowie die Tätigkeit, die ich als nächsten Schritt meiner Karriere in Deutschland anstrebe.
+Ihre Stellenanzeige auf Ihrer Website hat mich sofort angesprochen. Sie suchen einen lösungsorientierten Senior-Entwickler, der das „MITeinander“ lebt und hochmoderne .NET- und Web-Anwendungen vor Ort mitgestaltet. Genau dies beschreibt meine Philosophie sowie meine langjährige Berufserfahrung, die ich nun als nächsten Schritt meiner Karriere in Deutschland bei der ROMA KG einbringen möchte. Die von Ihnen beschriebene Unternehmenskultur, die von echtem Teamgeist und Raum für Eigenverantwortung geprägt ist, motiviert mich sehr.
 
-Die von Ihnen beschriebene Unternehmenskultur – geprägt von Nachhaltigkeit, Digitalisierung und einem wertschätzenden Miteinander in einem zukunftsorientierten IT-Umfeld – motiviert mich sehr. Ich möchte meine Expertise gerne einbringen, um die intelligente IT-Landschaft Ihres Unternehmens aktiv mitzugestalten.
+Mit fast 20 Jahren Erfahrung im Bereich Software Engineering für namhafte, multinationale Unternehmen (darunter Projekte für Microsoft und SimCorp) decke ich Ihr Anforderungsprofil optimal ab. Ich war über den gesamten Software-Lifecycle hinweg an der Konzeption, Architektur und Optimierung komplexer Client-Server- und Webanwendungen beteiligt.
 
-Mit fast 20 Jahren Erfahrung im Bereich Software Engineering und Tätigkeiten für namhafte Unternehmen wie Microsoft, Carbonite und SimCorp war ich umfassend an der Entwicklung, dem Design und der Optimierung komplexer Client-Server- sowie Webanwendungen beteiligt. Ich bringe fundiertes Know-how in C#, .NET, der Gestaltung von IT-Architekturen und Datenmodellen (u.a. MS SQL, Oracle, PostgreSQL) mit. Zudem verfüge ich über praktische Erfahrung im Bereich der User-Interfaces mit Angular sowie in der agilen Softwareentwicklung nach Scrum.
+Ein Auszug aus meiner Expertise, die perfekt zu Ihren Technologien passt:
 
-Aufgrund der Situation in meinem Heimatland bin ich als Flüchtling nach Deutschland gekommen. Während meiner ersten Zeit hier habe ich mich intensiv auf die Integration und den Erwerb der Sprache konzentriert. Mittlerweile verfüge ich über das B1-Zertifikat in Deutsch. Da ich fließend Englisch spreche und in der Vergangenheit stets in multinationalen Kontexten gearbeitet habe, kann ich mich problemlos und effektiv in Ihr Team einfügen.
+NET & Architektur: Fundiertes Know-how in C#, .NET Core, ASP.NET MVC, WPF sowie der Cloud-Anbindung via Microsoft Azure.
 
-Ich bin überzeugt, dass meine Erfahrung den Anforderungen Ihrer Position vollständig entspricht. Um Ihnen die Gelegenheit zu geben, sich von meiner fachlichen Kompetenz, meiner systematischen Herangehensweise und meiner Zuverlässigkeit zu überzeugen, stünde ich Ihnen gerne auch im Rahmen einer Probezeit oder einer kurzen Probearbeit zur Verfügung.
+Webentwicklung & Datenbanken: Langjährige Erfahrung mit HTML5, JavaScript, Entity Framework sowie der Optimierung relationaler Datenbanksysteme (MS SQL, Oracle, PostgreSQL).
 
-Meine Gehaltsvorstellung liegt bei mindestens 50.700 € brutto pro Jahr, da ich plane, meinen Aufenthaltsstatus auf eine Blue Card umzustellen und langfristig in Deutschland zu bleiben. Da ich in Speyer ansässig bin, ist der Standort Mannheim für mich sehr gut erreichbar – zudem kommt mir Ihr Angebot des mobilen Arbeitens und der flexiblen Arbeitszeiten sehr entgegen. Ich bin bereit, die Tätigkeit sofort aufzunehmen.
+Qualitätsbewusstsein: Fundierte Praxis in agilen Methoden (Scrum), automatisierter Testdurchführung (Unit Testing, XUnit, NSubstitute) und Microsoft DevOps-Tools (CI/CD, Git).
+
+Aufgrund der Situation in meinem Heimatland bin ich als Flüchtling nach Deutschland gekommen. In der ersten Zeit habe ich mich intensiv auf meine Integration und den Spracherwerb konzentriert und verfüge mittlerweile über das B1-Zertifikat in Deutsch. Da ich fließend Englisch spreche und immer in internationalen Teams gearbeitet habe, zeichnen mich eine sehr gute Kommunikationsfähigkeit und Flexibilität aus.
+
+Ich schätze die Arbeit im Team vor Ort sehr und der Standort Ludwigshafen ist von meinem Wohnort Speyer aus hervorragend für mich erreichbar. Um Ihnen die Gelegenheit zu geben, sich von meiner fachlichen Kompetenz und meiner selbstständigen Arbeitsweise zu überzeugen, stehe ich Ihnen gerne auch im Rahmen einer kurzen Probearbeit zur Verfügung.
+
+Meine Gehaltsvorstellung liegt bei mindestens 50.700 € brutto pro Jahr, da ich plane, meinen Aufenthaltsstatus auf eine Blue Card umzustellen. Ich bin bereit, die Tätigkeit sofort aufzunehmen.
 
 Über die Gelegenheit, meine Qualifikationen und meine Motivation in einem persönlichen Gespräch mit Ihnen zu besprechen, freue ich mich sehr.
 
