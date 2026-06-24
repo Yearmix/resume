@@ -15,9 +15,9 @@
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-TARGOBANK AG +
-Harry-Epstein-Platz 5 +  
-47051 Duisburg +
+Krannich Group GmbH +
+Heimsheimer Str. 65-1 +
+71263 Weil der Stadt +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -37,24 +37,22 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung um Ihre Stelle als Senior Softwareentwickler C# (w/m/d) +
-Referenznummer: 118610
+Bewerbung um Ihre Stelle als ERP Softwareentwickler m/w/d +
+Referenznummer: 10000-1206574047-S
 
 Sehr geehrte Damen und Herren,
 
-Ihre Stellenanzeige auf der Website der Bundesagentur für Arbeit hat mich sehr angesprochen. Sie suchen einen lösungsorientierten Senior-Entwickler für die internationale Zusammenarbeit an anspruchsvollen IT-Projekten auf Basis von .NET und C# im Microsoft-Systemumfeld. Genau dies beschreibt meine bisherige Position und langjährige Berufserfahrung in der Ukraine sowie die Tätigkeit, die ich als nächsten Schritt meiner Karriere in Deutschland anstrebe.
+Ihre Stellenanzeige auf Ihrer Karriereseite hat mich sehr angesprochen. Sie suchen einen lösungsorientierten Softwareentwickler für die globale Weiterentwicklung Ihrer IT-Landschaft, der Digitalisierung von Geschäftsprozessen und der Optimierung Ihrer ERP-Systeme auf Basis von C# und SQL. Genau dies beschreibt meine bisherige Position, meine langjährige Berufserfahrung sowie die Tätigkeit, die ich als nächsten Schritt meiner Karriere in Deutschland anstrebe.
 
-Die von Ihnen beschriebene Unternehmenskultur der Targobank – geprägt von Offenheit, Vielfalt und einem wertschätzenden Miteinander in einem internationalen Team – motiviert mich sehr. Ich möchte meine Expertise gerne einbringen, um die digitale Zukunft Ihrer Bank aktiv mitzugestalten.
+Die von Ihnen beschriebene Unternehmenskultur bei Krannich Solar – geprägt von einem starken Teamgeist für 100 % erneuerbare Energien, Vertrauen, Respekt und einem wertschätzenden Miteinander – motiviert mich sehr. Ich möchte meine Expertise gerne einbringen, um die digitale Zukunft Ihres global agierenden Unternehmens aktiv mitzugestalten.
 
-Mit fast 20 Jahren Erfahrung im Bereich Software Engineering und Tätigkeiten für namhafte Unternehmen wie Microsoft, Carbonite und SimCorp war ich umfassend an der Entwicklung, dem Design und der Optimierung komplexer Client-Server- sowie Webanwendungen beteiligt. Ich bringe fundiertes Know-how in C#, .NET (bis .NET 6), ASP.NET MVC, WPF sowie MS SQL mit. In meinen letzten Projekten konnte ich zudem bedeutende Ergebnisse im Bereich der Systemarchitektur, der Testautomatisierung sowie beim Deployment in modernen Cloud- und Container-Umgebungen (Azure, Kubernetes, Docker) erzielen.
+Mit fast 20 Jahren Erfahrung im Bereich Software Engineering und Tätigkeiten für namhafte internationale Unternehmen wie Microsoft, Carbonite und SimCorp war ich umfassend an der Entwicklung, dem Design und der Optimierung komplexer Client-Server- sowie Webanwendungen beteiligt. Ich bringe fundierte Kenntnisse in der objektorientierten Entwicklung mit C#, .NET und MS SQL mit. In meinen früheren Positionen (unter anderem für die Retail-Management-Software bei TAS-Pharma) habe ich bereits tiefgehende Erfahrungen mit ERP-nahen Systemen, der Erstellung von SQL-Reports sowie dem Aufbau und der Implementierung von API-Schnittstellen zur Systemintegration gesammelt. Auch der Umgang mit Azure DevOps und Git gehört für mich zum täglichen Standard.
 
-Aufgrund der Situation in meinem Heimatland bin ich als Flüchtling nach Deutschland umgezogen. Während meiner ersten Zeit hier habe ich mich intensiv auf die Integration und den Erwerb der Sprache konzentriert. Mittlerweile verfüge ich über das B1-Zertifikat in Deutsch. Da ich fließend Englisch spreche und in der Vergangenheit stets in multinationalen Kontexten gearbeitet habe, kann ich mich problemlos und effektiv in Ihr internationales IT-Team mit Kollegen aus rund 40 Nationen einfügen.
+Aufgrund der Situation in meinem Heimatland bin ich als Flüchtling nach Deutschland gekommen. Während meiner ersten Zeit hier habe ich mich intensiv auf die Integration und den Erwerb der Sprache konzentriert. Mittlerweile verfüge ich über das B1-Zertifikat in Deutsch. Da ich fließend Englisch spreche und in der Vergangenheit stets in multinationalen Kontexten gearbeitet habe, kann ich mich problemlos und effektiv in Ihr globales Team einfügen und als starker Sparringspartner für Ihre weltweiten Niederlassungen agieren.
 
 Ich bin überzeugt, dass meine Erfahrung den Anforderungen Ihrer Position vollständig entspricht. Um Ihnen die Gelegenheit zu geben, sich von meiner fachlichen Kompetenz, meiner systematischen Herangehensweise und meiner Zuverlässigkeit zu überzeugen, stünde ich Ihnen gerne auch im Rahmen einer Probezeit oder einer kurzen Probearbeit zur Verfügung.
 
-Meine Gehaltsvorstellung liegt bei mindestens 50.700 € brutto pro Jahr, da ich plane, meinen Aufenthaltsstatus auf eine Blue Card umzustellen und langfristig in Deutschland zu bleiben.
-
-Da ich in Speyer ansässig bin, ist der Standort Mainz für mich gut erreichbar – zudem kommt mir Ihr Angebot des Flex Office mit bis zu 50 % hybridem Arbeiten sehr entgegen. Ich bin bereit, die Tätigkeit sofort aufzunehmen.
+Meine Gehaltsvorstellung liegt bei mindestens 50.700 € brutto pro Jahr, da ich plane, meinen Aufenthaltsstatus auf eine Blue Card umzustellen und langfristig in Deutschland zu bleiben. Da ich in Speyer ansässig bin, kommt mir Ihr flexibles Angebot aus Präsenzzeit und Home-Office sehr entgegen. Ich bin bereit, die Tätigkeit sofort aufzunehmen.
 
 Über die Gelegenheit, meine Qualifikationen und meine Motivation in einem persönlichen Gespräch mit Ihnen zu besprechen, freue ich mich sehr.
 
