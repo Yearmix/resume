@@ -15,9 +15,9 @@
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-Exxeta AG +
-Stockholmer Pl. 1 +
-70173 Stuttgart +
+DRK-Blutspendedienst Baden-Württemberg - Hessen gemeinnützige GmbH +
+Friedrich-Ebert-Straße 107 +
+68167 Mannheim +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -37,22 +37,30 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung um Ihre Stelle als Senior Softwareentwickler C# (w/m/d) +
-Referenznummer: 13644-280106-S
+Bewerbung als Anwendungsentwickler / Full Stack Developer (m/w/d) +
+Referenz / Standort: Mannheim
 
-Sehr geehrte Frau Bromm,
+Sehr geehrter Herr Breuninger,
 
-Ihre Stellenanzeige auf Ihrer Website hat mich sofort angesprochen. Sie suchen einen leidenschaftlichen Senior-Entwickler für das Microsoft-Umfeld, der anspruchsvolle Softwarelösungen konzipiert, die neuesten Frameworks beherrscht und Lust darauf hat, neue technologische Themen aktiv mitzugestalten. Genau dies beschreibt meine bisherige Position und langjährige Berufserfahrung in der Ukraine sowie die Tätigkeit, die ich als nächsten Schritt meiner Karriere in Deutschland anstrebe.
+Ihre Stellenanzeige auf Ihrer Website hat mich sofort angesprochen. Die Vorstellung, meine langjährige IT-Expertise in ein Unternehmen einzubringen, das eine so hohe gesellschaftliche Verantwortung trägt und täglich Lebenshilfe leistet, motiviert mich außerordentlich. Sie suchen einen vielseitigen Full-Stack-Entwickler, der moderne Softwarelösungen auf Basis von C# und ASP.NET Core realisiert – genau dies deckt sich mit meinem Profil und meiner tiefen Leidenschaft für performanten Code.
 
-Die von Ihnen beschriebene Unternehmenskultur bei Exxeta – geprägt von Teamspirit, Neugier, gestalterischen Freiheiten und dem Anspruch, echten Impact zu schaffen („Hightech with a heartbeat“) – motiviert mich sehr. Ich möchte meine Expertise gerne einbringen, um digitale Lösungen für Ihre Kunden aktiv mitzugestalten.
+Mit fast 20 Jahren Berufserfahrung im Software Engineering – darunter Tätigkeiten für namhafte internationale Unternehmen wie Microsoft, Carbonite und SimCorp – bringe ich umfassendes Know-how in der gesamten Entwicklungskette von Client-Server- und Webanwendungen mit.
 
-Mit fast 20 Jahren Erfahrung im Bereich Software Engineering und Tätigkeiten für namhafte, multinationale Unternehmen wie Microsoft, Carbonite und SimCorp war ich umfassend an der Entwicklung, dem Design und der Optimierung komplexer Client-Server-, Desktop- (WPF) und Webanwendungen (ASP.NET MVC / Core) beteiligt. Methodenkompetenzen in OOA/OOD, agilen Prozessen (Scrum, XP) und ein extrem hoher Qualitätsanspruch (u.a. durch tiefgehende Testautomatisierung mit NUnit/XUnit) sind für mich selbstverständlich. In meinen letzten Projekten als Observability Developer konnte ich zudem fundierte Erfolge in modernen Cloud- und Container-Umgebungen (Azure, Kubernetes, Docker, Terraform) erzielen und bin hochgradig motiviert, mich in Zukunft auch tiefer in die Integration von LLM-/AI-Services einzubringen.
+Die von Ihnen genannten Anforderungen passen perfekt zu meinen Kernkompetenzen:
 
-Aufgrund der Situation in meinem Heimatland bin ich vor einiger Zeit als Flüchtling nach Deutschland gekommen. Hier habe ich mich intensiv auf den Erwerb der Sprache konzentriert und verfüge mittlerweile über das B1-Zertifikat in Deutsch. Da ich fließend Englisch spreche und stets in internationalen Kontexten gearbeitet habe, werde ich mich problemlos und effektiv in Ihre Teams einfügen.
+Backend & Datenbanken: Ich bin hochgradig versiert in C#, .NET (bis .NET 6) und ASP.NET Core sowie im Umgang mit Web-APIs. Zudem besitze ich fundierte Praxiserfahrung mit relationalen Datenbanken wie Oracle und der Anbindung über Entity Framework.
 
-Ich bin flexibel, bringe die geforderte Reisebereitschaft für die Beratung Ihrer Kunden vor Ort mit und kann die Tätigkeit sofort aufnehmen. Meine Gehaltsvorstellung liegt bei mindestens 50.700 € brutto pro Jahr, da ich plane, meinen Aufenthaltsstatus auf eine Blue Card umzustellen. Um Ihnen die Gelegenheit zu geben, sich von meiner fachlichen Kompetenz und Zuverlässigkeit zu überzeugen, stünde ich Ihnen gerne auch im Rahmen einer kurzen Probearbeit zur Verfügung.
+Frontend & UI: Durch meine Arbeit an verschiedenen Projekten bin ich bestens mit modernen Frontend-Technologien vertraut, insbesondere mit TypeScript und Angular.
 
-Über die Gelegenheit, meine Qualifikationen und meine Motivation in einem persönlichen Gespräch mit Ihnen zu besprechen, freue ich mich sehr.
+Qualitätssicherung & DevOps: Clean Code und automatisierte Tests (u.a. mit NUnit und XUnit) sind für mich selbstverständlich. Auch die enge Zusammenarbeit mit QA- und DevOps-Teams (Docker, Kubernetes) gehört seit Jahren zu meinem Alltag.
+
+Aufgrund der Situation in meinem Heimatland bin ich vor einiger Zeit als Flüchtling aus der Ukraine nach Deutschland gekommen. Ich habe mich hier sofort intensiv auf meine Integration konzentriert und das B1-Zertifikat in Deutsch erworben. Da ich fließend Englisch spreche und immer in multinationalen Kontexten gearbeitet habe, kann ich mich schnell und produktiv in Ihr Team einbringen.
+
+Da ich in Speyer ansässig bin, ist der Standort Mannheim für mich hervorragend erreichbar. Die von Ihnen angebotene Vergütung nach dem TV-L EG 11 entspricht voll und ganz meinen Vorstellungen, um meinen Aufenthaltsstatus langfristig auf eine Blue Card umzustellen und meine Zukunft in Deutschland zu sichern. Ich bin bereit, die Tätigkeit ab sofort aufzunehmen.
+
+Um Sie von meiner fachlichen Qualifikation und meiner strukturierten Arbeitsweise zu überzeugen, stehe ich Ihnen gerne auch für eine kurze Probearbeit zur Verfügung.
+
+Über die Gelegenheit, mich Ihnen in einem persönlichen oder virtuellen Gespräch vorzustellen, freue ich mich sehr.
 
 [%unbreakable] 
 --
