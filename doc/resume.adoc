@@ -15,9 +15,10 @@
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-DRK-Blutspendedienst Baden-Württemberg - Hessen gemeinnützige GmbH +
-Friedrich-Ebert-Straße 107 +
-68167 Mannheim +
+Computer Futures +
+Querstrasse 7 +
+7. OG +
+60322 Frankfurt am Main +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -37,30 +38,32 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung als Anwendungsentwickler / Full Stack Developer (m/w/d) +
-Referenz / Standort: Mannheim
+Bewerbung als Senior .NET Entwickler (m/w/d) +
+Referenz / Ansprechpartner: Andreas Steck (Computer Futures)
 
-Sehr geehrter Herr Breuninger,
+Sehr geehrter Herr Steck,
 
-Ihre Stellenanzeige auf Ihrer Website hat mich sofort angesprochen. Die Vorstellung, meine langjährige IT-Expertise in ein Unternehmen einzubringen, das eine so hohe gesellschaftliche Verantwortung trägt und täglich Lebenshilfe leistet, motiviert mich außerordentlich. Sie suchen einen vielseitigen Full-Stack-Entwickler, der moderne Softwarelösungen auf Basis von C# und ASP.NET Core realisiert – genau dies deckt sich mit meinem Profil und meiner tiefen Leidenschaft für performanten Code.
+Ihre Stellenanzeige für die Position als Senior .NET Entwickler im Bereich der industriellen Automatisierung hat mich sehr angesprochen. Sie suchen einen lösungsorientierten Senior-Entwickler, der sowohl die Neu- und Weiterentwicklung moderner Client/Server- und Webanwendungen als auch die Modernisierung und Migration bestehender Systeme im internationalen Kontext übernimmt. Genau dies beschreibt meine langjährige Berufserfahrung sowie die Tätigkeit, die ich als nächsten Schritt meiner Karriere in Deutschland anstrebe.
 
-Mit fast 20 Jahren Berufserfahrung im Software Engineering – darunter Tätigkeiten für namhafte internationale Unternehmen wie Microsoft, Carbonite und SimCorp – bringe ich umfassendes Know-how in der gesamten Entwicklungskette von Client-Server- und Webanwendungen mit.
+Die von Ihnen beschriebene Aufgabe – die Entwicklung zukunftssicherer Softwarelösungen von der maschinennahen Steuerung bis hin zu komplexen Systemlandschaften – motiviert mich sehr. Ich möchte meine Expertise gerne einbringen, um die Projekte Ihres Mandanten in der Prozess- und Fertigungsindustrie aktiv mitzugestalten.
 
-Die von Ihnen genannten Anforderungen passen perfekt zu meinen Kernkompetenzen:
+Mit fast 20 Jahren Erfahrung im Bereich Software Engineering bringe ich ein fundiertes und vielseitiges Know-how mit, das optimal zu Ihrem technischen Umfeld passt:
 
-Backend & Datenbanken: Ich bin hochgradig versiert in C#, .NET (bis .NET 6) und ASP.NET Core sowie im Umgang mit Web-APIs. Zudem besitze ich fundierte Praxiserfahrung mit relationalen Datenbanken wie Oracle und der Anbindung über Entity Framework.
+Architektur & Entwicklung: Ich bin hochgradig erfahren in der Entwicklung von Client/Server- und Webanwendungen mittels C#, .NET (Framework bis .NET 6) sowie ASP.NET und WPF/WinForms (unter intensivem Einsatz von DevExpress).
 
-Frontend & UI: Durch meine Arbeit an verschiedenen Projekten bin ich bestens mit modernen Frontend-Technologien vertraut, insbesondere mit TypeScript und Angular.
+Datenbankdesign: Durch meine Arbeit in multinationalen Projekten besitze ich tiefgehende Kenntnisse im Datenbankdesign und der Optimierung (Stored Procedures, Trigger, Plan-Profiling) sowohl mit MS SQL Server als auch mit Oracle (PL/SQL).
 
-Qualitätssicherung & DevOps: Clean Code und automatisierte Tests (u.a. mit NUnit und XUnit) sind für mich selbstverständlich. Auch die enge Zusammenarbeit mit QA- und DevOps-Teams (Docker, Kubernetes) gehört seit Jahren zu meinem Alltag.
+Modernisierung & Migration: Da ich in der Vergangenheit unter anderem mit C++ (MFC/Qt) gearbeitet habe, bin ich bestens mit Legacy-Strukturen vertraut und bringe das nötige Verständnis mit, um bestehende Anwendungen erfolgreich nach C# zu migrieren.
 
-Aufgrund der Situation in meinem Heimatland bin ich vor einiger Zeit als Flüchtling aus der Ukraine nach Deutschland gekommen. Ich habe mich hier sofort intensiv auf meine Integration konzentriert und das B1-Zertifikat in Deutsch erworben. Da ich fließend Englisch spreche und immer in multinationalen Kontexten gearbeitet habe, kann ich mich schnell und produktiv in Ihr Team einbringen.
+Zukunftstechnologien: Auch mit den von Ihnen als Zukunftsprojekte genannten Technologien wie Go und PostgreSQL sowie modernen Container-Umgebungen (Docker, Kubernetes) habe ich in meinen letzten Projekten bereits erfolgreich gearbeitet.
 
-Da ich in Speyer ansässig bin, ist der Standort Mannheim für mich hervorragend erreichbar. Die von Ihnen angebotene Vergütung nach dem TV-L EG 11 entspricht voll und ganz meinen Vorstellungen, um meinen Aufenthaltsstatus langfristig auf eine Blue Card umzustellen und meine Zukunft in Deutschland zu sichern. Ich bin bereit, die Tätigkeit ab sofort aufzunehmen.
+Aufgrund der Situation in meinem Heimatland bin ich als Flüchtling nach Deutschland gekommen. Während meiner ersten Zeit hier habe ich mich intensiv auf den Erwerb der Sprache konzentriert und verfüge mittlerweile über das B1-Zertifikat in Deutsch. Da ich fließend Englisch spreche und in der Vergangenheit stets in multinationalen Kontexten für namhafte Unternehmen wie Microsoft und SimCorp tätig war, kann ich mich problemlos und effektiv in ein internationales Team einfügen. Meine ausgeprägte Kommunikationsstärke und Reisebereitschaft runden mein Profil ab.
 
-Um Sie von meiner fachlichen Qualifikation und meiner strukturierten Arbeitsweise zu überzeugen, stehe ich Ihnen gerne auch für eine kurze Probearbeit zur Verfügung.
+Um Ihnen und Ihrem Mandanten die Gelegenheit zu geben, sich von meiner fachlichen Kompetenz, meiner systematischen Herangehensweise und meiner Zuverlässigkeit zu überzeugen, stünde ich Ihnen gerne auch im Rahmen einer kurzen Probearbeit zur Verfügung.
 
-Über die Gelegenheit, mich Ihnen in einem persönlichen oder virtuellen Gespräch vorzustellen, freue ich mich sehr.
+Die Rahmenbedingungen der Stelle passen ideal zu meiner Lebensplanung: Der Standort Viernheim ist von meinem Wohnort Speyer aus sehr gut erreichbar, und das Modell mit 3 Tagen vor Ort sowie 2 Tagen Remote kommt mir sehr entgegen. Da ich plane, meinen Aufenthaltsstatus auf eine Blue Card umzustellen und langfristig in Deutschland zu bleiben, entspricht der angegebene Gehaltsrahmen von bis zu 85.000 € brutto pro Jahr meinen Vorstellungen bei einem optimalen Fit. Ich bin bereit, die Tätigkeit kurzfristig aufzunehmen.
+
+Über die Gelegenheit, meine Qualifikationen in einem persönlichen Gespräch oder Telefonat mit Ihnen zu besprechen, freue ich mich sehr.
 
 [%unbreakable] 
 --
