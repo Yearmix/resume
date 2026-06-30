@@ -15,10 +15,9 @@
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-Computer Futures +
-Querstrasse 7 +
-7. OG +
-60322 Frankfurt am Main +
+engineering people GmbH Mannheim +
+Karl-Ludwig-Str. 23 +
+68165 Mannheim +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -38,32 +37,28 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung als Senior .NET Entwickler (m/w/d) +
-Referenz / Ansprechpartner: Andreas Steck (Computer Futures)
+Bewerbung um Ihre Stelle als Softwareentwickler C#/.NET (m/w/d) +
+Stellennummer: DU1382060
 
-Sehr geehrter Herr Steck,
+Sehr geehrter Herr Hemberger,
 
-Ihre Stellenanzeige für die Position als Senior .NET Entwickler im Bereich der industriellen Automatisierung hat mich sehr angesprochen. Sie suchen einen lösungsorientierten Senior-Entwickler, der sowohl die Neu- und Weiterentwicklung moderner Client/Server- und Webanwendungen als auch die Modernisierung und Migration bestehender Systeme im internationalen Kontext übernimmt. Genau dies beschreibt meine langjährige Berufserfahrung sowie die Tätigkeit, die ich als nächsten Schritt meiner Karriere in Deutschland anstrebe.
+Ihre Stellenanzeige hat mich sehr angesprochen. Sie suchen einen lösungsorientierten Softwareentwickler für die Entwicklung von anspruchsvollen Systemen, Cyber-Security-Anwendungen und die Verarbeitung von Satellitendaten auf Basis von C# und .NET. Genau dies matcht mit meiner bisherigen Position und langjährigen Berufserfahrung, die ich als nächsten Schritt meiner Karriere in Deutschland einbringen möchte.
 
-Die von Ihnen beschriebene Aufgabe – die Entwicklung zukunftssicherer Softwarelösungen von der maschinennahen Steuerung bis hin zu komplexen Systemlandschaften – motiviert mich sehr. Ich möchte meine Expertise gerne einbringen, um die Projekte Ihres Mandanten in der Prozess- und Fertigungsindustrie aktiv mitzugestalten.
+Mit fast 20 Jahren Erfahrung im Bereich Software Engineering und Tätigkeiten für namhafte, multinationale Unternehmen wie Microsoft, Carbonite und SimCorp war ich umfassend an der Entwicklung, dem Design und der Optimierung komplexer Softwarelösungen beteiligt. Mein Studium mit dem Schwerpunkt Anwendungsprogrammierung (Bachelor) bildet das solide Fundament meiner Karriere. Ich bringe tiefgehendes Know-how in der objektorientierten Softwareentwicklung mit C# und .NET mit.
 
-Mit fast 20 Jahren Erfahrung im Bereich Software Engineering bringe ich ein fundiertes und vielseitiges Know-how mit, das optimal zu Ihrem technischen Umfeld passt:
+Die von Ihnen beschriebenen Aufgaben spiegeln mein bisheriges Tätigkeitsfeld perfekt wider:
 
-Architektur & Entwicklung: Ich bin hochgradig erfahren in der Entwicklung von Client/Server- und Webanwendungen mittels C#, .NET (Framework bis .NET 6) sowie ASP.NET und WPF/WinForms (unter intensivem Einsatz von DevExpress).
+Entwicklung & Datenverarbeitung: In meinen letzten Projekten im Bereich Observability habe ich mich intensiv mit der Verarbeitung, dem Abgleich und dem Benchmarking großer Telemetrie- und Datenströme befasst, was mir den Einstieg in die Verarbeitung von Satellitendaten erleichtern wird.
 
-Datenbankdesign: Durch meine Arbeit in multinationalen Projekten besitze ich tiefgehende Kenntnisse im Datenbankdesign und der Optimierung (Stored Procedures, Trigger, Plan-Profiling) sowohl mit MS SQL Server als auch mit Oracle (PL/SQL).
+Qualitätssicherung & Code-Reviews: Die Durchführung von Code-Reviews, die Fehleranalyse (Debugging) und die kontinuierliche Optimierung bestehender Systeme gehören seit Jahren zu meiner täglichen Praxis.
 
-Modernisierung & Migration: Da ich in der Vergangenheit unter anderem mit C++ (MFC/Qt) gearbeitet habe, bin ich bestens mit Legacy-Strukturen vertraut und bringe das nötige Verständnis mit, um bestehende Anwendungen erfolgreich nach C# zu migrieren.
+Testing & Validierung: Ich verfüge über fundierte Erfahrung in der Erstellung von Unit-Tests (u. a. mit NUnit, XUnit, Moq, NSubstitute) sowie in der Testautomatisierung. Erste Kenntnisse in der Anforderungsanalyse (unter Nutzung der UML-Methodik) und der Softwarevalidierung runden mein Profil ab.
 
-Zukunftstechnologien: Auch mit den von Ihnen als Zukunftsprojekte genannten Technologien wie Go und PostgreSQL sowie modernen Container-Umgebungen (Docker, Kubernetes) habe ich in meinen letzten Projekten bereits erfolgreich gearbeitet.
+Aufgrund der Situation in meinem Heimatland bin ich als Flüchtling nach Deutschland gekommen. Während meiner ersten Zeit hier habe ich mich intensiv auf die Integration und den Erwerb der Sprache konzentriert. Mittlerweile verfüge ich über das B1-Zertifikat in Deutsch. Da ich fließend Englisch spreche und in der Vergangenheit stets in multinationalen Kontexten gearbeitet habe, kann ich mich problemlos und effektiv in Ihr Team einfügen und auch bei der Ausgestaltung technischer Angebote unterstützen.
 
-Aufgrund der Situation in meinem Heimatland bin ich als Flüchtling nach Deutschland gekommen. Während meiner ersten Zeit hier habe ich mich intensiv auf den Erwerb der Sprache konzentriert und verfüge mittlerweile über das B1-Zertifikat in Deutsch. Da ich fließend Englisch spreche und in der Vergangenheit stets in multinationalen Kontexten für namhafte Unternehmen wie Microsoft und SimCorp tätig war, kann ich mich problemlos und effektiv in ein internationales Team einfügen. Meine ausgeprägte Kommunikationsstärke und Reisebereitschaft runden mein Profil ab.
+Um Ihnen die Gelegenheit zu geben, sich von meiner fachlichen Kompetenz, meiner systematischen Herangehensweise und meiner Zuverlässigkeit zu überzeugen, stünde ich Ihnen gerne auch im Rahmen einer Probezeit oder einer kurzen Probearbeit zur Verfügung. Ich bin bereit, die Tätigkeit sofort aufzunehmen.
 
-Um Ihnen und Ihrem Mandanten die Gelegenheit zu geben, sich von meiner fachlichen Kompetenz, meiner systematischen Herangehensweise und meiner Zuverlässigkeit zu überzeugen, stünde ich Ihnen gerne auch im Rahmen einer kurzen Probearbeit zur Verfügung.
-
-Die Rahmenbedingungen der Stelle passen ideal zu meiner Lebensplanung: Der Standort Viernheim ist von meinem Wohnort Speyer aus sehr gut erreichbar, und das Modell mit 3 Tagen vor Ort sowie 2 Tagen Remote kommt mir sehr entgegen. Da ich plane, meinen Aufenthaltsstatus auf eine Blue Card umzustellen und langfristig in Deutschland zu bleiben, entspricht der angegebene Gehaltsrahmen von bis zu 85.000 € brutto pro Jahr meinen Vorstellungen bei einem optimalen Fit. Ich bin bereit, die Tätigkeit kurzfristig aufzunehmen.
-
-Über die Gelegenheit, meine Qualifikationen in einem persönlichen Gespräch oder Telefonat mit Ihnen zu besprechen, freue ich mich sehr.
+Über die Gelegenheit, meine Qualifikationen und meine Motivation in einem persönlichen Gespräch mit Ihnen zu besprechen, freue ich mich sehr.
 
 [%unbreakable] 
 --
