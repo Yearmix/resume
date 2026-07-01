@@ -15,9 +15,9 @@
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-engineering people GmbH Mannheim +
-Karl-Ludwig-Str. 23 +
-68165 Mannheim +
+Vesterling AG +
+Elsenheimerstraße 49 +
+80687 München +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -37,26 +37,22 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung um Ihre Stelle als Softwareentwickler C#/.NET (m/w/d) +
-Stellennummer: DU1382060
+Bewerbung als Senior Softwareentwickler C# (m/w/d) +
+Referenznummer: 23240
 
-Sehr geehrter Herr Hemberger,
+Sehr geehrte Damen und Herren,
 
-Ihre Stellenanzeige hat mich sehr angesprochen. Sie suchen einen lösungsorientierten Softwareentwickler für die Entwicklung von anspruchsvollen Systemen, Cyber-Security-Anwendungen und die Verarbeitung von Satellitendaten auf Basis von C# und .NET. Genau dies matcht mit meiner bisherigen Position und langjährigen Berufserfahrung, die ich als nächsten Schritt meiner Karriere in Deutschland einbringen möchte.
+Ihre Stellenanzeige auf dem Portal von Vesterling hat mich sehr angesprochen. Sie suchen einen erfahrenen Senior-Entwickler für die Modernisierung und Skalierung eines komplexen Softwareprodukts auf Basis des Microsoft Software Stacks. Genau dies beschreibt meine bisherige Position, meine langjährige Berufserfahrung und die Tätigkeit, die ich als nächsten Schritt meiner Karriere in Deutschland anstrebe.
 
-Mit fast 20 Jahren Erfahrung im Bereich Software Engineering und Tätigkeiten für namhafte, multinationale Unternehmen wie Microsoft, Carbonite und SimCorp war ich umfassend an der Entwicklung, dem Design und der Optimierung komplexer Softwarelösungen beteiligt. Mein Studium mit dem Schwerpunkt Anwendungsprogrammierung (Bachelor) bildet das solide Fundament meiner Karriere. Ich bringe tiefgehendes Know-how in der objektorientierten Softwareentwicklung mit C# und .NET mit.
+Die Aussicht, an einer erfolgreichen Softwarelösung mitzuwirken, deren Nachfrage durch neue EU-Gesetze weiter steigen wird, motiviert mich sehr. Ich möchte meine Expertise gerne einbringen, um die Skalierbarkeit Ihres Produkts und die Optimierung Ihrer Backend-Services aktiv mitzugestalten.
 
-Die von Ihnen beschriebenen Aufgaben spiegeln mein bisheriges Tätigkeitsfeld perfekt wider:
+Mit fast 20 Jahren Erfahrung im Bereich Software Engineering bringe ich die geforderten tiefen Kenntnisse im Microsoft-Umfeld mit. Ich bin bestens vertraut mit C#, .NET Core, Entity Framework, MS SQL, ASP.NET MVC und Web APIs. Auch im Frontend-Bereich (Angular, TypeScript, jQuery) sowie bei datenbezogener Programmierung besitze ich fundierte Praxis.
 
-Entwicklung & Datenverarbeitung: In meinen letzten Projekten im Bereich Observability habe ich mich intensiv mit der Verarbeitung, dem Abgleich und dem Benchmarking großer Telemetrie- und Datenströme befasst, was mir den Einstieg in die Verarbeitung von Satellitendaten erleichtern wird.
+Besonders gut passe ich zu Ihren Anforderungen im Bereich der Modernisierung und DevOps: In meinen letzten Projekten habe ich intensiv mit Containerisierung (Docker, Kubernetes), Microservices, CI/CD-Pipelines und der Azure-Cloud-Architektur gearbeitet. Zudem habe ich weitreichende Erfahrung in der Etablierung von Best Practices wie Clean Code, TDD, Git-Workflows und OOD-Prinzipien.
 
-Qualitätssicherung & Code-Reviews: Die Durchführung von Code-Reviews, die Fehleranalyse (Debugging) und die kontinuierliche Optimierung bestehender Systeme gehören seit Jahren zu meiner täglichen Praxis.
+Aufgrund der Situation in meinem Heimatland bin ich als Flüchtling nach Deutschland gekommen und habe mich hier intensiv auf meine Integration konzentriert. Mittlerweile verfüge ich über das B1-Zertifikat in Deutsch. Da ich fließend Englisch spreche und in der Vergangenheit stets in multinationalen Kontexten für namhafte Unternehmen gearbeitet habe, kann ich mich problemlos und effektiv in Ihr Entwicklungsteam einfügen.
 
-Testing & Validierung: Ich verfüge über fundierte Erfahrung in der Erstellung von Unit-Tests (u. a. mit NUnit, XUnit, Moq, NSubstitute) sowie in der Testautomatisierung. Erste Kenntnisse in der Anforderungsanalyse (unter Nutzung der UML-Methodik) und der Softwarevalidierung runden mein Profil ab.
-
-Aufgrund der Situation in meinem Heimatland bin ich als Flüchtling nach Deutschland gekommen. Während meiner ersten Zeit hier habe ich mich intensiv auf die Integration und den Erwerb der Sprache konzentriert. Mittlerweile verfüge ich über das B1-Zertifikat in Deutsch. Da ich fließend Englisch spreche und in der Vergangenheit stets in multinationalen Kontexten gearbeitet habe, kann ich mich problemlos und effektiv in Ihr Team einfügen und auch bei der Ausgestaltung technischer Angebote unterstützen.
-
-Um Ihnen die Gelegenheit zu geben, sich von meiner fachlichen Kompetenz, meiner systematischen Herangehensweise und meiner Zuverlässigkeit zu überzeugen, stünde ich Ihnen gerne auch im Rahmen einer Probezeit oder einer kurzen Probearbeit zur Verfügung. Ich bin bereit, die Tätigkeit sofort aufzunehmen.
+Da ich in Speyer ansässig bin, ist der Standort Mannheim für mich ideal erreichbar. Zudem kommt mir Ihr Angebot von flexiblen Arbeitszeiten und Homeoffice sehr entgegen. Ich bin bereit, die Tätigkeit sofort aufzunehmen.
 
 Über die Gelegenheit, meine Qualifikationen und meine Motivation in einem persönlichen Gespräch mit Ihnen zu besprechen, freue ich mich sehr.
 
