@@ -15,9 +15,9 @@
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-Vesterling AG +
-Elsenheimerstraße 49 +
-80687 München +
+Philips Medizin Systeme Böblingen GmbH +
+Hewlett-Packard-Straße 2 +
+71034 Böblingen +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -37,24 +37,21 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung als Senior Softwareentwickler C# (m/w/d) +
-Referenznummer: 23240
+Bewerbung um Ihre Stelle als Softwareentwicklungsingenieur - Connectivity Software (all genders) 
 
 Sehr geehrte Damen und Herren,
 
-Ihre Stellenanzeige auf dem Portal von Vesterling hat mich sehr angesprochen. Sie suchen einen erfahrenen Senior-Entwickler für die Modernisierung und Skalierung eines komplexen Softwareprodukts auf Basis des Microsoft Software Stacks. Genau dies beschreibt meine bisherige Position, meine langjährige Berufserfahrung und die Tätigkeit, die ich als nächsten Schritt meiner Karriere in Deutschland anstrebe.
+Ihre Stellenanzeige auf Ihrer Karrierewebseite für den Bereich Hospital Patient Monitoring hat mich sehr angesprochen. Sie suchen einen lösungsorientierten Softwareentwicklungsingenieur für das Interoperability-Team, der Softwarelösungen und Kommunikationsprotokolle für medizinische Geräte entwirft und weiterentwickelt. Genau dies beschreibt meine Leidenschaft für anspruchsvolle Systemarchitekturen und deckt sich mit meiner langjährigen Berufserfahrung, die ich als nächsten Schritt meiner Karriere in Deutschland bei Philips einbringen möchte.
 
-Die Aussicht, an einer erfolgreichen Softwarelösung mitzuwirken, deren Nachfrage durch neue EU-Gesetze weiter steigen wird, motiviert mich sehr. Ich möchte meine Expertise gerne einbringen, um die Skalierbarkeit Ihres Produkts und die Optimierung Ihrer Backend-Services aktiv mitzugestalten.
+Die von Ihnen beschriebene Unternehmenskultur – geprägt von der Vision, das Leben von Menschen zu verbessern, sowie einer offenen Duz-Kultur und Vielfalt – motiviert mich sehr. Ich möchte meine tiefe technische Expertise gerne einbringen, um die Interoperabilität und Anbindung Ihrer weltweit eingesetzten Patientenüberwachungsprodukte aktiv mitzugestalten.
 
-Mit fast 20 Jahren Erfahrung im Bereich Software Engineering bringe ich die geforderten tiefen Kenntnisse im Microsoft-Umfeld mit. Ich bin bestens vertraut mit C#, .NET Core, Entity Framework, MS SQL, ASP.NET MVC und Web APIs. Auch im Frontend-Bereich (Angular, TypeScript, jQuery) sowie bei datenbezogener Programmierung besitze ich fundierte Praxis.
+Mit fast 20 Jahren Erfahrung im Bereich Software Engineering und Tätigkeiten für namhafte, global agierende Unternehmen wie Microsoft und SimCorp war ich umfassend an der Entwicklung, dem Design und der Optimierung komplexer Client-Server-, Backend- und Netzwerkanwendungen beteiligt. Ich bringe fundiertes Know-how sowohl in modernem C++ (Boost, Qt) als auch in .NET/C# und Python mit. In meinen vergangenen Projekten habe ich intensiv an der Implementierung verteilter Systeme gearbeitet und verfüge über ein tiefes Verständnis von Netzwerkprotokollen, Web-APIs (REST) und modernen Observability-/Telemetrie-Infrastrukturen (wie OpenTelemetry, gRPC-nahe Konzepte). Auch der sichere Umgang mit Git und Visual Studio gehört zu meinem täglichen Handwerkszeug.
 
-Besonders gut passe ich zu Ihren Anforderungen im Bereich der Modernisierung und DevOps: In meinen letzten Projekten habe ich intensiv mit Containerisierung (Docker, Kubernetes), Microservices, CI/CD-Pipelines und der Azure-Cloud-Architektur gearbeitet. Zudem habe ich weitreichende Erfahrung in der Etablierung von Best Practices wie Clean Code, TDD, Git-Workflows und OOD-Prinzipien.
+Aufgrund der Situation in meinem Heimatland bin ich als Flüchtling nach Deutschland gekommen und lebe derzeit in Speyer. Während meiner ersten Zeit hier habe ich mich intensiv auf die Integration und den Erwerb der Sprache konzentriert und verfüge mittlerweile über das B1-Zertifikat in Deutsch. Da ich fließend Englisch spreche und in der Vergangenheit stets in multinationalen, global vernetzten Projektteams gearbeitet habe, kann ich mich problemlos, effektiv und ab Tag eins in Ihr internationales IT-Team einfügen.
 
-Aufgrund der Situation in meinem Heimatland bin ich als Flüchtling nach Deutschland gekommen und habe mich hier intensiv auf meine Integration konzentriert. Mittlerweile verfüge ich über das B1-Zertifikat in Deutsch. Da ich fließend Englisch spreche und in der Vergangenheit stets in multinationalen Kontexten für namhafte Unternehmen gearbeitet habe, kann ich mich problemlos und effektiv in Ihr Entwicklungsteam einfügen.
+Ich bin überzeugt, dass meine Erfahrung den Anforderungen Ihrer Position vollauf entspricht. Um Ihnen die Gelegenheit zu geben, sich von meiner fachlichen Kompetenz, meiner strukturierten Herangehensweise an komplexe Themen und meiner Zuverlässigkeit zu überzeugen, stünde ich Ihnen gerne auch im Rahmen einer Probezeit oder einer kurzen Probearbeit zur Verfügung. Die geforderte Präsenzzeit im Office von mindestens 3 Tagen pro Woche lässt sich von meinem Wohnort aus gut realisieren. Ich bin bereit, die Tätigkeit sofort aufzunehmen.
 
-Da ich in Speyer ansässig bin, ist der Standort Mannheim für mich ideal erreichbar. Zudem kommt mir Ihr Angebot von flexiblen Arbeitszeiten und Homeoffice sehr entgegen. Ich bin bereit, die Tätigkeit sofort aufzunehmen.
-
-Über die Gelegenheit, meine Qualifikationen und meine Motivation in einem persönlichen Gespräch mit Ihnen zu besprechen, freue ich mich sehr.
+Über die Gelegenheit, meine Qualifikationen und meine Motivation in einem persönlichen Gespräch mit Ihnen zu besprechen, freue ich mich sehr. Meinen Lebenslauf auf Englisch füge ich dieser Bewerbung wie gewünscht bei.
 
 [%unbreakable] 
 --
