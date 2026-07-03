@@ -15,9 +15,9 @@
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-Philips Medizin Systeme Böblingen GmbH +
-Hewlett-Packard-Straße 2 +
-71034 Böblingen +
+GDI Software GmbH +
+Klaus-von-Klitzing-Straße 1 +
+76829 Landau in der Pfalz +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -37,21 +37,21 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung um Ihre Stelle als Softwareentwicklungsingenieur - Connectivity Software (all genders) 
+Bewerbung um Ihre Stelle als Developer (.NET) Lohnsoftwareentwicklung (m/w/d)
 
-Sehr geehrte Damen und Herren,
+Sehr geehrte Frau Yoleri,
 
-Ihre Stellenanzeige auf Ihrer Karrierewebseite für den Bereich Hospital Patient Monitoring hat mich sehr angesprochen. Sie suchen einen lösungsorientierten Softwareentwicklungsingenieur für das Interoperability-Team, der Softwarelösungen und Kommunikationsprotokolle für medizinische Geräte entwirft und weiterentwickelt. Genau dies beschreibt meine Leidenschaft für anspruchsvolle Systemarchitekturen und deckt sich mit meiner langjährigen Berufserfahrung, die ich als nächsten Schritt meiner Karriere in Deutschland bei Philips einbringen möchte.
+Ihre Stellenanzeige auf Karriereportal hat mich sehr angesprochen. Sie suchen einen erfahrenen .NET-Entwickler, der aktiv an der Zukunft Ihrer führenden Lohn- und Gehaltsabrechnungssoftware mitgestaltet, sauberen Code schreibt und sich bei Architekturentscheidungen einbringt. Genau dies beschreibt meine fachliche Ausrichtung und langjährige Berufserfahrung, die ich nun als nächsten Schritt meiner Karriere in Deutschland bei der SelectLine Group einbringen möchte.
 
-Die von Ihnen beschriebene Unternehmenskultur – geprägt von der Vision, das Leben von Menschen zu verbessern, sowie einer offenen Duz-Kultur und Vielfalt – motiviert mich sehr. Ich möchte meine tiefe technische Expertise gerne einbringen, um die Interoperabilität und Anbindung Ihrer weltweit eingesetzten Patientenüberwachungsprodukte aktiv mitzugestalten.
+Die Aussicht, in einem stabilen und wachsenden Softwareunternehmen an unternehmenskritischen Produkten zu arbeiten und dabei echte Mitgestaltungsmöglichkeiten bei der Technologieentscheidung zu haben, motiviert mich sehr.
 
-Mit fast 20 Jahren Erfahrung im Bereich Software Engineering und Tätigkeiten für namhafte, global agierende Unternehmen wie Microsoft und SimCorp war ich umfassend an der Entwicklung, dem Design und der Optimierung komplexer Client-Server-, Backend- und Netzwerkanwendungen beteiligt. Ich bringe fundiertes Know-how sowohl in modernem C++ (Boost, Qt) als auch in .NET/C# und Python mit. In meinen vergangenen Projekten habe ich intensiv an der Implementierung verteilter Systeme gearbeitet und verfüge über ein tiefes Verständnis von Netzwerkprotokollen, Web-APIs (REST) und modernen Observability-/Telemetrie-Infrastrukturen (wie OpenTelemetry, gRPC-nahe Konzepte). Auch der sichere Umgang mit Git und Visual Studio gehört zu meinem täglichen Handwerkszeug.
+Mit fast 20 Jahren Erfahrung im Bereich Software Engineering – darunter Tätigkeiten für namhafte Unternehmen wie Microsoft und SimCorp – bringe ich fundiertes Know-how in der C#/.NET-Anwendungsentwicklung mit. Ich bin bestens vertraut mit der Umsetzung komplexer fachlicher Anforderungen in wartbaren Code sowie der N-Tier/N-Layer-Refaktorierung. Zudem verfüge ich über umfangreiche Erfahrung mit relationalen Datenbanken (MS SQL, Oracle, PostgreSQL) sowie CI/CD-Prozessen, Git und automatisierten Tests (NUnit, XUnit, Moq), was sich perfekt mit Ihren Anforderungen deckt. Durch meine frühere Tätigkeit im Bereich Retail Management (u. a. KPI-Tooling und Reporting für TAS-Pharma) besitze ich zudem ein ausgeprägtes Verständnis für ERP-nahe Prozesse und Datenmodelle.
 
-Aufgrund der Situation in meinem Heimatland bin ich als Flüchtling nach Deutschland gekommen und lebe derzeit in Speyer. Während meiner ersten Zeit hier habe ich mich intensiv auf die Integration und den Erwerb der Sprache konzentriert und verfüge mittlerweile über das B1-Zertifikat in Deutsch. Da ich fließend Englisch spreche und in der Vergangenheit stets in multinationalen, global vernetzten Projektteams gearbeitet habe, kann ich mich problemlos, effektiv und ab Tag eins in Ihr internationales IT-Team einfügen.
+Aufgrund der Situation in meinem Heimatland bin ich als Flüchtling nach Deutschland gekommen. Während meiner ersten Zeit hier habe ich mich intensiv auf die Integration und den Erwerb der Sprache konzentriert und verfüge mittlerweile über das B1-Zertifikat in Deutsch. Da ich fließend Englisch spreche und in der Vergangenheit stets in multinationalen, agilen Teams (Scrum) gearbeitet habe, kann ich mich problemlos und effektiv in Ihre interdisziplinären Entwicklungsteams einfügen. Das Interesse an Architekturmodernisierung bringe ich ebenso mit wie die Bereitschaft, mich tief in das deutsche Sozialversicherungsrecht einzuarbeiten.
 
-Ich bin überzeugt, dass meine Erfahrung den Anforderungen Ihrer Position vollauf entspricht. Um Ihnen die Gelegenheit zu geben, sich von meiner fachlichen Kompetenz, meiner strukturierten Herangehensweise an komplexe Themen und meiner Zuverlässigkeit zu überzeugen, stünde ich Ihnen gerne auch im Rahmen einer Probezeit oder einer kurzen Probearbeit zur Verfügung. Die geforderte Präsenzzeit im Office von mindestens 3 Tagen pro Woche lässt sich von meinem Wohnort aus gut realisieren. Ich bin bereit, die Tätigkeit sofort aufzunehmen.
+Um Ihnen die Gelegenheit zu geben, sich von meiner fachlichen Kompetenz, meiner strukturierten Arbeitsweise und meiner Zuverlässigkeit zu überzeugen, stünde ich Ihnen gerne auch im Rahmen einer kurzen Probearbeit zur Verfügung. Da ich in Speyer ansässig bin, kommt mir Ihr hybrides Arbeitsmodell mit mobilem Arbeiten sehr entgegen. Ich bin bereit, die Tätigkeit sofort aufzunehmen.
 
-Über die Gelegenheit, meine Qualifikationen und meine Motivation in einem persönlichen Gespräch mit Ihnen zu besprechen, freue ich mich sehr. Meinen Lebenslauf auf Englisch füge ich dieser Bewerbung wie gewünscht bei.
+Über die Gelegenheit, meine Qualifikationen und meine Motivation in einem persönlichen Gespräch mit Ihnen zu besprechen, freue ich mich sehr.
 
 [%unbreakable] 
 --
