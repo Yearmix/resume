@@ -15,9 +15,9 @@
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-GDI Software GmbH +
-Klaus-von-Klitzing-Straße 1 +
-76829 Landau in der Pfalz +
+KPMG AG Wirtschaftsprüfungsgesellschaft +
+Durlacher Allee 77 +
+76131 Karlsruhe +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -37,21 +37,19 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung um Ihre Stelle als Developer (.NET) Lohnsoftwareentwicklung (m/w/d)
+Bewerbung um Ihre Stelle als (Senior) Softwareentwickler Consulting (w/m/d)
 
-Sehr geehrte Frau Yoleri,
+Sehr geehrte Damen und Herren,
 
-Ihre Stellenanzeige auf Karriereportal hat mich sehr angesprochen. Sie suchen einen erfahrenen .NET-Entwickler, der aktiv an der Zukunft Ihrer führenden Lohn- und Gehaltsabrechnungssoftware mitgestaltet, sauberen Code schreibt und sich bei Architekturentscheidungen einbringt. Genau dies beschreibt meine fachliche Ausrichtung und langjährige Berufserfahrung, die ich nun als nächsten Schritt meiner Karriere in Deutschland bei der SelectLine Group einbringen möchte.
+die von KPMG Lighthouse Germany beschriebene Aufgabe, komplexe und strategische Fragestellungen mit modernen Methoden und aktuellen Technologien im Center of Excellence zu lösen, fasziniert mich sehr. Sie suchen einen lösungsorientierten Entwickler, der die technische Perspektive in .NET- und Cloud-Architekturen einbringt und Freude an agiler Teamarbeit hat. Genau diese Kriterien beschreiben den Kern meiner langjährigen Berufserfahrung.
 
-Die Aussicht, in einem stabilen und wachsenden Softwareunternehmen an unternehmenskritischen Produkten zu arbeiten und dabei echte Mitgestaltungsmöglichkeiten bei der Technologieentscheidung zu haben, motiviert mich sehr.
+Mit fast 20 Jahren Erfahrung im Bereich Software Engineering – unter anderem bei GlobalLogic für namhafte Kunden wie SimCorp und Microsoft – bringe ich tiefgehendes Know-how in der Entwicklung, dem Design und der Wartung von Client-Server- sowie Webanwendungen auf Basis des .NET-Ökosystems (C#, ASP.NET Core, EF) mit. In meinen letzten Projekten lag mein Fokus stark auf Cloud-Systemen (Azure), Containerisierung (Kubernetes, Docker) und der Etablierung robuster Test- und Observability-Strukturen (Unit Testing). Die Bereitschaft, mich tief in funktionale Programmierung mit F# oder UI-Frameworks wie Angular einzuarbeiten, bringe ich dank einer schnellen Auffassungsgabe und einer strukturierten Arbeitsweise absolut mit.
 
-Mit fast 20 Jahren Erfahrung im Bereich Software Engineering – darunter Tätigkeiten für namhafte Unternehmen wie Microsoft und SimCorp – bringe ich fundiertes Know-how in der C#/.NET-Anwendungsentwicklung mit. Ich bin bestens vertraut mit der Umsetzung komplexer fachlicher Anforderungen in wartbaren Code sowie der N-Tier/N-Layer-Refaktorierung. Zudem verfüge ich über umfangreiche Erfahrung mit relationalen Datenbanken (MS SQL, Oracle, PostgreSQL) sowie CI/CD-Prozessen, Git und automatisierten Tests (NUnit, XUnit, Moq), was sich perfekt mit Ihren Anforderungen deckt. Durch meine frühere Tätigkeit im Bereich Retail Management (u. a. KPI-Tooling und Reporting für TAS-Pharma) besitze ich zudem ein ausgeprägtes Verständnis für ERP-nahe Prozesse und Datenmodelle.
+Aufgrund der Situation in meinem Heimatland Ukraine lebe ich nun in Deutschland. In den vergangenen Monaten habe ich mich intensiv auf den Spracherwerb konzentriert und verfüge mittlerweile über das B1-Zertifikat in Deutsch. Da ich fließend Englisch spreche und meine gesamte Karriere in einem multinationalen Umfeld verbracht habe, kann ich mich sofort und ohne Barrieren in Ihr internationales Netzwerk von technologischen Spezialisten integrieren.
 
-Aufgrund der Situation in meinem Heimatland bin ich als Flüchtling nach Deutschland gekommen. Während meiner ersten Zeit hier habe ich mich intensiv auf die Integration und den Erwerb der Sprache konzentriert und verfüge mittlerweile über das B1-Zertifikat in Deutsch. Da ich fließend Englisch spreche und in der Vergangenheit stets in multinationalen, agilen Teams (Scrum) gearbeitet habe, kann ich mich problemlos und effektiv in Ihre interdisziplinären Entwicklungsteams einfügen. Das Interesse an Architekturmodernisierung bringe ich ebenso mit wie die Bereitschaft, mich tief in das deutsche Sozialversicherungsrecht einzuarbeiten.
+Da es sich hierbei um meinen ersten Einstieg in den deutschen Arbeitsmarkt handelt, stehen für mich der Erwerb lokaler Projekterfahrung und die Integration in Ihr Team an absolut erster Stelle. Die finanzielle Vergütung ist für mich vorerst zweitrangig. Um Ihnen die Möglichkeit zu geben, meine tatsächliche Senior-Expertise, meine Arbeitsweise und meine Zuverlässigkeit risikofrei zu prüfen, bin ich bezüglich des Einstiegsgehalts hochgradig flexibel und bereit, in der Anfangsphase auch unter den marktüblichen Konditionen zu arbeiten. Sehr gerne überzeuge ich Sie auch im Rahmen einer kurzen, unentgeltlichen Probearbeit von meinen Fähigkeiten.
 
-Um Ihnen die Gelegenheit zu geben, sich von meiner fachlichen Kompetenz, meiner strukturierten Arbeitsweise und meiner Zuverlässigkeit zu überzeugen, stünde ich Ihnen gerne auch im Rahmen einer kurzen Probearbeit zur Verfügung. Da ich in Speyer ansässig bin, kommt mir Ihr hybrides Arbeitsmodell mit mobilem Arbeiten sehr entgegen. Ich bin bereit, die Tätigkeit sofort aufzunehmen.
-
-Über die Gelegenheit, meine Qualifikationen und meine Motivation in einem persönlichen Gespräch mit Ihnen zu besprechen, freue ich mich sehr.
+Ich bin bereit, die Tätigkeit kurzfristig aufzunehmen, und freue mich sehr über die Gelegenheit zu einem persönlichen Kennenlernen.
 
 [%unbreakable] 
 --
