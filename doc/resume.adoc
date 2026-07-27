@@ -15,9 +15,9 @@
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-FORMAT Software Service GmbH +
-Robert-Bosch-Straße 5/Eingang C +
-63303 Dreieich +
+Skalbach GmbH +
+Königstraße 38 +
+70173 Stuttgart +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -37,23 +37,27 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung um Ihre Stelle als Softwareentwickler C# (m/w/d)
+Bewerbung um Ihre Stelle als Softwareentwickler C#/.NET (m/w/d) | 3 Tage Homeoffice
 
 Sehr geehrte Damen und Herren,
 
-Ihre Stellenanzeige hat mich sehr angesprochen. Sie suchen einen erfahrenen Softwareentwickler*in für die Gestaltung innovativer Lösungen im Bereich Außenhandel und Zollabwicklung. Da diese Aufgaben perfekt mit meiner langjährigen Berufserfahrung in der .NET-Entwicklung sowie meinen Kenntnissen in der Datenverarbeitung übereinstimmen, möchte ich mich Ihnen gerne vorstellen.
+Ihre Stellenanzeige für die Weiterentwicklung innovativer Softwarelösungen im Bereich produzierender Unternehmen hat mich sofort angesprochen. Sie suchen einen erfahrenen Softwareentwickler, der Verantwortung übernimmt, nachhaltige Architekturen auf Basis von C# und .NET mitgestaltet und hohe Ansprüche an Codequalität stellt. Genau diese Kombination aus technischer Exzellenz, langfristiger Produktentwicklung und gestalterischem Spielraum entspricht meiner beruflichen Philosophie und meinem Werdegang.
 
-Die systemrelevante Bedeutung Ihres Unternehmens und eine von offenen Türen geprägte Unternehmenskultur motivieren mich sehr. Ich möchte meine Expertise einbringen, um die Weiterentwicklung Ihrer geschäftskritischen Softwarelösungen aktiv zu unterstützen.
+Mit fast 20 Jahren Berufserfahrung im Bereich Software Engineering für namhafte internationale Unternehmen wie Microsoft, Carbonite und SimCorp bringe ich tiefgehende Expertise in der Konzeption, Entwicklung und Optimierung anspruchsvoller Enterprise-Anwendungen mit:
 
-Mit fast 20 Jahren Erfahrung im Software Engineering bringe ich genau die geforderten Kernkompetenzen mit: Ich besitze fortgeschrittene Kenntnisse in C# und der Entwicklung benutzerfreundlicher Oberflächen mit WPF. In meiner Station bei TAS-Pharma war ich jahrelang intensiv für die Entwicklung von Desktop-Anwendungen mittels WPF und WCF verantwortlich. Darüber hinaus verfügt mein Profil über fundierte Praxis in der Datenmodellierung, SQL-Server-Verwaltung und der Implementierung von ETL-Prozessen zur Systemintegration – Architekturen, die ich unter anderem bei TERNOPHARM erfolgreich aufgebaut habe. Die Sicherstellung der Softwarequalität durch automatisierte Unit-Tests (NUnit, XUnit, Moq) sowie die Arbeit mit modernen Versionskontrollsystemen sind für mich selbstverständlicher Teil agiler Workflows.
+C# & .NET Expertise: Fundierte Erfahrung mit .NET Framework, .NET Core / .NET 6 sowie modernen Web- und Desktop-Architekturen (ASP.NET MVC, Web API, WPF, WCF).
 
-Aufgrund der Situation in meinem Heimatland bin ich als Flüchtling nach Deutschland gekommen. Während meiner bisherigen Zeit hier habe ich mich intensiv auf die Integration und den Erwerb der Sprache konzentriert (B1-Zertifikat in Deutsch vorhanden). Da ich fließend Englisch spreche und stets in multinationalen Kontexten gearbeitet habe, kann ich mich problemlos in Ihr Team einfügen. Die Bereitschaft, mich kontinuierlich weiterzubilden und tief in die internationalen Zoll- und Exportbestimmungen einzuarbeiten, bringe ich vollkommen mit.
+Architektur & Datenbanken: Langjährige Praxis im Design skalierbarer, wartbarer Systemarchitekturen und in der Arbeit mit relationalen Datenbanken (MS SQL, Oracle, PL/SQL, T-SQL).
 
-Da dies mein erster Arbeitsplatz in Deutschland sein wird, steht für mich das Sammeln lokaler Berufserfahrung und die Integration in Ihr Team klar im Vordergrund. Bezüglich der Gehaltsvorstellung bin ich daher absolut flexibel und offen für Ihre internen Strukturen. Um Ihnen die Entscheidung zu erleichtern und Ihnen die Gelegenheit zu geben, sich ohne Risiko von meiner Zuverlässigkeit und der Qualität meiner Arbeit zu überzeugen, bin ich gerne bereit, eine Einstiegsphase zu geringeren Konditionen (beispielsweise während der Probezeit) oder ein Probearbeiten zu vereinbaren.
+Qualität & Agile Prozesse: Hohes Qualitätsbewusstsein durch automatisierte Tests (NUnit, XUnit, Moq) und Erfahrung in der Durchführung fundierter Code-Reviews im agilen Teamverbund.
 
-Aufgrund meines Wohnortes in Speyer sind moderne Arbeitsmodelle (wie Ihre flexible Homeoffice-Regelung) ideal für mich. Ich bin bereit, die Tätigkeit sofort aufzunehmen.
+Moderne Technologien & DevOps: Erweiterte Kenntnisse in Containerisierung und Cloud-Infrastrukturen (Docker, Kubernetes, Azure, Microservices, OpenTelemetry).
 
-Über die Gelegenheit, meine Qualifikationen in einem persönlichen Gespräch zu besprechen, freue ich mich sehr.
+Besonders reizt mich an Ihrer Position der Fokus auf eine langfristige Produktlandschaft statt reiner Projektarbeit. Ich schätze strukturierte, nachhaltige Lösungsansätze und bringe mich sehr gerne aktiv in Diskussionen zu Technologie- und Architekturfragen ein.
+
+Sprachlich verfüge ich über fließende Englischkenntnisse (Advanced) sowie Deutschkenntnisse auf B1-Niveau, die ich kontinuierlich im Alltag vertiefe. Durch meine langjährige Arbeit in internationalen und interdisziplinären Teams bin ich es gewohnt, effektiv mit Product Ownern, Anwendern und Entwicklerkollegen zusammenzuarbeiten.
+
+Sehr gerne stehe ich Ihnen für ein persönliches Gespräch zur Verfügung, um detailliert zu besprechen, wie ich Ihr Team mit meinen technischen Fähigkeiten und meiner Erfahrung optimal verstärken kann. Auch eine kurze Probearbeit erfülle ich sehr gerne.
 
 [%unbreakable] 
 --
