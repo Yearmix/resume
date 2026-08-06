@@ -15,9 +15,9 @@
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-NEXUS / ASTRAIA GmbH +
-Hanauer Landstraße 293 +
-60314 Frankfurt am Main +
+Advancis Software & Services GmbH +
+Monzastr. 3 +
+63225 Langen (Hessen) +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -37,21 +37,21 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung als Softwareentwickler C# / .Net (m/w/d)
+Bewerbung um die Stelle als Softwareentwickler Schnittstellen C# / .NET (w/m/d)
 
-Sehr geehrte Frau Stegmann,
+Sehr geehrte Frau Knecht,
 
-die von Ihnen ausgeschriebene Position als Softwareentwickler C# / .Net hat mein großes Interesse geweckt. Als erfahrener Softwareentwickler suche ich die Gelegenheit, meine langjährige technische Expertise in der Entwicklung robuster .NET-Komponenten in einem sinnstiftenden Umfeld wie dem Gesundheitswesen einzubringen.
+mit großem Interesse habe ich Ihre Stellenbeschreibung für die Entwicklung von Schnittstellen auf der Plattform WinGuard gelesen. Als erfahrener Softwareentwickler mit fundierten Kenntnissen im Microsoft-Ökosystem begeistert mich die Möglichkeit, an der Anbindung komplexer externer Systeme im Bereich der Sicherheits- und Gebäudeautomation bei Advancis mitzuwirken.
 
-Mit fast 20 Jahren Berufserfahrung in der Entwicklung, Architektur und Wartung von verteilten Systemen, APIs und Datenbanklösungen decke ich Ihr Anforderungsprofil umfassend ab. In meinen früheren Positionen – unter anderem für internationale Kunden wie SimCorp, Carbonite und Microsoft – habe ich komplexe C#/.NET-Anwendungen entwickelt, Microservices und Backend-Strukturen optimiert sowie relationale Datenbanken (MS SQL, Oracle, PL/SQL) effizient eingesetzt. Zudem verfüge ich über fundierte Erfahrung im Pharmabereich aus meiner Tätigkeit bei TAS-Pharma, wo ich Software für den medizinischen Einzelhandel und Schnittstellen entwickelt habe. Dieses Verständnis für regulierte, datenintensive Umfelder erleichtert mir die Einarbeitung in die Prozesse der NEXUS / ASTRAIA GmbH und Themen wie HL7 oder FHIR enorm.
+In meinen fast 20 Jahren Berufserfahrung im Software Engineering – unter anderem im Rahmen von Projekten für Microsoft, Carbonite und SimCorp – lag mein Schwerpunkt auf der Konzeption, Entwicklung und Optimierung robuster Architekturen. Ich verfüge über umfassende Praxis in der Entwicklung mit C# / .NET sowie grundlegende Kenntnisse in C++. Zudem verfolge ich mit großem Interesse den Einsatz KI-gestützter Werkzeuge zur Effizienzsteigerung und Qualitätssicherung im Entwicklungsprozess. Auch die Kommunikation mit externen Partnern und die strukturierte Fehleranalyse gehören für mich zum beruflichen Alltag.
 
-Aufgrund der Situation in meinem Heimatland bin ich nach Deutschland gekommen. Mein primäres Ziel ist es nun, meinen beruflichen Einstieg auf dem deutschen Arbeitsmarkt zu vollziehen, mich langfristig zu integrieren und wertvolle Praxiserfahrung vor Ort zu sammeln. Daher steht für mich nicht ein hohes Gehalt im Vordergrund, sondern die Chance, meine Fähigkeiten in Ihrem Team unter Beweis zu stellen. Um Ihnen die Entscheidung zu erleichtern und Ihnen die Möglichkeit zu geben, meine Arbeitsweise sowie meine Fachkompetenz risikofrei kennenzulernen, bin ich sehr gerne bereit, zunächst im Rahmen einer Probearbeit, eines Praktikums oder einer reduzierten Einstiegsphase für Sie tätig zu werden.
+Nach meiner Ankunft in Deutschland habe ich mich intensiv auf die sprachliche Integration konzentriert und verfüge derzeit über ein B1-Niveau in Deutsch. Ergänzt durch meine fortgeschrittenen Englischkenntnisse und meine langjährige Erfahrung in internationalen, agilen Teams kann ich mich ab dem ersten Tag produktiv in Ihr Entwicklungsteam einbringen.
 
-Neben meinen fundierten Englischkenntnissen verfüge ich über Deutschkenntnisse auf B1-Niveau, die ich im Arbeitsalltag stetig weiter ausbaue. Ich zeichne mich durch eine schnelle Auffassungsvergabe, Verantwortungsbewusstsein und die Bereitschaft aus, mich flexibel in neue Technologien und den Systemkontext einzuarbeiten.
+Da es mir zum jetzigen Zeitpunkt vor allem darum geht, den Einstieg in den deutschen Arbeitsmarkt zu finden und meine langjährige Expertise in der Praxis unter Beweis zu stellen, steht der Sammelwert erster Arbeitserfahrung in Deutschland für mich an erster Stelle. Um Ihnen die Möglichkeit zu geben, sich persönlich von meinen fachlichen Fähigkeiten, meiner Arbeitsweise und meiner Verlässlichkeit zu überzeugen, bin ich gerne bereit, zunächst im Rahmen eines Einarbeitungspraktikums oder einer kostenfreien Probearbeit für Sie tätig zu werden.
 
-Da ich in Speyer wohne, ist die Region Frankfurt für mich gut erreichbar. Ich bin ab sofort verfügbar.
+Wohnhaft in Speyer ist der Standort Langen für mich gut erreichbar. Ein Eintritt ist kurzfristig möglich.
 
-Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen und meine Motivation zu erläutern, freue ich mich sehr.
+Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen, freue ich mich sehr.
 
 [%unbreakable] 
 --
