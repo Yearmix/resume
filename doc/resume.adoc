@@ -15,9 +15,9 @@
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-HESS Cash Systems GmbH +
-Robert-Bosch-Straße 30 +
-71106 Magstadt +
+Buetema AG +
+Steinbeisstr. 7 +
+74321 Bietigheim-Bissingen +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -37,21 +37,22 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung um die Stelle als Senior Softwareentwickler C# / .NET und Vue.js (m/w/d)
+Bewerbung um die Stelle als Bewerbung als Software Entwickler (m/w/d) +
+Referenz-Nr.: 10000-1204528113-S
 
-Sehr geehrte Frau Seifert,
+Sehr geehrte Frau Angenendt,
 
-mit großem Interesse habe ich Ihre Stellenanzeige für die Position als Senior Softwareentwickler gelesen. Die Entwicklung moderner Softwarelösungen an der Schnittstelle von C#, .NET und Webtechnologien zur Steuerung realer technischer Hardware und Automatensysteme bei HESS Cash Systems begeistert mich sehr. Genau diese Kombination aus klassischer Backend-Entwicklung, REST/gRPC-Schnittstellen und hardwarenaher Logik entspricht meinem fachlichen Profil und meiner Leidenschaft als Entwickler.
+über die Karriereseite der Buetema AG bin ich auf Ihre Stellenanzeige aufmerksam geworden. Ihre innovativen Softwarelösungen für den Einzelhandel – von Digital Signage über Guided Selling bis hin zu Store Operations – sprechen mich außerordentlich an. Da ich fundierte Erfahrung in der Entwicklung von Handels- und Retail-Systemen mitbringe, möchte ich meine Expertise im Bereich C#/.NET und Datenbankdesign sehr gerne in Ihr Team einbringen.
 
-Mit fast 20 Jahren Berufserfahrung in der Softwarearchitektur und -entwicklung bringe ich fundierte Kenntnisse im Microsoft-Ökosystem mit. In meinen bisherigen Stationen – unter anderem für namhafte Unternehmen wie SimCorp, Carbonite und Microsoft – habe ich komplexe Client-Server-Anwendungen, Cloud-Lösungen und performante Schnittstellen (REST, gRPC) auf Basis von C# und .NET realisiert. Zudem verfüge ich über umfassende Praxis im Umgang mit relationalen SQL-Datenbanken, moderner Testautomatisierung sowie der Versionsverwaltung mit Git. Auch Webtechnologien und moderne Architekturen gehören seit vielen Jahren zu meinem täglichen Handwerkszeug.
+Mit fast 20 Jahren Berufserfahrung als Softwareentwickler habe ich komplexe Client-Server- und Web-Anwendungen im Microsoft-Umfeld konzipiert und realisiert. Unter anderem war ich über vier Jahre bei TAS-Pharma an der Entwicklung von Warenwirtschafts- und Filialsteuerungssystemen für den Einzelhandel (WPF, WCF, MS SQL) beteiligt. Dadurch kenne ich die typischen Prozesse im Store-Umfeld aus der Praxis. Neben meiner umfassenden Praxis in C#, .NET, OOP und MS SQL Server bringe ich fundierte Kenntnisse im Umgang mit modernen Cloud-Technologien (Microsoft Azure), Docker, CI/CD-Pipelines via Azure DevOps sowie mobilen Backstore-Prozessen mit.
 
-Aufgrund der Situation in meinem Heimatland lebe ich derzeit in Deutschland. Nach meiner Ankunft habe ich mich intensiv auf meine sprachliche und kulturelle Integration konzentriert und verfüge aktuell über Deutschkenntnisse auf B1-Niveau, die ich kontinuierlich ausbaue. Meine Fachkompetenz und meine jahrelange Berufserfahrung in internationalen Teams möchte ich nun sehr gerne in den deutschen Arbeitsmarkt einbringen.
+Aufgrund der Ereignisse in meiner Heimat Ukraine bin ich nach Deutschland gekommen. Neben dem Erwerb von Sprachkenntnissen (Deutsch B1, Englisch fließend) steht für mich nun der nachhaltige Einstieg in den deutschen Arbeitsmarkt an erster Stelle. Mir ist es besonders wichtig, Fuß zu fassen, meine Qualifikationen in der Praxis unter Beweis zu stellen und wertvolle berufliche Erfahrung in Deutschland zu sammeln.
 
-Da es mir vorrangig darum geht, meinen ersten beruflichen Einstieg in Deutschland zu schaffen, wertvolle Praxiserfahrungen am deutschen Arbeitsmarkt zu sammeln und mich in Ihr Team einzubringen, stehen finanzielle Aspekte für mich an zweiter Stelle. Um Ihnen und HESS Cash Systems die Möglichkeit zu geben, sich ohne Risiko von meiner fachlichen Qualifikation, meiner Arbeitsweise und meiner Verlässlichkeit zu überzeugen, bin ich gerne bereit, zu Beginn im Rahmen eines unentgeltlichen Praktikums oder einer zur Probe absolvierten Phase für Sie tätig zu werden.
+Aus diesem Grund steht ein Gehalt für mich zum jetzigen Zeitpunkt an zweiter Stelle. Um Ihnen die Gelegenheit zu geben, sich persönlich von meiner fachlichen Kompetenz, meiner selbstständigen Arbeitsweise und meiner Zuverlässigkeit zu überzeugen, bin ich sehr gerne bereit, zunächst im Rahmen eines unentgeltlichen Praktikums oder einer kostenlosen Probearbeit für Sie tätig zu werden.
 
-Durch meinen Wohnort Speyer ist der Standort Magstadt für mich gut erreichbar. Ein Einstieg ist für mich ab sofort möglich.
+Durch meinen Wohnort Speyer ist der Standort Bietigheim-Bissingen für mich gut zu erreichen. Zudem kommt mir Ihre moderne Firmenkultur mit hybriden Arbeitsmodellen sehr entgegen. Ich stehen Ihnen ab sofort zur Verfügung.
 
-Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen und meine Motivation näher zu erläutern, freue ich mich sehr.
+Über die Möglichkeit, mich Ihnen persönlich oder in einem ersten Online-Gespräch vorzustellen, freue ich mich sehr.
 
 [%unbreakable] 
 --
