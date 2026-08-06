@@ -15,9 +15,9 @@
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-Skalbach GmbH +
-Königstraße 38 +
-70173 Stuttgart +
+NEXUS / ASTRAIA GmbH +
+Hanauer Landstraße 293 +
+60314 Frankfurt am Main +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -37,27 +37,21 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung um Ihre Stelle als Softwareentwickler C#/.NET (m/w/d) | 3 Tage Homeoffice
+Bewerbung als Softwareentwickler C# / .Net (m/w/d)
 
-Sehr geehrte Damen und Herren,
+Sehr geehrte Frau Stegmann,
 
-Ihre Stellenanzeige für die Weiterentwicklung innovativer Softwarelösungen im Bereich produzierender Unternehmen hat mich sofort angesprochen. Sie suchen einen erfahrenen Softwareentwickler, der Verantwortung übernimmt, nachhaltige Architekturen auf Basis von C# und .NET mitgestaltet und hohe Ansprüche an Codequalität stellt. Genau diese Kombination aus technischer Exzellenz, langfristiger Produktentwicklung und gestalterischem Spielraum entspricht meiner beruflichen Philosophie und meinem Werdegang.
+die von Ihnen ausgeschriebene Position als Softwareentwickler C# / .Net hat mein großes Interesse geweckt. Als erfahrener Softwareentwickler suche ich die Gelegenheit, meine langjährige technische Expertise in der Entwicklung robuster .NET-Komponenten in einem sinnstiftenden Umfeld wie dem Gesundheitswesen einzubringen.
 
-Mit fast 20 Jahren Berufserfahrung im Bereich Software Engineering für namhafte internationale Unternehmen wie Microsoft, Carbonite und SimCorp bringe ich tiefgehende Expertise in der Konzeption, Entwicklung und Optimierung anspruchsvoller Enterprise-Anwendungen mit:
+Mit fast 20 Jahren Berufserfahrung in der Entwicklung, Architektur und Wartung von verteilten Systemen, APIs und Datenbanklösungen decke ich Ihr Anforderungsprofil umfassend ab. In meinen früheren Positionen – unter anderem für internationale Kunden wie SimCorp, Carbonite und Microsoft – habe ich komplexe C#/.NET-Anwendungen entwickelt, Microservices und Backend-Strukturen optimiert sowie relationale Datenbanken (MS SQL, Oracle, PL/SQL) effizient eingesetzt. Zudem verfüge ich über fundierte Erfahrung im Pharmabereich aus meiner Tätigkeit bei TAS-Pharma, wo ich Software für den medizinischen Einzelhandel und Schnittstellen entwickelt habe. Dieses Verständnis für regulierte, datenintensive Umfelder erleichtert mir die Einarbeitung in die Prozesse der NEXUS / ASTRAIA GmbH und Themen wie HL7 oder FHIR enorm.
 
-C# & .NET Expertise: Fundierte Erfahrung mit .NET Framework, .NET Core / .NET 6 sowie modernen Web- und Desktop-Architekturen (ASP.NET MVC, Web API, WPF, WCF).
+Aufgrund der Situation in meinem Heimatland bin ich nach Deutschland gekommen. Mein primäres Ziel ist es nun, meinen beruflichen Einstieg auf dem deutschen Arbeitsmarkt zu vollziehen, mich langfristig zu integrieren und wertvolle Praxiserfahrung vor Ort zu sammeln. Daher steht für mich nicht ein hohes Gehalt im Vordergrund, sondern die Chance, meine Fähigkeiten in Ihrem Team unter Beweis zu stellen. Um Ihnen die Entscheidung zu erleichtern und Ihnen die Möglichkeit zu geben, meine Arbeitsweise sowie meine Fachkompetenz risikofrei kennenzulernen, bin ich sehr gerne bereit, zunächst im Rahmen einer Probearbeit, eines Praktikums oder einer reduzierten Einstiegsphase für Sie tätig zu werden.
 
-Architektur & Datenbanken: Langjährige Praxis im Design skalierbarer, wartbarer Systemarchitekturen und in der Arbeit mit relationalen Datenbanken (MS SQL, Oracle, PL/SQL, T-SQL).
+Neben meinen fundierten Englischkenntnissen verfüge ich über Deutschkenntnisse auf B1-Niveau, die ich im Arbeitsalltag stetig weiter ausbaue. Ich zeichne mich durch eine schnelle Auffassungsvergabe, Verantwortungsbewusstsein und die Bereitschaft aus, mich flexibel in neue Technologien und den Systemkontext einzuarbeiten.
 
-Qualität & Agile Prozesse: Hohes Qualitätsbewusstsein durch automatisierte Tests (NUnit, XUnit, Moq) und Erfahrung in der Durchführung fundierter Code-Reviews im agilen Teamverbund.
+Da ich in Speyer wohne, ist die Region Frankfurt für mich gut erreichbar. Ich bin ab sofort verfügbar.
 
-Moderne Technologien & DevOps: Erweiterte Kenntnisse in Containerisierung und Cloud-Infrastrukturen (Docker, Kubernetes, Azure, Microservices, OpenTelemetry).
-
-Besonders reizt mich an Ihrer Position der Fokus auf eine langfristige Produktlandschaft statt reiner Projektarbeit. Ich schätze strukturierte, nachhaltige Lösungsansätze und bringe mich sehr gerne aktiv in Diskussionen zu Technologie- und Architekturfragen ein.
-
-Sprachlich verfüge ich über fließende Englischkenntnisse (Advanced) sowie Deutschkenntnisse auf B1-Niveau, die ich kontinuierlich im Alltag vertiefe. Durch meine langjährige Arbeit in internationalen und interdisziplinären Teams bin ich es gewohnt, effektiv mit Product Ownern, Anwendern und Entwicklerkollegen zusammenzuarbeiten.
-
-Sehr gerne stehe ich Ihnen für ein persönliches Gespräch zur Verfügung, um detailliert zu besprechen, wie ich Ihr Team mit meinen technischen Fähigkeiten und meiner Erfahrung optimal verstärken kann. Auch eine kurze Probearbeit erfülle ich sehr gerne.
+Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen und meine Motivation zu erläutern, freue ich mich sehr.
 
 [%unbreakable] 
 --
