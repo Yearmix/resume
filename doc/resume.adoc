@@ -15,9 +15,9 @@
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-Buetema AG +
-Steinbeisstr. 7 +
-74321 Bietigheim-Bissingen +
+Lovion GmbH +
+Phoenixseestr. 6 +
+44263 Dortmund +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -37,22 +37,20 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung um die Stelle als Bewerbung als Software Entwickler (m/w/d) +
-Referenz-Nr.: 10000-1204528113-S
+Bewerbung als Senior Softwareentwickler*in (m/w/d) - C# +
+Referenz-Nr.: 10001-1003405589-S
 
-Sehr geehrte Frau Angenendt,
+Sehr geehrte Frau Gläser,
 
-über die Karriereseite der Buetema AG bin ich auf Ihre Stellenanzeige aufmerksam geworden. Ihre innovativen Softwarelösungen für den Einzelhandel – von Digital Signage über Guided Selling bis hin zu Store Operations – sprechen mich außerordentlich an. Da ich fundierte Erfahrung in der Entwicklung von Handels- und Retail-Systemen mitbringe, möchte ich meine Expertise im Bereich C#/.NET und Datenbankdesign sehr gerne in Ihr Team einbringen.
+Ihre Stellenausschreibung für die ITS Gruppe hat mich sofort angesprochen. Sie suchen einen erfahrenen Softwareentwickler für die Weiterentwicklung Ihrer GIS- und BIS-Lösungen im Umfeld von .NET, C# und TypeScript. Genau diese Kombination aus moderner Objektorientierung, agilen Entwicklungsprozessen und fundierter Systemarchitektur entspricht meinem fachlichen Profil und meiner Leidenschaft für zukunftsorientierte Softwarelösungen.
 
-Mit fast 20 Jahren Berufserfahrung als Softwareentwickler habe ich komplexe Client-Server- und Web-Anwendungen im Microsoft-Umfeld konzipiert und realisiert. Unter anderem war ich über vier Jahre bei TAS-Pharma an der Entwicklung von Warenwirtschafts- und Filialsteuerungssystemen für den Einzelhandel (WPF, WCF, MS SQL) beteiligt. Dadurch kenne ich die typischen Prozesse im Store-Umfeld aus der Praxis. Neben meiner umfassenden Praxis in C#, .NET, OOP und MS SQL Server bringe ich fundierte Kenntnisse im Umgang mit modernen Cloud-Technologien (Microsoft Azure), Docker, CI/CD-Pipelines via Azure DevOps sowie mobilen Backstore-Prozessen mit.
+Mit fast 20 Jahren Berufserfahrung in der Softwareentwicklung – unter anderem in internationalen Projekten für Partner wie Microsoft, Carbonite und SimCorp – bringe ich umfassendes Know-how in C#, .NET, TypeScript, relationalen Datenbanken sowie in agilen Methoden (Scrum) mit. In meinen vorherigen Positionen lag mein Schwerpunkt auf der Konzeption robuster Architekturen, der testgetriebenen Softwareentwicklung (TDD/Testautomatisierung) und der Gestaltung performanter Benutzeroberflächen sowie komplexer Geschäftslogik. Zudem verfüge ich über fundierte Erfahrung im Bereich Cloud- und Container-Umgebungen (Azure, Kubernetes, Docker).
 
-Aufgrund der Ereignisse in meiner Heimat Ukraine bin ich nach Deutschland gekommen. Neben dem Erwerb von Sprachkenntnissen (Deutsch B1, Englisch fließend) steht für mich nun der nachhaltige Einstieg in den deutschen Arbeitsmarkt an erster Stelle. Mir ist es besonders wichtig, Fuß zu fassen, meine Qualifikationen in der Praxis unter Beweis zu stellen und wertvolle berufliche Erfahrung in Deutschland zu sammeln.
+Um meinen Einstieg in den deutschen Arbeitsmarkt erfolgreich zu gestalten, steht für mich derzeit das Sammeln von Praxiserfahrung in einem starken Team an erster Stelle. Daher bin ich sehr daran interessiert, meine erste Position in Deutschland bei Ihnen anzutreten. Ich bin bereit, zunächst auch im Rahmen eines Praktikums, einer Testphase oder unter flexiblen Einstiegskonditionen ohne Vergütung zu arbeiten, damit Sie sich vorab persönlich von meinen fachlichen Fähigkeiten, meiner schnellen Auffassungsgabe und meiner Zuverlässigkeit überzeugen können.
 
-Aus diesem Grund steht ein Gehalt für mich zum jetzigen Zeitpunkt an zweiter Stelle. Um Ihnen die Gelegenheit zu geben, sich persönlich von meiner fachlichen Kompetenz, meiner selbstständigen Arbeitsweise und meiner Zuverlässigkeit zu überzeugen, bin ich sehr gerne bereit, zunächst im Rahmen eines unentgeltlichen Praktikums oder einer kostenlosen Probearbeit für Sie tätig zu werden.
+Ich verfüge über fortgeschrittene Englischkenntnisse und wende meine Deutschkenntnisse (B1-Niveau) im Alltag sowie im beruflichen Kontext aktiv an. Die Flexibilität hinsichtlich des Arbeitsortes (Remote / Homeoffice) kommt mir sehr entgegen.
 
-Durch meinen Wohnort Speyer ist der Standort Bietigheim-Bissingen für mich gut zu erreichen. Zudem kommt mir Ihre moderne Firmenkultur mit hybriden Arbeitsmodellen sehr entgegen. Ich stehen Ihnen ab sofort zur Verfügung.
-
-Über die Möglichkeit, mich Ihnen persönlich oder in einem ersten Online-Gespräch vorzustellen, freue ich mich sehr.
+Über die Gelegenheit, mich und meine Qualifikationen in einem persönlichen Gespräch vorzustellen, freue ich mich sehr.
 
 [%unbreakable] 
 --
