@@ -15,9 +15,9 @@
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-Lovion GmbH +
-Phoenixseestr. 6 +
-44263 Dortmund +
+Capgemini Deutschland GmbH +
+Prinzregentenstraße 159A +
+81677 München +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -37,20 +37,22 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung als Senior Softwareentwickler*in (m/w/d) - C# +
-Referenz-Nr.: 10001-1003405589-S
+Bewerbung als C# .NET Fullstack Developer Financial Services (w/m/d) +
+Referenz-Nr.: 17311-44302666-79-S
 
-Sehr geehrte Frau Gläser,
+Sehr geehrte Frau Türck,
 
-Ihre Stellenausschreibung für die ITS Gruppe hat mich sofort angesprochen. Sie suchen einen erfahrenen Softwareentwickler für die Weiterentwicklung Ihrer GIS- und BIS-Lösungen im Umfeld von .NET, C# und TypeScript. Genau diese Kombination aus moderner Objektorientierung, agilen Entwicklungsprozessen und fundierter Systemarchitektur entspricht meinem fachlichen Profil und meiner Leidenschaft für zukunftsorientierte Softwarelösungen.
+mit großem Interesse habe ich Ihre Stellenanzeige für die Position als C# .NET Fullstack Developer Financial Services gelesen. Capgemini als globaler Treiber von KI-gestützten und innovativen Technologien beeindruckt mich sehr. Gerne möchte ich meine umfassende Expertise in der Softwareentwicklung nutzen, um die digitalen Lösungen für führende Finanzdienstleister aktiv mitzugestalten.
 
-Mit fast 20 Jahren Berufserfahrung in der Softwareentwicklung – unter anderem in internationalen Projekten für Partner wie Microsoft, Carbonite und SimCorp – bringe ich umfassendes Know-how in C#, .NET, TypeScript, relationalen Datenbanken sowie in agilen Methoden (Scrum) mit. In meinen vorherigen Positionen lag mein Schwerpunkt auf der Konzeption robuster Architekturen, der testgetriebenen Softwareentwicklung (TDD/Testautomatisierung) und der Gestaltung performanter Benutzeroberflächen sowie komplexer Geschäftslogik. Zudem verfüge ich über fundierte Erfahrung im Bereich Cloud- und Container-Umgebungen (Azure, Kubernetes, Docker).
+Mit fast 20 Jahren Erfahrung in der Softwareentwicklung – unter anderem in komplexen Projekten für globale Partner wie SimCorp, Microsoft und Carbonite – verfüge ich über fundierte Kenntnisse im gesamten Lebenszyklus der Anwendungsentwicklung. Mein Fokus liegt auf dem C#/.NET-Ökosystem, modernen Datenbanktechnologien wie MS-SQL (T-SQL) sowie modernen Webarchitekturen. Während meiner Tätigkeit für SimCorp konnte ich wertvolle Erfahrungen im Bereich Financial Services und Investment Management sammeln. Darüber hinaus bringe ich fundierte Kenntnisse in REST-Webservices, Clean-Code-Standards und der Arbeit in agilen Frameworks wie Scrum und Kanban mit.
 
-Um meinen Einstieg in den deutschen Arbeitsmarkt erfolgreich zu gestalten, steht für mich derzeit das Sammeln von Praxiserfahrung in einem starken Team an erster Stelle. Daher bin ich sehr daran interessiert, meine erste Position in Deutschland bei Ihnen anzutreten. Ich bin bereit, zunächst auch im Rahmen eines Praktikums, einer Testphase oder unter flexiblen Einstiegskonditionen ohne Vergütung zu arbeiten, damit Sie sich vorab persönlich von meinen fachlichen Fähigkeiten, meiner schnellen Auffassungsgabe und meiner Zuverlässigkeit überzeugen können.
+Derzeit baue ich meine Sprachkenntnisse intensiv aus und verfüge aktuell über ein solides B1-Niveau in Deutsch, welches ich im Arbeitsalltag kontinuierlich erweitere. Dank meiner fließenden Englischkenntnisse und jahrelanger Erfahrung in internationalen Teams kann ich mich ab Tag eins reibungslos in Ihre Entwicklerteams einbringen.
 
-Ich verfüge über fortgeschrittene Englischkenntnisse und wende meine Deutschkenntnisse (B1-Niveau) im Alltag sowie im beruflichen Kontext aktiv an. Die Flexibilität hinsichtlich des Arbeitsortes (Remote / Homeoffice) kommt mir sehr entgegen.
+Da ich meinen beruflichen Einstieg auf dem deutschen Arbeitsmarkt fokussiere, steht für mich der fachliche Wissensaustausch, die Integration in Ihr Team und das gegenseitige Kennenlernen an erster Stelle. Um Ihnen die Möglichkeit zu geben, sich von meiner praktischen Erfahrung, meiner Arbeitsweise und meiner Zuverlässigkeit zu überzeugen, bin ich sehr gerne bereit, zunächst im Rahmen eines Praktikums, einer Einarbeitungsphase oder einer Testphase zu beginnen.
 
-Über die Gelegenheit, mich und meine Qualifikationen in einem persönlichen Gespräch vorzustellen, freue ich mich sehr.
+Aufgrund meines Wohnorts in Speyer schätze ich Ihre flexiblen Arbeitszeitmodelle sowie die Möglichkeit zum hybriden Arbeiten sehr. Zudem bin ich offen für projektbedingte Reisetätigkeiten und stehe ab sofort zur Verfügung.
+
+Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen und meine Motivation näher zu erläutern, freue ich mich sehr.
 
 [%unbreakable] 
 --
