@@ -15,9 +15,9 @@
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-Capgemini Deutschland GmbH +
-Prinzregentenstraße 159A +
-81677 München +
+SINC GmbH +
+Rheingaustraße 182 +
+65203 Biebrich +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -37,22 +37,22 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung als C# .NET Fullstack Developer Financial Services (w/m/d) +
-Referenz-Nr.: 17311-44302666-79-S
+Bewerbung als Senior Backend Entwickler (m/w/d) .NET +
+Referenz-Nr.: 12288-4889248138-S
 
-Sehr geehrte Frau Türck,
+Sehr geehrte Frau Holdmann,
 
-mit großem Interesse habe ich Ihre Stellenanzeige für die Position als C# .NET Fullstack Developer Financial Services gelesen. Capgemini als globaler Treiber von KI-gestützten und innovativen Technologien beeindruckt mich sehr. Gerne möchte ich meine umfassende Expertise in der Softwareentwicklung nutzen, um die digitalen Lösungen für führende Finanzdienstleister aktiv mitzugestalten.
+mit großer Begeisterung habe ich Ihre Stellenanzeige für die Position als Senior Backend Entwickler .NET für Ihre GovTech-Lösung e²A gelesen. Das Ziel der SINC GmbH, die Digitalisierung im Staat und im Justizumfeld voranzutreiben, spricht mich sehr an. Genau diese Kombination aus anspruchsvoller Softwareentwicklung und gesellschaftlichem Mehrwert sucht mein beruflicher Weg in Deutschland.
 
-Mit fast 20 Jahren Erfahrung in der Softwareentwicklung – unter anderem in komplexen Projekten für globale Partner wie SimCorp, Microsoft und Carbonite – verfüge ich über fundierte Kenntnisse im gesamten Lebenszyklus der Anwendungsentwicklung. Mein Fokus liegt auf dem C#/.NET-Ökosystem, modernen Datenbanktechnologien wie MS-SQL (T-SQL) sowie modernen Webarchitekturen. Während meiner Tätigkeit für SimCorp konnte ich wertvolle Erfahrungen im Bereich Financial Services und Investment Management sammeln. Darüber hinaus bringe ich fundierte Kenntnisse in REST-Webservices, Clean-Code-Standards und der Arbeit in agilen Frameworks wie Scrum und Kanban mit.
+Mit knapp 20 Jahren Berufserfahrung im Software Engineering – unter anderem im Rahmen von Projekten für Microsoft, Carbonite und SimCorp – bringe ich fundierte Expertise in der Entwicklung robuster Backend-Systeme mit. Ich arbeite seit vielen Jahren intensiv mit C# und dem .NET-Ökosystem (inkl. WCF, REST APIs, gRPC und .NET Core) sowie komplexen Datenbankstrukturen unter MS SQL und Oracle. Auch praktische Erfahrungen mit PowerShell, Clean Code, CI/CD-Pipelines (Azure DevOps, Git) sowie Testautomatisierung gehören zu meinem täglichen Handwerkszeug.
 
-Derzeit baue ich meine Sprachkenntnisse intensiv aus und verfüge aktuell über ein solides B1-Niveau in Deutsch, welches ich im Arbeitsalltag kontinuierlich erweitere. Dank meiner fließenden Englischkenntnisse und jahrelanger Erfahrung in internationalen Teams kann ich mich ab Tag eins reibungslos in Ihre Entwicklerteams einbringen.
+Ich verfolge aktuelle Trends wie KI-unterstützte Softwareentwicklung und agentenbasierte Workflows mit großem Interesse und freue mich darauf, dieses Wissen bei der Entwicklung moderner Architekturkonzepte und im Prototyping gewinnbringend einzubringen.
 
-Da ich meinen beruflichen Einstieg auf dem deutschen Arbeitsmarkt fokussiere, steht für mich der fachliche Wissensaustausch, die Integration in Ihr Team und das gegenseitige Kennenlernen an erster Stelle. Um Ihnen die Möglichkeit zu geben, sich von meiner praktischen Erfahrung, meiner Arbeitsweise und meiner Zuverlässigkeit zu überzeugen, bin ich sehr gerne bereit, zunächst im Rahmen eines Praktikums, einer Einarbeitungsphase oder einer Testphase zu beginnen.
+Ich habe mein Deutsch auf das Niveau B1 ausgebaut und spreche zudem fließend Englisch. Da ich mein Know-how in der Praxis beweisen möchte und auf der Suche nach meinem ersten langfristigen Arbeitgeber in Deutschland bin, steht für mich das Sammeln von Praxiserfahrung und die erfolgreiche Einarbeitung im Vordergrund. Um Ihnen ohne jedes Risiko die Gelegenheit zu geben, sich persönlich von meiner fachlichen Kompetenz, meiner Arbeitsweise und meiner Zuverlässigkeit zu überzeugen, bin ich sehr gerne bereit, zu Beginn ein kostenloses Praktikum oder eine unentgeltliche Probearbeit bei Ihnen zu absolvieren.
 
-Aufgrund meines Wohnorts in Speyer schätze ich Ihre flexiblen Arbeitszeitmodelle sowie die Möglichkeit zum hybriden Arbeiten sehr. Zudem bin ich offen für projektbedingte Reisetätigkeiten und stehe ab sofort zur Verfügung.
+Aufgrund meines Wohnorts in Speyer ist der Standort Wiesbaden gut für mich zu erreichen. Das angebotene hybride Arbeitsmodell kommt meinen Vorstellungen dabei sehr entgegen.
 
-Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen und meine Motivation näher zu erläutern, freue ich mich sehr.
+Über die Gelegenheit, mich Ihnen persönlich vorzustellen und mehr über die Aufgaben bei SINC zu erfahren, freue ich mich sehr.
 
 [%unbreakable] 
 --
