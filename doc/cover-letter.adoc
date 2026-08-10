@@ -1,0 +1,62 @@
+[[cover-letter]]
+
+[%nonfacing]
+[%notitle]
+== Bewerbung
+
+[cols=2,frame=none,grid=cols]
+|===
+|
+
+{empty} +
+{empty} +
+{empty} +
+[.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
+
+SINC GmbH +
+Rheingaustraße 182 +
+65203 Biebrich +
+Deutschland +
+
+|[.head-h1.fblue]#Oleksii Pokrovskyi#
+
+[.fgray]#Kontaktdaten# +
+0170 2884753 +
+alex.pokrowskiy@gmail.com 
+
+[.fgray]#Adresse# +  
+Oleksii Pokrovskyi +
+Windthorst Str. 15 +
+67346 Speyer 
+
+|===
+
+[.txt-right]
+Speyer, {revdate} 
+
+[.head-h2.fblue]
+Bewerbung als Senior Backend Entwickler (m/w/d) .NET +
+Referenz-Nr.: 12288-4889248138-S
+
+Sehr geehrte Frau Holdmann,
+
+mit großer Begeisterung habe ich Ihre Stellenanzeige für die Position als Senior Backend Entwickler .NET für Ihre GovTech-Lösung e²A gelesen. Das Ziel der SINC GmbH, die Digitalisierung im Staat und im Justizumfeld voranzutreiben, spricht mich sehr an. Genau diese Kombination aus anspruchsvoller Softwareentwicklung und gesellschaftlichem Mehrwert sucht mein beruflicher Weg in Deutschland.
+
+Mit knapp 20 Jahren Berufserfahrung im Software Engineering – unter anderem im Rahmen von Projekten für Microsoft, Carbonite und SimCorp – bringe ich fundierte Expertise in der Entwicklung robuster Backend-Systeme mit. Ich arbeite seit vielen Jahren intensiv mit C# und dem .NET-Ökosystem (inkl. WCF, REST APIs, gRPC und .NET Core) sowie komplexen Datenbankstrukturen unter MS SQL und Oracle. Auch praktische Erfahrungen mit PowerShell, Clean Code, CI/CD-Pipelines (Azure DevOps, Git) sowie Testautomatisierung gehören zu meinem täglichen Handwerkszeug.
+
+Ich verfolge aktuelle Trends wie KI-unterstützte Softwareentwicklung und agentenbasierte Workflows mit großem Interesse und freue mich darauf, dieses Wissen bei der Entwicklung moderner Architekturkonzepte und im Prototyping gewinnbringend einzubringen.
+
+Ich habe mein Deutsch auf das Niveau B1 ausgebaut und spreche zudem fließend Englisch. Da ich mein Know-how in der Praxis beweisen möchte und auf der Suche nach meinem ersten langfristigen Arbeitgeber in Deutschland bin, steht für mich das Sammeln von Praxiserfahrung und die erfolgreiche Einarbeitung im Vordergrund. Um Ihnen ohne jedes Risiko die Gelegenheit zu geben, sich persönlich von meiner fachlichen Kompetenz, meiner Arbeitsweise und meiner Zuverlässigkeit zu überzeugen, bin ich sehr gerne bereit, zu Beginn ein kostenloses Praktikum oder eine unentgeltliche Probearbeit bei Ihnen zu absolvieren.
+
+Aufgrund meines Wohnorts in Speyer ist der Standort Wiesbaden gut für mich zu erreichen. Das angebotene hybride Arbeitsmodell kommt meinen Vorstellungen dabei sehr entgegen.
+
+Über die Gelegenheit, mich Ihnen persönlich vorzustellen und mehr über die Aufgaben bei SINC zu erfahren, freue ich mich sehr.
+
+[%unbreakable] 
+--
+Mit freundlichen Grüßen aus Speyer 
+
+:figure-caption!:
+.Oleksii Pokrovskyi
+image::sign.jpg[Sign,125,float=left]
+--
