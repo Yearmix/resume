@@ -1,4 +1,4 @@
-FROM ruby:3.3 AS base
+FROM ruby:3.3.12-slim AS base 
 
 # Installiere notwendige Pakete
 RUN apt-get update && apt-get install -y \ 

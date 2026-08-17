@@ -37,7 +37,7 @@ Ukrainisch
 
 a|
 
-image::photo.jpg[Headshot,pdfwidth=1.8in,float=right]
+image::photo.png[Headshot,pdfwidth=1.8in,float=right]
 
 |===
 

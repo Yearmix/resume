@@ -1,5 +1,18 @@
 extends: default
 
+page:
+  margin: [15mm, 20mm, 15mm, 20mm]
+  margin-inner: 20mm
+  margin-outer: 20mm
+  size: A4
+
+footer:
+  columns: =100%
+  recto: &_footer
+    center:
+      content: '{page-number}'
+  verso: *_footer
+
 table:
   border-color: #00589A
   border-width: 3
