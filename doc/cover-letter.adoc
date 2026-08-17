@@ -2,7 +2,7 @@
 
 [%nonfacing]
 [%notitle]
-== Bewerbung
+ifdef::all[== Bewerbung]
 
 [cols=2,frame=none,grid=cols]
 |===

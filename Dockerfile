@@ -3,10 +3,8 @@ FROM ruby:3.3.12-slim AS base
 # Installiere notwendige Pakete
 RUN apt-get update && apt-get install -y \ 
     git \ 
-    unzip \ 
     locales \ 
     locales-all \ 
-    wget \ 
     && apt-get clean \ 
     && rm -rf /var/lib/apt/lists/*
 

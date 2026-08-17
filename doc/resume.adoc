@@ -1,4 +1,6 @@
-= Bewerbung und Lebenslauf
+ifdef::cover-letter[= Bewerbung]
+ifdef::all[= Bewerbung und Lebenslauf]
+ifdef::curriculum-vitae[= Lebenslauf]
 :author: Oleksii Pokrovskyi
 :description: This story chronicles the inexplicable hazards and vicious beasts a team must conquer and vanquish on their journey to discovering the true power of Open Source.
 :pdf-theme: resume

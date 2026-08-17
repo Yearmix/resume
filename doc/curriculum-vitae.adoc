@@ -2,7 +2,7 @@
 
 [%nonfacing]
 [%notitle]
-== Lebenslauf
+ifdef::all[== Lebenslauf]
 
 [width=70%,align=right,cols=1,frame=none,grid=rows]
 |===
