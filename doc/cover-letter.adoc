@@ -13,8 +13,8 @@ ifdef::all[== Bewerbung]
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-FERCHAU GmbH +
-Landteilstraße 33 +
+DIS AG Mannheim +
+Harrlachweg 6 +
 68163 Mannheim +
 Deutschland +
 
@@ -35,18 +35,20 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung als Softwareingenieur (m/w/d) +
-Referenz-Nr.: VA95-86145-MA
+Bewerbung als DevOps Developer (m/w/d) +
+Referenz-Nr.: JN -042026-1021552
 
-Sehr geehrte Frau Engelskirchen,
+Sehr geehrter Herr Senay,
 
-Ihre Stellenausschreibung für die Position als Softwareingenieur in Mannheim hat mich sofort angesprochen. Da ich mich derzeit darauf konzentriere, in Deutschland Fuß zu fassen und wertvolle praktische Berufserfahrung in einem deutschen Arbeitsumfeld zu sammeln, suche ich genau nach dieser Gelegenheit. Mir ist es sehr wichtig, mich erst einmal in einem neuen Team zu beweisen, praktische Erfahrungen zu sammeln und mich fachlich einzubringen; das Thema Gehalt steht für mich dabei ganz klar im Hintergrund.
+Ihre Stellenanzeige für die Position als DevOps Developer in Speyer hat mich sofort sehr angesprochen. Da ich selbst in Speyer wohne und langjährige Erfahrung in der IT mitbringe, freue ich mich sehr über die Möglichkeit, mich Ihnen vorzustellen.
 
-Mit fast 20 Jahren Berufserfahrung in der Softwareentwicklung bringe ich ein fundiertes technisches Fundament mit. In meiner bisherigen Laufbahn – unter anderem bei internationalen Unternehmen wie Microsoft, Carbonite und SimCorp – habe ich umfangreiche Expertise in C#, .NET, Python, SQL und modernen Tools wie Git und Docker aufgebaut. Ich kenne mich bestens mit der Entwicklung, Implementierung und Wartung von Client-Server- sowie Webanwendungen aus und verstehe es, komplexe Probleme effizient zu analysieren und zu lösen.
+Ich arbeite seit fast 20 Jahren als Softwareentwickler. In meinen letzten Projekten habe ich intensiv mit modernen Cloud-Technologien, Linux, Docker, Kubernetes, CI/CD-Pipelines (wie GitLab) und Azure gearbeitet. Es macht mir viel Freude, Infrastrukturen aufzubauen, Anwendungen zuverlässig zu betreiben und Entwicklungsprozesse optimal zu unterstützen.
 
-Sprachlich verfüge ich über fortgeschrittene Englischkenntnisse und lerne engagiert Deutsch (aktuell auf dem Niveau B1), sodass ich mich problemlos in Ihr Team integrieren kann.
+Da ich in Deutschland einen neuen Lebensabschnitt beginne, suche ich vor allem eine gute Möglichkeit für meinen beruflichen Einstieg hier vor Ort. Mir ist es sehr wichtig, wertvolle praktische Berufserfahrung in einem deutschen Arbeitsumfeld zu sammeln und mich langfristig im Team einzubringen. Das Gehalt steht für mich dabei nicht an erster Stelle; viel wichtiger sind mir spannende Aufgaben, ein stabiles Umfeld und die Chance, mich fachlich zu beweisen.
 
-Ich wurde mich sehr freuen, wenn wir uns in einem persönlichen Gespräch kennenlernen, damit Sie sich von meiner Motivation und meiner fachlichen Eignung überzeugen können.
+Ich spreche fließend Englisch und lerne intensiv Deutsch (aktuell auf dem Niveau B1). Durch meine langjährige Arbeit in internationalen Teams bin ich es gewohnt, mich schnell und problemlos in neue Arbeitsgruppen einzufügen.
+
+Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen, freue ich mich sehr.
 
 [%unbreakable] 
 --
