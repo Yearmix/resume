@@ -13,9 +13,9 @@ ifdef::all[== Bewerbung]
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-Unternemen GmbH +
-Rheingaustraße 182 +
-65203 Biebrich +
+FERCHAU GmbH +
+Landteilstraße 33 +
+68163 Mannheim +
 Deutschland +
 
 |[.head-h1.fblue]#Oleksii Pokrovskyi#
@@ -35,20 +35,18 @@ Windthorst Str. 15 +
 Speyer, {revdate} 
 
 [.head-h2.fblue]
-Bewerbung als Senior Backend Entwickler (m/w/d) .NET +
-Referenz-Nr.: 12288-4889248138-S
+Bewerbung als Softwareingenieur (m/w/d) +
+Referenz-Nr.: VA95-86145-MA
 
-Sehr geehrte Damen und Herren,
+Sehr geehrte Frau Engelskirchen,
 
-mit fast 20 Jahren Berufserfahrung in der Softwareentwicklung und einer langjährigen Spezialisierung auf C# und .NET möchte ich meine Erfahrung künftig in Ihrem Unternehmen einbringen.
+Ihre Stellenausschreibung für die Position als Softwareingenieur in Mannheim hat mich sofort angesprochen. Da ich mich derzeit darauf konzentriere, in Deutschland Fuß zu fassen und wertvolle praktische Berufserfahrung in einem deutschen Arbeitsumfeld zu sammeln, suche ich genau nach dieser Gelegenheit. Mir ist es sehr wichtig, mich erst einmal in einem neuen Team zu beweisen, praktische Erfahrungen zu sammeln und mich fachlich einzubringen; das Thema Gehalt steht für mich dabei ganz klar im Hintergrund.
 
-Mein fachlicher Schwerpunkt liegt in der Entwicklung und Weiterentwicklung komplexer Softwarelösungen mit C#/.NET, ASP.NET, Web APIs und SQL. Dabei habe ich sowohl neue Anwendungen entwickelt als auch bestehende Enterprise-Systeme analysiert, refaktoriert und technisch weiterentwickelt.
+Mit fast 20 Jahren Berufserfahrung in der Softwareentwicklung bringe ich ein fundiertes technisches Fundament mit. In meiner bisherigen Laufbahn – unter anderem bei internationalen Unternehmen wie Microsoft, Carbonite und SimCorp – habe ich umfangreiche Expertise in C#, .NET, Python, SQL und modernen Tools wie Git und Docker aufgebaut. Ich kenne mich bestens mit der Entwicklung, Implementierung und Wartung von Client-Server- sowie Webanwendungen aus und verstehe es, komplexe Probleme effizient zu analysieren und zu lösen.
 
-In meinen bisherigen Projekten habe ich unter anderem mit.NET Core/.NET 6, ASP.NET Web API, WCF, Entity Framework, Microsoft SQL Server und Oracle gearbeitet. Darüber hinaus verfüge ich über praktische Erfahrung mit Azure, Docker, Kubernetes, Terraform, GitOps und modernen Observability-Lösungen. 
+Sprachlich verfüge ich über fortgeschrittene Englischkenntnisse und lerne engagiert Deutsch (aktuell auf dem Niveau B1), sodass ich mich problemlos in Ihr Team integrieren kann.
 
-Meine langjährige Erfahrung in der Softwareentwicklung möchte ich nun gezielt in Deutschland einsetzen und mich langfristig in einem professionellen.NET-Entwicklungsteam weiter einbringen. Meine Deutschkenntnisse baue ich kontinuierlich weiter aus; zusätzlich verfüge ich über gute schriftliche und sehr gute mündliche Englischkenntnisse.
-
-Über die Gelegenheit, Sie in einem persönlichen Gespräch von meiner fachlichen Erfahrung und meiner Motivation zu überzeugen, freue ich mich sehr.
+Ich wurde mich sehr freuen, wenn wir uns in einem persönlichen Gespräch kennenlernen, damit Sie sich von meiner Motivation und meiner fachlichen Eignung überzeugen können.
 
 [%unbreakable] 
 --
