@@ -13,3 +13,8 @@ ifdef::all,cover-letter[include::cover-letter.adoc[]]
 <<<
 
 ifdef::all,curriculum-vitae[include::curriculum-vitae.adoc[]]
+
+<<<
+
+ifdef::all,curriculum-vitae[include::beruflicher-profil.adoc[]]
+

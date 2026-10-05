@@ -13,7 +13,7 @@ ifdef::all[== Bewerbung]
 {empty} +
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-SINC GmbH +
+Unternemen GmbH +
 Rheingaustraße 182 +
 65203 Biebrich +
 Deutschland +
@@ -38,19 +38,17 @@ Speyer, {revdate}
 Bewerbung als Senior Backend Entwickler (m/w/d) .NET +
 Referenz-Nr.: 12288-4889248138-S
 
-Sehr geehrte Frau Holdmann,
+Sehr geehrte Damen und Herren,
 
-mit großer Begeisterung habe ich Ihre Stellenanzeige für die Position als Senior Backend Entwickler .NET für Ihre GovTech-Lösung e²A gelesen. Das Ziel der SINC GmbH, die Digitalisierung im Staat und im Justizumfeld voranzutreiben, spricht mich sehr an. Genau diese Kombination aus anspruchsvoller Softwareentwicklung und gesellschaftlichem Mehrwert sucht mein beruflicher Weg in Deutschland.
+mit fast 20 Jahren Berufserfahrung in der Softwareentwicklung und einer langjährigen Spezialisierung auf C# und .NET möchte ich meine Erfahrung künftig in Ihrem Unternehmen einbringen.
 
-Mit knapp 20 Jahren Berufserfahrung im Software Engineering – unter anderem im Rahmen von Projekten für Microsoft, Carbonite und SimCorp – bringe ich fundierte Expertise in der Entwicklung robuster Backend-Systeme mit. Ich arbeite seit vielen Jahren intensiv mit C# und dem .NET-Ökosystem (inkl. WCF, REST APIs, gRPC und .NET Core) sowie komplexen Datenbankstrukturen unter MS SQL und Oracle. Auch praktische Erfahrungen mit PowerShell, Clean Code, CI/CD-Pipelines (Azure DevOps, Git) sowie Testautomatisierung gehören zu meinem täglichen Handwerkszeug.
+Mein fachlicher Schwerpunkt liegt in der Entwicklung und Weiterentwicklung komplexer Softwarelösungen mit C#/.NET, ASP.NET, Web APIs und SQL. Dabei habe ich sowohl neue Anwendungen entwickelt als auch bestehende Enterprise-Systeme analysiert, refaktoriert und technisch weiterentwickelt.
 
-Ich verfolge aktuelle Trends wie KI-unterstützte Softwareentwicklung und agentenbasierte Workflows mit großem Interesse und freue mich darauf, dieses Wissen bei der Entwicklung moderner Architekturkonzepte und im Prototyping gewinnbringend einzubringen.
+In meinen bisherigen Projekten habe ich unter anderem mit.NET Core/.NET 6, ASP.NET Web API, WCF, Entity Framework, Microsoft SQL Server und Oracle gearbeitet. Darüber hinaus verfüge ich über praktische Erfahrung mit Azure, Docker, Kubernetes, Terraform, GitOps und modernen Observability-Lösungen. 
 
-Ich habe mein Deutsch auf das Niveau B1 ausgebaut und spreche zudem fließend Englisch. Da ich mein Know-how in der Praxis beweisen möchte und auf der Suche nach meinem ersten langfristigen Arbeitgeber in Deutschland bin, steht für mich das Sammeln von Praxiserfahrung und die erfolgreiche Einarbeitung im Vordergrund. Um Ihnen ohne jedes Risiko die Gelegenheit zu geben, sich persönlich von meiner fachlichen Kompetenz, meiner Arbeitsweise und meiner Zuverlässigkeit zu überzeugen, bin ich sehr gerne bereit, zu Beginn ein kostenloses Praktikum oder eine unentgeltliche Probearbeit bei Ihnen zu absolvieren.
+Meine langjährige Erfahrung in der Softwareentwicklung möchte ich nun gezielt in Deutschland einsetzen und mich langfristig in einem professionellen.NET-Entwicklungsteam weiter einbringen. Meine Deutschkenntnisse baue ich kontinuierlich weiter aus; zusätzlich verfüge ich über gute schriftliche und sehr gute mündliche Englischkenntnisse.
 
-Aufgrund meines Wohnorts in Speyer ist der Standort Wiesbaden gut für mich zu erreichen. Das angebotene hybride Arbeitsmodell kommt meinen Vorstellungen dabei sehr entgegen.
-
-Über die Gelegenheit, mich Ihnen persönlich vorzustellen und mehr über die Aufgaben bei SINC zu erfahren, freue ich mich sehr.
+Über die Gelegenheit, Sie in einem persönlichen Gespräch von meiner fachlichen Erfahrung und meiner Motivation zu überzeugen, freue ich mich sehr.
 
 [%unbreakable] 
 --

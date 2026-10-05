@@ -1,0 +1,37 @@
+[width=70%,align=right,cols=1,frame=none,grid=rows]
+|===
+|[.head-h2.fblue]#Technical Skills#
+|
+|===
+
+[align=left,cols=">3,9a",frame=none,grid=none]
+|===
+|[.fgray]#Programmiersprachen & Frameworks:#
+|
+[disc]
+* .NET (ASP.NET MVC, Web API, Entity Framework)
+* C++, Python, JavaScript
+|[.fgray]#Frontend / UI:#
+|
+[disc]
+* jQuery, Angular, DevExpress, WPF
+|[.fgray]#Datenbanken:#
+|
+[disc]
+* MS SQL Server, Oracle, PostgreSQL, MySQL
+* Azure Cosmos, MongoDB, Redis, InfluxDB
+* T-SQL, Stored Procedures, Trigger, Performance-Profiling
+|[.fgray]#Testing:#
+|
+[disc]
+* Unit Testing, NUnit, XUnit, NSubstitute, Moq
+|[.fgray]#DevOps & Infrastruktur:#
+|
+[disc]
+* Linux, Shell- & PowerShell-Scripting
+* Docker, Kubernetes
+* Terraform, Helm, Flux (GitOps)
+* Microsoft Azure
+|===
+
+// {empty} +

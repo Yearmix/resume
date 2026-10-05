@@ -37,7 +37,7 @@ Ukrainisch
 
 a|
 
-image::photo.png[Headshot,pdfwidth=1.8in,float=right]
+image::photo.jpg[Headshot,pdfwidth=1.8in,float=right]
 
 |===
 
@@ -135,76 +135,11 @@ Deutschkurs, VHS Speyer
 
 // {empty} +
 
-[width=70%,align=right,cols=1,frame=none,grid=rows]
-|===
-|[.head-h2.fblue]#Technical Skills#
-|
-|===
+ifdef::pr[include::technical-skills.adoc[]]
 
-[align=left,cols=">3,9a",frame=none,grid=none]
-|===
-|[.fgray]#Programmiersprachen & Frameworks:#
-|
-[disc]
-* .NET (ASP.NET MVC, Web API, Entity Framework)
-* C++, Python, JavaScript
-|[.fgray]#Frontend / UI:#
-|
-[disc]
-* jQuery, Angular, DevExpress, WPF
-|[.fgray]#Datenbanken:#
-|
-[disc]
-* MS SQL Server, Oracle, PostgreSQL, MySQL
-* Azure Cosmos, MongoDB, Redis, InfluxDB
-* T-SQL, Stored Procedures, Trigger, Performance-Profiling
-|[.fgray]#Testing:#
-|
-[disc]
-* Unit Testing, NUnit, XUnit, NSubstitute, Moq
-|[.fgray]#DevOps & Infrastruktur:#
-|
-[disc]
-* Linux, Shell- & PowerShell-Scripting
-* Docker, Kubernetes
-* Terraform, Helm, Flux (GitOps)
-* Microsoft Azure
-|===
+ifdef::pr[include::projekt-erfahrungen.adoc[]]
 
-// {empty} +
-
-[width=70%,align=right,cols=1,frame=none,grid=rows]
-|===
-|[.head-h2.fblue]#Projekt Erfahrungen#
-|
-|===
-
-[align=left,cols=">3,9a",frame=none,grid=none]
-|===
-|[.fgray]#Observability-Plattform – GlobalLogic / SimCorp#
-|
-* Aufbau eines zentralen Monitoringsystems
-* Integration von Azure Application Insights, InfluxDB und ELK
-* Visualisierung und Analyse mit Grafana
-|[.fgray]#Architektur-Refactoring & Testing – GlobalLogic / SimCorp#
-|
-* Überarbeitung einer bestehenden N-Tier-Architektur
-* Einführung strukturierter Unit-Test-Strategien
-|[.fgray]#Abrechnungssystem – GlobalLogic / Carbonite#
-|
-* Wartung und funktionale Erweiterung einer komplexen Billing-Plattform
-|[.fgray]#Datenmigrations-Tool – GlobalLogic / Microsoft#
-|
-* Entwicklung eines Tools zur Migration von Unternehmensdaten
-|[.fgray]#Immobilienverwaltung – Kraftek / Vacation Rental Pros#
-|
-* Entwicklung einer Benutzeroberfläche für Anrufe und SMS über die Cloud-API
-|[.fgray]#Retail- und ERP-Systeme – TAS-Pharma#
-|
-* Entwicklung interner Geschäftsanwendungen für den Einzelhandel
-|===
-
-// {empty} +
+ifdef::pr[include::weitere-kompetenzen.adoc[]]
 
 [width=70%,align=right,cols=1,frame=none,grid=rows]
 |===
@@ -212,120 +147,12 @@ Deutschkurs, VHS Speyer
 |
 |===
 
-[align=left,cols=">3,.^8a",frame=none,grid=none]
+[align=left,cols=">3,8",frame=none,grid=none]
 |===
-|
-[.fgray]#Zielgerichtetes Handeln und Denken#
-|
-[cols="1,1,1,1,1,1,1,1,1,1",frame=none,grid=cols]
-!===
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!===
-|
-[.fgray]#Problemlösungsfähigkeit#
-|
-[cols="1,1,1,1,1,1,1,1,1,1",frame=none,grid=cols]
-!===
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!===
-|
-[.fgray]#analytisches Denken#
-|
-[cols="1,1,1,1,1,1,1,1,1,1",frame=none,grid=cols]
-!===
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!===
-|
-[.fgray]#Teamfähigkeit#
-|
-[cols="1,1,1,1,1,1,1,1,1,1",frame=none,grid=cols]
-!===
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!===
-|
-[.fgray]#technisches Verständnis#
-|
-[cols="1,1,1,1,1,1,1,1,1,1",frame=none,grid=cols]
-!===
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!===
-|
-[.fgray]#Kommunikationsfähigkeit#
-|
-[cols="1,1,1,1,1,1,1,1,1,1",frame=none,grid=cols]
-!===
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!===
-|
-[.fgray]#unternehmerisches Denken#
-|
-[cols="1,1,1,1,1,1,1,1,1,1",frame=none,grid=cols]
-!===
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!{set:cellbgcolor:#007cd9} 
-!===
+|[.fgray]#Meine Stärken#
+|Zielgerichtetes Handeln und Denken, Problemlösungsfähigkeit, analytisches Denken, Teamfähigkeit, technisches Verständnis, Kommunikationsfähigkeit, unternehmerisches Denken
+|[.fgray]#Führerschein#
+|Klasse B, eigener Pkw vorhanden
 |===
 
 {empty} +

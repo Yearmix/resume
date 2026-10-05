@@ -1,0 +1,32 @@
+[width=70%,align=right,cols=1,frame=none,grid=rows]
+|===
+|[.head-h2.fblue]#Projekt Erfahrungen#
+|
+|===
+
+[align=left,cols=">3,9a",frame=none,grid=none]
+|===
+|[.fgray]#Observability-Plattform – GlobalLogic / SimCorp#
+|
+* Aufbau eines zentralen Monitoringsystems
+* Integration von Azure Application Insights, InfluxDB und ELK
+* Visualisierung und Analyse mit Grafana
+|[.fgray]#Architektur-Refactoring & Testing – GlobalLogic / SimCorp#
+|
+* Überarbeitung einer bestehenden N-Tier-Architektur
+* Einführung strukturierter Unit-Test-Strategien
+|[.fgray]#Abrechnungssystem – GlobalLogic / Carbonite#
+|
+* Wartung und funktionale Erweiterung einer komplexen Billing-Plattform
+|[.fgray]#Datenmigrations-Tool – GlobalLogic / Microsoft#
+|
+* Entwicklung eines Tools zur Migration von Unternehmensdaten
+|[.fgray]#Immobilienverwaltung – Kraftek / Vacation Rental Pros#
+|
+* Entwicklung einer Benutzeroberfläche für Anrufe und SMS über die Cloud-API
+|[.fgray]#Retail- und ERP-Systeme – TAS-Pharma#
+|
+* Entwicklung interner Geschäftsanwendungen für den Einzelhandel
+|===
+
+// {empty} +

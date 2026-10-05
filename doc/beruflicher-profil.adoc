@@ -1,0 +1,57 @@
+[width=70%,align=right,cols=1,frame=none,grid=rows]
+|===
+|[.head-h2.fblue]#Beruflicher Profil#
+|
+|===
+
+[align=left,cols=">3,8a",frame=none,grid=rows]
+|===
+|[.fgray]#Projekt: Observability#
+|
+* Entwicklung und Weiterentwicklung von Lösungen zur Korrelation unterschiedlicher Telemetriedaten.
+* Zusammenführung von Application Insights und InfluxDB sowie Integration mit Kibana und Grafana.
+* Arbeit mit OpenTelemetry und Durchführung von Benchmarking.
+* Entwicklung im Umfeld komplexer Cloud- und Container-Infrastrukturen.
+|[.fgray]#Projekt: Investment Management Solutions#
+|
+* Refaktorierung einer N-Tier-/N-Layer-Architektur.
+* Strukturierung und Weiterentwicklung von Unit-Tests sowie Verbesserung der Testorganisation.
+* Arbeit an bestehenden komplexen Softwaresystemen mit Fokus auf Wartbarkeit und Qualität.
+|[.fgray]#Projekt: Billing System#
+|
+* Betreuung und Weiterentwicklung eines bestehenden Billing-Systems.
+* Entwicklung neuer Features für ein komplexes Web-System.
+* Arbeit an Backend, Datenbank und UI-Komponenten.
+Python, C++, Git
+|[.fgray]#Projekt: Migration Tool von Parature zu MS Dynamics#
+|
+* Entwicklung eines Migrationstools von Grund auf.
+* Implementierung von Backend- und Web-Komponenten.
+|[.fgray]#Projekt: Property Management#
+|
+* Entwicklung einer UI für Calls und SMS über eine Cloud-API.
+* Integration von Web- und Backend-Komponenten.
+|[.fgray]#Projekt: Retail Management System#
+|
+* Entwicklung und Wartung einer Retail-Management-Lösung im Pharmacy-Umfeld.
+* Entwicklung von WPF-, WCF- und ASP.NET-Anwendungen sowie KPI- und Reporting-Tools.
+* Zusätzliche Verantwortung für Netzwerk-, Server- und Workstation-Umgebungen.
+|[.fgray]#Projekt: Support Retail Endpoints#
+|
+* Support, Konfiguration, Wartung und Upgrade von Unternehmensnetzwerken.
+* Aufbau von ETLs von 1C nach Firebird sowie Entwicklung von MSSQL-Reports mit SSRS.
+|[.fgray]#*Technologien:*#
+|
+* C#, .NET Core / .NET 6, ASP.NET MVC, ASP.NET Web API, WCF, WPF, Entity Framework
+* Objektorientierte Analyse & Design, UML, N-Tier / N-Layer,Design Patterns, Dependency Injection
+* Unit Testing, automatisierte Tests, NUnit, xUnit, NSubstitute, Moq, Test Case Identification
+* C++/C# .NET APIs, ASP.NET Web API, WCF, SignalR
+* Angular, TypeScript, JavaScript, jQuery, WPF
+* Docker, Kubernetes, Azure, Terraform, Bicep, Helm, Flux, GitOps, PowerShell, Bash
+* OpenTelemetry, AppInsights, InfluxDB, Kibana, Grafana, ELK
+* MS SQL, Oracle, PostgreSQL, MySQL, T-SQL / PL-SQL, MongoDB, Redis, Azure Cosmos
+* Python, Go, C++, F#
+* Agile, Scrum, Extreme Programming, strukturierte und lösungsorientierte Entwicklung
+|===
+
+// {empty} +
