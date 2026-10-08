@@ -1,0 +1,134 @@
+[%nonfacing]
+[%notitle]
+ifdef::all[== Lebenslauf]
+
+[.txt-center.head-h1]
+*OLEKSII POKROVSKYI*
+[.txt-center.head-h2]
+*C# / .NET SOFTWARE DEVELOPER | SOFTWARE ARCHITECTURE | TESTING | DEVOPS*
+
+[.txt-center]
+Speyer, Germany • +49 170 2884753 • alex.pokrowskiy@gmail.com • https://www.linkedin.com/in/alex-pokrowskiy[LinkedIn] • https://wa.me/qr/QKHRAB5ZAMIUK1[WhatsApp]
+
+[.fhel.fblue.head-h2]
+*PROFIL*
+
+Software Developer mit fast 20 Jahren Berufserfahrung in Design, Entwicklung, Debugging, Deployment, Dokumentation und Testing komplexer Client-Server- und Web-Anwendungen. Schwerpunkt auf C#/.NET, objektorientiertem Design, Softwarearchitektur, Unit Testing und API-Entwicklung. Erfahrung mit agilen Entwicklungsmodellen (Scrum, Extreme Programming) sowie moderner Cloud- und DevOps-Infrastruktur.
+
+[.fhel.fblue.head-h2]
+*KERNKOMPETENZEN*
+
+[cols=2,frame=all,grid=all]
+|===
+|C# / .NET 
+|C#, .NET Core / .NET 6, ASP.NET MVC, ASP.NET Web API, WCF, WPF, Entity Framework
+|Architektur
+|Objektorientierte Analyse & Design, UML, N-Tier / N-Layer, Design Patterns, Dependency Injection
+|Testing 
+|Unit Testing, automatisierte Tests, NUnit, xUnit, NSubstitute, Moq, Test Case Identification
+|APIs & Integration 
+|C++/C# .NET APIs, ASP.NET Web API, WCF, SignalR
+|Frontend
+|Angular, TypeScript, JavaScript, jQuery, WPF
+|DevOps / Cloud 
+|Docker, Kubernetes, Azure, Terraform, Bicep, Helm, Flux, GitOps, PowerShell, Bash
+|Observability
+|OpenTelemetry, AppInsights, InfluxDB, Kibana, Grafana, ELK
+|Datenbanken 
+|MS SQL, Oracle, PostgreSQL, MySQL, T-SQL / PL-SQL, MongoDB, Redis, Azure Cosmos
+|Weitere Sprachen
+|Python, Go, C++, F#
+|Arbeitsweise 
+|Agile, Scrum, Extreme Programming, strukturierte und lösungsorientierte Entwicklung
+|===
+
+[.fhel.fblue.head-h2]
+*BERUFSERFAHRUNG*
+
+[.head-h2]#*Dotnet Developer / Observability Developer*# | GlobalLogic / SimCorp, Kyiv | 11/2021 – 07/2024 +
+
+.Projekt: Observability
+* Entwicklung und Weiterentwicklung von Lösungen zur Korrelation unterschiedlicher Telemetriedaten.
+* Zusammenführung von Application Insights und InfluxDB sowie Integration mit Kibana und Grafana.
+* Arbeit mit OpenTelemetry und Durchführung von Benchmarking.
+* Entwicklung im Umfeld komplexer Cloud- und Container-Infrastrukturen. 
+
+*Technologien:* C#/.NET, F#, Go, Python, TypeScript, Angular, OpenTelemetry, Kubernetes, Docker, Azure, GitOps,Terraform, Bicep, Helm, PowerShell, Bash, ELK, Grafana, Application Insights, Oracle, PL/SQL
+
+[.head-h2]#*Dotnet Developer / Software Engineer*# | GlobalLogic / SimCorp, Kyiv | 11/2020 – 10/2021
+
+.Projekt: Investment Management Solutions
+* Refaktorierung einer N-Tier-/N-Layer-Architektur.
+* Strukturierung und Weiterentwicklung von Unit-Tests sowie Verbesserung der Testorganisation.
+* Arbeit an bestehenden komplexen Softwaresystemen mit Fokus auf Wartbarkeit und Qualität.
+
+*Technologien:* C#, .NET, NUnit, xUnit, NSubstitute, Moq, DevExpress, BenchmarkDotNet, Oracle, APL
+
+[.head-h2]#*Full-Stack Developer / .NET Software Engineer*# | GlobalLogic / Carbonite, Boston | 01/2018 – 10/2020
+
+.Projekt: Billing System
+* Betreuung und Weiterentwicklung eines bestehenden Billing-Systems.
+* Entwicklung neuer Features für ein komplexes Web-System.
+* Arbeit an Backend, Datenbank und UI-Komponenten.
+
+*Technologien:* .NET, ASP.NET MVC, Web Forms, Web API, WCF, NUnit, T-SQL, MS SQL, MySQL, JavaScript, jQuery,Python, C++, Git
+
+[.head-h2]#*Full-Stack Developer / .NET Software Engineer*# | GlobalLogic / Microsoft, Kyiv | 03/2017 – 01/2018
+
+.Projekt: Migration Tool von Parature zu MS Dynamics
+* Entwicklung eines Migrationstools von Grund auf.
+* Implementierung von Backend- und Web-Komponenten.
+
+*Technologien:* .NET, ASP.NET MVC, WCF, JavaScript, jQuery, VSTS
+
+[.head-h2]#*Full-Stack Developer / .NET Software Engineer*# | GlobalLogic / Vacation Rental Pros, Kyiv | 06/2014 – 09/2016
+
+.Projekt: Property Management
+* Entwicklung einer UI für Calls und SMS über eine Cloud-API.
+* Integration von Web- und Backend-Komponenten.
+
+*Technologien:* .NET, ASP.NET MVC, WCF, Web API, TFS
+
+[.head-h2]#*Application Developer / .NET Developer & System Engineer*# | TAS-Pharma, Kyiv | 11/2009 – 06/2014
+
+.Projekt: Retail Management System
+* Entwicklung und Wartung einer Retail-Management-Lösung im Pharmacy-Umfeld.
+* Entwicklung von WPF-, WCF- und ASP.NET-Anwendungen sowie KPI- und Reporting-Tools.
+* Zusätzliche Verantwortung für Netzwerk-, Server- und Workstation-Umgebungen.
+
+*Technologien:* .NET, WPF, WCF, ASP.NET Web Forms, MSSQL, SQL CE, C++, MFC, 1C, Unix/FreeBSD, Windows,PowerShell, Python, SVN
+
+[.head-h2]#*System Engineer / Data Analyst*# | TERNOPHARM, Kyiv | 01/2008 – 11/2009
+
+.Projekt: Support Retail Endpoints
+* Support, Konfiguration, Wartung und Upgrade von Unternehmensnetzwerken.
+* Aufbau von ETLs von 1C nach Firebird sowie Entwicklung von MSSQL-Reports mit SSRS.
+
+*Technologien:* MSSQL, Firebird, SSRS, ASP.NET Web Forms, 1C, Windows, Linux
+
+[.fhel.fblue.head-h2]
+*AUSBILDUNG*
+
+Bachelor – Application Programming | National Aviation University (NAU), Kyiv, Ukraine | 09/2005 – 05/2008 +
+Junior Specialist – Math Programming | Olexandria Polytechnic College, Ukraine | 09/2001 – 05/2005
+
+[.fhel.fblue.head-h2]
+*SPRACHEN*
+
+Deutsch: B1 (schriftlich und mündlich) | Englisch – Verhandlungssicher | Ukrainisch/ Russisch – Muttersprachen
+
+[.fhel.fblue.head-h2]
+*ZUSÄTZLICH*
+
+Erfahrung mit ISO- und CMM-Modellen sowie technischer Dokumentation über verschiedene Phasen des Software Development Life Cycle (SDLC).
+
+{empty} +
+
+[%unbreakable] 
+--
+:figure-caption!:
+.Oleksii Pokrovskyi
+image::sign.jpg[Sign,100,float=left]
+[.txt-right]
+Speyer, {revdate} 
+--

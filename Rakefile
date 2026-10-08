@@ -7,7 +7,7 @@ namespace :resume do
   params = "--attribute revnumber='#{version_string}' --attribute revdate='#{date_string}' -a show-link-uri! -a media=prepress"
 
   desc 'build PDF format'
-  task :build_pdf => [:build_all_pdf, :build_cover_letter_pdf, :build_curriculum_vitae_pdf, :build_resume_pdf] do
+  task :build_pdf => [:build_all_pdf, :build_cover_letter_pdf, :build_curriculum_vitae_pdf, :build_resume_pdf, :build_cl_pdf, :build_cv_pdf] do
   end
 
   desc 'build PDF format all in one'
@@ -34,7 +34,21 @@ namespace :resume do
   desc 'build PDF format new resume'
   task :build_resume_pdf do
       puts 'Converting to PDF...'
-      sh "bundle exec asciidoctor-pdf #{params} doc/resume_new.adoc -o doc/Oleksii_Pokrovskyi_CV_#{version_string}.pdf"
+      sh "bundle exec asciidoctor-pdf #{params} --attribute all doc/resume_new.adoc -o doc/Oleksii_Pokrovskyi_R_#{version_string}.pdf"
+      puts ' -- PDF output at '
+  end
+
+  desc 'build PDF format new cover letter only'
+  task :build_cl_pdf do
+      puts 'Converting to PDF...'
+      sh "bundle exec asciidoctor-pdf #{params} --attribute cover-letter doc/resume_new.adoc -o doc/Oleksii_Pokrovskyi_CL_#{version_string}.pdf"
+      puts ' -- PDF output at '
+  end
+
+  desc 'build PDF format new curriculum vitae only'
+  task :build_cv_pdf do
+      puts 'Converting to PDF...'
+      sh "bundle exec asciidoctor-pdf #{params} --attribute curriculum-vitae doc/resume_new.adoc -o doc/Oleksii_Pokrovskyi_CV_#{version_string}.pdf"
       puts ' -- PDF output at '
   end
 end
