@@ -14,9 +14,9 @@ Speyer, Germany • +49 170 2884753 • alex.pokrowskiy@gmail.com • https://ww
 
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-Amadeus Fire AG +
-Vordernbergstraße 6 +
-70191 Stuttgart +
+adesta GmbH & Co. KG +
+Wilhelminenstraße 25 +
+64283 Darmstadt +
 Deutschland +
 
 {empty} +
@@ -27,25 +27,27 @@ Speyer, {revdate}
 {empty} +
 
 [.fhel.fblue.head-h2]
-*Bewerbung als Junior Teamleiter (m/w/d) Development*
+*Bewerbung als Softwareentwickler (m/w/d)*
 
 // Ihre Stellenanzeige bei LinkedIn vom xx.xx.xxxx
-Ihre Stellenanzeige auf LinkedIn +  
-Referenz-Nr.: 16-256568
+Ihre Stellenanzeige auf Arbeitsagentur +
+Referenz-Nr.: 18384-EZUTIS8OHWAH43LQ-S
 
 {empty} +
 
-Sehr geehrte Frau Elmas,
+Sehr geehrte Frau Hög,
 
-Ihre Stellenanzeige für die Position als Junior Teamleiter Development bei der Amadeus Fire AG hat mich sehr angesprochen. Mit fast 20 Jahren Berufserfahrung in der Softwareentwicklung im C#/.NET-Umfeld und meiner Begeisterung für moderne Technologien möchte ich gerne den nächsten Schritt in meiner Karriere gehen und Verantwortung übernehmen.
+Ihre Stellenanzeige auf adesta hat mich sofort angesprochen. Da ich auf der Suche nach meinem ersten beruflichen Einsatz und wertvoller Praxiserfahrung in Deutschland bin, sehe ich in dieser Position bei einem renommierten Unternehmen der Metall- und Elektroindustrie die ideale Gelegenheit, mein Wissen einzubringen.
 
-In meiner bisherigen Laufbahn – unter anderem bei Unternehmen wie Microsoft, Carbonite und SimCorp – habe ich komplexe Softwareanwendungen entwickelt, bestehende Systeme optimiert und eng mit Entwicklerteams zusammengearbeitet. Ich bringe fundierte Kenntnisse in C#, .NET, ASP.NET Core sowie modernen Softwarearchitekturen mit. Auch die fachliche Begleitung von Projekten und die Unterstützung von Kollegen gehören zu meinen Stärken, die ich gerne in Ihr Team einbringen möchte.
+Mit fast 20 Jahren Berufserfahrung als Softwareentwickler bringe ich umfassende Kenntnisse im Bereich der Softwareentwicklung mit. In meiner bisherigen Laufbahn – unter anderem bei internationalen Unternehmen wie Microsoft, Carbonite und SimCorp – habe ich intensiv an der Entwicklung und Optimierung von Desktop- und Client-Server-Anwendungen gearbeitet.
 
-Da ich meinen Lebensmittelpunkt mittlerweile in Deutschland habe, suche ich hier primär nach einem stabilen und zukunftsorientierten Arbeitsumfeld, in dem ich meine langjährige Erfahrung einbringen und mich beruflich weiterentwickeln kann. Das Sammeln von wertvoller Praxiserfahrung in einem deutschen Unternehmen steht für mich dabei im Vordergrund, weshalb das Gehalt für mich aktuell zweitrangig ist.
+Die in der Ausschreibung genannten Technologien und Konzepte wie C#, .NET, WPF und MVVM sind mir bestens vertraut. Durch meine langjährige Praxis kann ich mich schnell in komplexe Softwarelandschaften einarbeiten, eigenverantwortlich arbeiten und zu einer hohen Codequalität beitragen.
 
-Ich verfüge über gute Englischkenntnisse sowie Deutschkenntnisse auf dem Niveau B1 und kann mich problemlos in internationale und deutschsprachige Teams integrieren.
+Für mich steht bei dieser Stelle nicht das Gehalt im Vordergrund, sondern die Chance, in Deutschland Fuß zu fassen, mich in einem professionellen Umfeld zu bewähren und langfristig wertvolle Berufserfahrung einzubringen.
 
-Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen und meine Motivation zu erläutern, freue ich mich sehr.
+Ich spreche fließend Englisch und verfüge über Deutschkenntnisse auf dem Niveau B1. Da ich in Speyer wohne, ist der Arbeitsort Darmstadt für mich gut erreichbar. Ich bin es gewohnt, in internationalen Teams zu arbeiten, und stehe Ihnen ab sofort zur Verfügung.
+
+Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen, freue ich sehr.
 
 {empty} +
 
