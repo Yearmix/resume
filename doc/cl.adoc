@@ -14,9 +14,9 @@ Speyer, Germany • +49 170 2884753 • alex.pokrowskiy@gmail.com • https://ww
 
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-adesta GmbH & Co. KG +
-Wilhelminenstraße 25 +
-64283 Darmstadt +
+WENZEL Group GmbH & Co. KG +
+Werner-Wenzel-Straße +
+97859 Wiesthal +
 Deutschland +
 
 {empty} +
@@ -30,24 +30,22 @@ Speyer, {revdate}
 *Bewerbung als Softwareentwickler (m/w/d)*
 
 // Ihre Stellenanzeige bei LinkedIn vom xx.xx.xxxx
-Ihre Stellenanzeige auf Arbeitsagentur +
-Referenz-Nr.: 18384-EZUTIS8OHWAH43LQ-S
+Ihre Stellenanzeige auf LinkedIn +
+Referenz-Nr.: GR130
 
 {empty} +
 
-Sehr geehrte Frau Hög,
+Sehr geehrte Frau Antoni,
 
-Ihre Stellenanzeige auf adesta hat mich sofort angesprochen. Da ich auf der Suche nach meinem ersten beruflichen Einsatz und wertvoller Praxiserfahrung in Deutschland bin, sehe ich in dieser Position bei einem renommierten Unternehmen der Metall- und Elektroindustrie die ideale Gelegenheit, mein Wissen einzubringen.
+Ihre Stellenanzeige für den Entwicklungsstandort Karlsruhe hat mich sofort sehr angesprochen. Mit fast 20 Jahren Berufserfahrung in der Softwareentwicklung – darunter langjährige Expertise in C#, .NET und WPF – sehe ich in dieser Position eine wunderbare Möglichkeit, mein Wissen gezielt einzubringen und gemeinsam mit Ihnen an anspruchsvollen Messtechnik-Lösungen zu arbeiten.
 
-Mit fast 20 Jahren Berufserfahrung als Softwareentwickler bringe ich umfassende Kenntnisse im Bereich der Softwareentwicklung mit. In meiner bisherigen Laufbahn – unter anderem bei internationalen Unternehmen wie Microsoft, Carbonite und SimCorp – habe ich intensiv an der Entwicklung und Optimierung von Desktop- und Client-Server-Anwendungen gearbeitet.
+Durch meine bisherige Tätigkeit als Software Engineer für namhafte internationale Unternehmen wie Microsoft, Carbonite und SimCorp bringe ich fundierte Kenntnisse in der Entwicklung komplexer Desktop- und Client-Server-Anwendungen mit. Ich bin vertraut mit dem Entwurf sauberer Software-Architekturen, der Code-Optimierung sowie der Begleitung des gesamten Softwareentwicklungsprozesses von der Anforderungsanalyse bis hin zum Test. Die im Anforderungsprofil genannten Technologien wie C#, .NET, WPF begleiten mich bereits seit vielen Jahren in meiner täglichen Praxis.
 
-Die in der Ausschreibung genannten Technologien und Konzepte wie C#, .NET, WPF und MVVM sind mir bestens vertraut. Durch meine langjährige Praxis kann ich mich schnell in komplexe Softwarelandschaften einarbeiten, eigenverantwortlich arbeiten und zu einer hohen Codequalität beitragen.
+Da ich vor kurzem nach Deutschland (Speyer) gezogen bin, suche ich nun in erster Linie nach meinem ersten beruflichen Wirkungskreis hier vor Ort sowie nach wertvoller Praxiserfahrung im deutschen Arbeitsumfeld. Mir ist es besonders wichtig, Teil eines stabilen und wertschätzenden Unternehmens zu sein, mich fachlich weiterzuentwickeln und langfristig einen verlässlichen Beitrag zu leisten. Daher stehen für mich das Sammeln von Erfahrungen in einem neuen Umfeld und die erfolgreiche Zusammenarbeit mit meinem Team an erster Stelle, während die Gehaltsfrage für mich aktuell zweitrangig ist.
 
-Für mich steht bei dieser Stelle nicht das Gehalt im Vordergrund, sondern die Chance, in Deutschland Fuß zu fassen, mich in einem professionellen Umfeld zu bewähren und langfristig wertvolle Berufserfahrung einzubringen.
+Mittlerweile verfüge ich über Deutschkenntnisse auf dem Niveau B1. Da ich zudem fließend Englisch spreche und es gewohnt bin, in multikulturellen Teams zu arbeiten, kann ich mich schnell und unkompliziert in Ihr Team integrieren. Der Standort Karlsruhe ist für mich hervorragend erreichbar.
 
-Ich spreche fließend Englisch und verfüge über Deutschkenntnisse auf dem Niveau B1. Da ich in Speyer wohne, ist der Arbeitsort Darmstadt für mich gut erreichbar. Ich bin es gewohnt, in internationalen Teams zu arbeiten, und stehe Ihnen ab sofort zur Verfügung.
-
-Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen, freue ich sehr.
+Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen und meine Motivation zu verdeutlichen, freue ich mich sehr.
 
 {empty} +
 
