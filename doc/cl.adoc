@@ -14,9 +14,9 @@ Speyer, Germany • +49 170 2884753 • alex.pokrowskiy@gmail.com • https://ww
 
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-KERN & SOHN GmbH +
-Ziegelei 1 +
-72336 Balingen-Frommern +
+KV Hessen +
+Europa-Allee 90 +
+60486 Frankfurt +
 Deutschland +
 
 {empty} +
@@ -27,25 +27,25 @@ Speyer, {revdate}
 {empty} +
 
 [.fhel.fblue.head-h2]
-*Bewerbung als Software-Entwickler (m/w/d)*
+*Bewerbung als Senior Entwickler C# (m/w/d)*
 
 // Ihre Stellenanzeige bei LinkedIn vom xx.xx.xxxx
-Ihre Stellenanzeige auf LinkedIn 
-// Referenz-Nr.: 551344
+Ihre Stellenanzeige auf Arbeitsagentur 
+Referenz-Nr.: 14089-01499270-S
 
 {empty} +
 
-Sehr geehrte Frau Schubert,
+Sehr geehrte Frau Stiller,
 
-Ihre Stellenanzeige auf der Website hat mich sofort sehr angesprochen. Die Marke KERN & SOHN steht seit über 180 Jahren für höchste Präzision und Verlässlichkeit – Werte, die ich auch in meiner eigenen Arbeit als Softwareentwickler als oberste Priorität betrachte. Da ich mich derzeit darauf konzentriere, in Deutschland Fuß zu fassen und hier meinen beruflichen Weg weiterzugehen, suche ich vor allem nach einem stabilen und zukunftssicheren Arbeitsplatz, bei dem ich meine langjährige Erfahrung einbringen und mich mit vollem Einsatz einarbeiten kann.
+Ihre Stellenanzeige auf Arbeitsagentur Website hat mich sofort sehr angesprochen. Sie suchen einen erfahrenen Senior-Entwickler für die Weiterentwicklung im Bereich Abrechnung und für das Anpassen des EBM-basierten Regelwerks im Microsoft-Systemumfeld. Genau das deckt sich mit meiner langjährigen beruflichen Erfahrung und meiner Expertise im Bereich C# und .NET.
 
-Mit knapp 20 Jahren Berufserfahrung im Software Engineering bringe ich fundierte Kenntnisse in C# / .NET, SQL und relationalen Datenbanken sowie im Umgang mit Versionierungstools wie Git mit. In meiner Laufbahn – unter anderem bei internationalen Projekten für Unternehmen wie Microsoft, Carbonite und SimCorp – war ich maßgeblich an der Entwicklung, Optimierung und Betreuung komplexer Client-Server- und Web-Anwendungen beteiligt. Auch die Arbeit mit ERP-Systemen, Datenstrukturen und Schnittstellen gehört zu meinem vertrauten Aufgabengebiet.
+Mit fast 20 Jahren Berufserfahrung im Software Engineering und erfolgreichen Projekten für namhafte Unternehmen wie Microsoft, Carbonite und SimCorp bringe ich ein fundiertes Know-how in der Entwicklung komplexer Applikationen mit. Ich verfüge über umfassende praktische Erfahrungen in C#, .NET, MS SQL sowie in modernen Entwicklungsumgebungen und Tools wie Azure DevOps, Git, Visual Studio und Jira, die in Ihrem Unternehmen eingesetzt werden. Auch in den Bereichen Code Reviews, Qualitätssicherung und Dokumentation besitze ich langjährige Routine.
 
-Die von Ihnen beschriebenen Aufgaben – wie die Weiterentwicklung der Produktdatenbank, das Implementieren neuer Funktionen, das Bearbeiten von Bugs sowie die enge Abstimmung mit Fachabteilungen – entsprechen exakt meinem Profil und meiner strukturierten, sorgfältigen Arbeitsweise. Da ich in multinationalen Teams gearbeitet habe und über fließende Englischkenntnisse verfüge, fällt mir die Abstimmung im internationalen Entwicklungsteam leicht. Zudem habe ich in den letzten Monaten intensiv an meiner Integration gearbeitet und verfüge mittlerweile über das B1-Zertifikat in deutscher Sprache.
+Als in Speyer ansässiger Entwickler bin ich aktuell auf der Suche nach einer neuen beruflichen Heimat in Deutschland. Für mich steht dabei nicht die Höhe des Gehalts im Vordergrund, sondern die Chance, in einem festen Team vor Ort in Frankfurt anzukommen, wertvolle Praxiserfahrung in einem deutschen Unternehmen zu sammeln und langfristig zum Erfolg Ihres Teams beizutragen.
 
-Da dies mein erster Arbeitsplatz in Deutschland sein soll, stehen für mich nicht finanzielle Vorstellungen an erster Stelle, sondern die Möglichkeit, mich langfristig in Ihr Team zu integrieren, wertvolle Praxiserfahrung im deutschen Arbeitsumfeld zu sammeln und gemeinsam mit Ihnen zuverlässige Lösungen zu schaffen. Um Ihnen die Gelegenheit zu geben, mich und meine Arbeitsweise kennenzulernen, stehe ich Ihnen sehr gerne auch für eine Probezeit oder eine Probearbeit zur Verfügung.
+Mittlerweile verfüge ich über gute Deutschkenntnisse auf B1-Niveau und spreche fließend Englisch. Dank meiner langjährigen Arbeit in internationalen Teams kann ich mich schnell und unkompliziert in Ihr Team integrieren, mich in neue Aufgaben einarbeiten und meine Kenntnisse an Kolleginnen und Kollegen weitergeben.
 
-Über die Gelegenheit, mich in einem persönlichen Gespräch vorzustellen, freue ich mich sehr.
+Ich freue mich sehr über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen und Sie von meiner Motivation und Eignung zu überzeugen.
 
 {empty} +
 
