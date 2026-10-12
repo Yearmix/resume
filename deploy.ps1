@@ -27,3 +27,7 @@ Read-Host -Prompt "Press any key to continue..." | Out-Null
 
 docker rm --force $cnt
 docker image rm --force $img
+
+$cls = $dst_path + "\*"
+
+Remove-Item -Path $cls -Recurse -Force -Verbose

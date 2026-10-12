@@ -14,9 +14,9 @@ Speyer, Germany • +49 170 2884753 • alex.pokrowskiy@gmail.com • https://ww
 
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-KV Hessen +
-Europa-Allee 90 +
-60486 Frankfurt +
+Amadeus Fire AG +
+Vordernbergstraße 6 +
+70191 Stuttgart +
 Deutschland +
 
 {empty} +
@@ -27,25 +27,25 @@ Speyer, {revdate}
 {empty} +
 
 [.fhel.fblue.head-h2]
-*Bewerbung als Senior Entwickler C# (m/w/d)*
+*Bewerbung als Junior Teamleiter (m/w/d) Development*
 
 // Ihre Stellenanzeige bei LinkedIn vom xx.xx.xxxx
-Ihre Stellenanzeige auf Arbeitsagentur 
-Referenz-Nr.: 14089-01499270-S
+Ihre Stellenanzeige auf LinkedIn +  
+Referenz-Nr.: 16-256568
 
 {empty} +
 
-Sehr geehrte Frau Stiller,
+Sehr geehrte Frau Elmas,
 
-Ihre Stellenanzeige auf Arbeitsagentur Website hat mich sofort sehr angesprochen. Sie suchen einen erfahrenen Senior-Entwickler für die Weiterentwicklung im Bereich Abrechnung und für das Anpassen des EBM-basierten Regelwerks im Microsoft-Systemumfeld. Genau das deckt sich mit meiner langjährigen beruflichen Erfahrung und meiner Expertise im Bereich C# und .NET.
+Ihre Stellenanzeige für die Position als Junior Teamleiter Development bei der Amadeus Fire AG hat mich sehr angesprochen. Mit fast 20 Jahren Berufserfahrung in der Softwareentwicklung im C#/.NET-Umfeld und meiner Begeisterung für moderne Technologien möchte ich gerne den nächsten Schritt in meiner Karriere gehen und Verantwortung übernehmen.
 
-Mit fast 20 Jahren Berufserfahrung im Software Engineering und erfolgreichen Projekten für namhafte Unternehmen wie Microsoft, Carbonite und SimCorp bringe ich ein fundiertes Know-how in der Entwicklung komplexer Applikationen mit. Ich verfüge über umfassende praktische Erfahrungen in C#, .NET, MS SQL sowie in modernen Entwicklungsumgebungen und Tools wie Azure DevOps, Git, Visual Studio und Jira, die in Ihrem Unternehmen eingesetzt werden. Auch in den Bereichen Code Reviews, Qualitätssicherung und Dokumentation besitze ich langjährige Routine.
+In meiner bisherigen Laufbahn – unter anderem bei Unternehmen wie Microsoft, Carbonite und SimCorp – habe ich komplexe Softwareanwendungen entwickelt, bestehende Systeme optimiert und eng mit Entwicklerteams zusammengearbeitet. Ich bringe fundierte Kenntnisse in C#, .NET, ASP.NET Core sowie modernen Softwarearchitekturen mit. Auch die fachliche Begleitung von Projekten und die Unterstützung von Kollegen gehören zu meinen Stärken, die ich gerne in Ihr Team einbringen möchte.
 
-Als in Speyer ansässiger Entwickler bin ich aktuell auf der Suche nach einer neuen beruflichen Heimat in Deutschland. Für mich steht dabei nicht die Höhe des Gehalts im Vordergrund, sondern die Chance, in einem festen Team vor Ort in Frankfurt anzukommen, wertvolle Praxiserfahrung in einem deutschen Unternehmen zu sammeln und langfristig zum Erfolg Ihres Teams beizutragen.
+Da ich meinen Lebensmittelpunkt mittlerweile in Deutschland habe, suche ich hier primär nach einem stabilen und zukunftsorientierten Arbeitsumfeld, in dem ich meine langjährige Erfahrung einbringen und mich beruflich weiterentwickeln kann. Das Sammeln von wertvoller Praxiserfahrung in einem deutschen Unternehmen steht für mich dabei im Vordergrund, weshalb das Gehalt für mich aktuell zweitrangig ist.
 
-Mittlerweile verfüge ich über gute Deutschkenntnisse auf B1-Niveau und spreche fließend Englisch. Dank meiner langjährigen Arbeit in internationalen Teams kann ich mich schnell und unkompliziert in Ihr Team integrieren, mich in neue Aufgaben einarbeiten und meine Kenntnisse an Kolleginnen und Kollegen weitergeben.
+Ich verfüge über gute Englischkenntnisse sowie Deutschkenntnisse auf dem Niveau B1 und kann mich problemlos in internationale und deutschsprachige Teams integrieren.
 
-Ich freue mich sehr über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen und Sie von meiner Motivation und Eignung zu überzeugen.
+Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen und meine Motivation zu erläutern, freue ich mich sehr.
 
 {empty} +
 
