@@ -14,9 +14,9 @@ Speyer, Germany • +49 170 2884753 • alex.pokrowskiy@gmail.com • https://ww
 
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-WENZEL Group GmbH & Co. KG +
-Werner-Wenzel-Straße +
-97859 Wiesthal +
+Liebherr-Aerospace Lindenberg GmbH +
+Pfänderstraße 50-52 +
+88161 Lindenberg im Allgäu +
 Deutschland +
 
 {empty} +
@@ -27,25 +27,25 @@ Speyer, {revdate}
 {empty} +
 
 [.fhel.fblue.head-h2]
-*Bewerbung als Softwareentwickler (m/w/d)*
+*Bewerbung als Software Engineer .NET*
 
 // Ihre Stellenanzeige bei LinkedIn vom xx.xx.xxxx
-Ihre Stellenanzeige auf LinkedIn +
-Referenz-Nr.: GR130
+Ihre Stellenanzeige auf LinkedIn 
+// Referenz-Nr.: GR130
 
 {empty} +
 
-Sehr geehrte Frau Antoni,
+Sehr geehrte Frau Hammrich,
 
-Ihre Stellenanzeige für den Entwicklungsstandort Karlsruhe hat mich sofort sehr angesprochen. Mit fast 20 Jahren Berufserfahrung in der Softwareentwicklung – darunter langjährige Expertise in C#, .NET und WPF – sehe ich in dieser Position eine wunderbare Möglichkeit, mein Wissen gezielt einzubringen und gemeinsam mit Ihnen an anspruchsvollen Messtechnik-Lösungen zu arbeiten.
+Ihre Stellenanzeige für die Position als Software Engineer .NET bei der Liebherr-Aerospace Lindenberg GmbH hat mich sofort sehr angesprochen. Die Entwicklung technologisch anspruchsvoller Web- und Desktop-Anwendungen im Microsoft-Umfeld entspricht exakt meinem professionellen Hintergrund und meiner langjährigen Leidenschaft.
 
-Durch meine bisherige Tätigkeit als Software Engineer für namhafte internationale Unternehmen wie Microsoft, Carbonite und SimCorp bringe ich fundierte Kenntnisse in der Entwicklung komplexer Desktop- und Client-Server-Anwendungen mit. Ich bin vertraut mit dem Entwurf sauberer Software-Architekturen, der Code-Optimierung sowie der Begleitung des gesamten Softwareentwicklungsprozesses von der Anforderungsanalyse bis hin zum Test. Die im Anforderungsprofil genannten Technologien wie C#, .NET, WPF begleiten mich bereits seit vielen Jahren in meiner täglichen Praxis.
+Mit fast 20 Jahren Erfahrung in der Softwareentwicklung – darunter langjährige Tätigkeiten für globale Unternehmen wie Microsoft, Carbonite und SimCorp – bringe ich fundiertes Fachwissen mit. Ich habe umfassende Expertise in C# (.NET Core und Framework), ASP.NET, WPF sowie modernen Cloud- und Container-Technologien wie Docker und Kubernetes. Auch in den Bereichen skalierbare Software-Architekturen, RESTful APIs, CI/CD-Prozesse und automatisierte Tests (Unit- und Integrationstests) besitze ich tiefe praktische Erfahrung.
 
-Da ich vor kurzem nach Deutschland (Speyer) gezogen bin, suche ich nun in erster Linie nach meinem ersten beruflichen Wirkungskreis hier vor Ort sowie nach wertvoller Praxiserfahrung im deutschen Arbeitsumfeld. Mir ist es besonders wichtig, Teil eines stabilen und wertschätzenden Unternehmens zu sein, mich fachlich weiterzuentwickeln und langfristig einen verlässlichen Beitrag zu leisten. Daher stehen für mich das Sammeln von Erfahrungen in einem neuen Umfeld und die erfolgreiche Zusammenarbeit mit meinem Team an erster Stelle, während die Gehaltsfrage für mich aktuell zweitrangig ist.
+Da ich vor kurzem nach Deutschland gezogen bin, suche ich vor allem meinen ersten beruflichen Einstieg und praktische Arbeitserfahrung hier vor Ort, um mich in das deutsche Arbeitsumfeld optimal zu integrieren. Eine klassische leistungsgerechte Vergütung steht für mich im Moment nicht an erster Stelle; vielmehr möchte ich meine langjährige fachliche Kompetenz und meine „Hands-on“-Mentalität direkt und motiviert in Ihr Team einbringen, mich bewähren und gemeinsam mit Ihnen hochwertige Systeme gestalten.
 
-Mittlerweile verfüge ich über Deutschkenntnisse auf dem Niveau B1. Da ich zudem fließend Englisch spreche und es gewohnt bin, in multikulturellen Teams zu arbeiten, kann ich mich schnell und unkompliziert in Ihr Team integrieren. Der Standort Karlsruhe ist für mich hervorragend erreichbar.
+Neben sehr guten technischen Kenntnissen bringe ich eine strukturierte, analytische Arbeitsweise sowie fließende englische Sprachkenntnisse für die internationale Zusammenarbeit mit. Meine deutschen Sprachkenntnisse befinden sich auf dem Niveau B1 und ich arbeite kontinuierlich daran, diese im täglichen Austausch weiter zu verbessern.
 
-Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen und meine Motivation zu verdeutlichen, freue ich mich sehr.
+Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen und meine Motivation zu erläutern, freue ich sich sehr.
 
 {empty} +
 
