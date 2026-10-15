@@ -14,9 +14,9 @@ Speyer, Germany • +49 170 2884753 • alex.pokrowskiy@gmail.com • https://ww
 
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-APRIORI – BUSINESS SOLUTIONS AG +
-Schwalbenrainweg 24 +
-63741 Aschaffenburg +
+SKALBACH GMBH +
+Königstraße 34 +
+70173 Stuttgart +
 Deutschland +
 
 {empty} +
@@ -27,25 +27,24 @@ Speyer, {revdate}
 {empty} +
 
 [.fhel.fblue.head-h2]
-*Bewerbung als Softwareentwickler C# / .NET / WPF - Pharma-Tech*
+*Bewerbung als Softwareentwickler C#/.NET (m/w/d)*
 
 // Ihre Stellenanzeige bei LinkedIn vom xx.xx.xxxx
 Ihre Stellenanzeige auf Xing +
-Referenz-Nr.: 273669
+Einsatzorte: Bühl
+// Referenz-Nr.: 273669
 
 {empty} +
 
-Sehr geehrter Herr Darakci,
+Sehr geehrte Frau Zanic,
 
-Ihre Stellenanzeige für einen Softwareentwickler im Bereich C#, .NET und WPF hat mich sehr angesprochen. Die Entwicklung von modernen Bedien- und Benutzeroberflächen für hochpräzise pharmazeutische Anlagen passt perfekt zu meiner langjährigen Berufserfahrung und meinen technischen Schwerpunkten.
+Ihre Stellenanzeige für die Position als Softwareentwickler C#/.NET hat mich sofort angesprochen. Da ich nach meinem Umzug nach Deutschland nun den nächsten Schritt in meiner beruflichen Laufbahn gehen möchte, suche ich gezielt nach einer spannenden Herausforderung in einem innovativen Unternehmen. Ihr Umfeld mit modernen Entwicklungsprozessen und geschäftskritischen Systemen passt perfekt zu meinem Profil.
 
-Mit fast 20 Jahren Erfahrung im Software Engineering war ich umfassend an der Entwicklung, dem Design und der Optimierung von komplexen Anwendungen beteiligt. Ich bringe fundiertes Know-how in C#, .NET Framework 4.8 sowie tiefgehende praktische Erfahrung mit WPF, XAML und MVVM mit. Frühere Projekte – wie beispielsweise bei TAS-Pharma – umfassten genau diese Technologien für anspruchsvolle Intranet- und WPF-Anwendungen. Zudem zeichnen mich eine selbstständige Arbeitsweise, ein hoher Anspruch an sauberen Code und der sichere Umgang mit Git aus.
+Mit fast 20 Jahren Berufserfahrung in der Softwareentwicklung bringe ich ein tiefes technisches Fundament mit. In meiner Laufbahn – unter anderem bei internationalen Unternehmen wie Microsoft, Carbonite und SimCorp – habe ich umfangreiche Expertise in der Entwicklung von C#-, .NET- und Web-Anwendungen aufgebaut. Ich verfüge über fundierte Kenntnisse in moderner Softwarearchitektur, Datenbanken, REST-Schnittstellen sowie in der Qualitätssicherung durch sauberen und wartbaren Code.
 
-Da ich vor Kurzem nach Deutschland gezogen bin, suche ich aktuell in erster Linie nach einer neuen beruflichen Heimat und wertvoller Praxiserfahrung in einem deutschen Unternehmen. Das Thema Vergütung steht für mich dabei nicht im Vordergrund; vielmehr möchte ich mich langfristig in Ihr Team einbringen, meine Fähigkeiten voll ausschöpfen und einen wertvollen Beitrag zum Erfolg Ihres familiengeführten Unternehmens leisten.
+Da ich mich derzeit auf den Aufbau meiner beruflichen Zukunft in Deutschland konzentriere, steht für mich nicht das Gehalt im Vordergrund. Mein Hauptziel ist es, in einem professionellen und kollegialen Team Fuß zu fassen, wertvolle Praxiserfahrung im deutschen Arbeitsmarkt zu sammeln und langfristig zum Erfolg Ihres Unternehmens beizutragen. Meine Deutschkenntnisse befinden sich auf dem Niveau B1, und dank meiner langjährigen Arbeit in multinationalen Teams verständige ich mich zudem fließend und sicher auf Englisch.
 
-Mittlerweile verfüge ich über das B1-Zertifikat in deutscher Sprache. Da ich zudem fließend auf Englisch arbeite und in der Vergangenheit oft in internationalen Teams tätig war, kann ich mich schnell und unkompliziert in Ihr Team integrieren.
-
-Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen und meine Motivation zu zeigen, freue ich sehr.
+Ich freue mich sehr über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen und Sie von meiner Motivation und meiner fachlichen Eignung zu überzeugen.
 
 {empty} +
 
