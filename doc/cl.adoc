@@ -14,9 +14,9 @@ Speyer, Germany • +49 170 2884753 • alex.pokrowskiy@gmail.com • https://ww
 
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-Liebherr-Aerospace Lindenberg GmbH +
-Pfänderstraße 50-52 +
-88161 Lindenberg im Allgäu +
+Septeo Legal Solutions Deutschland GmbH +
+Brauerstrasse 12 +
+76135 Karlsruhe +
 Deutschland +
 
 {empty} +
@@ -27,7 +27,7 @@ Speyer, {revdate}
 {empty} +
 
 [.fhel.fblue.head-h2]
-*Bewerbung als Software Engineer .NET*
+*Bewerbung als Software Consultant (w/m/d)*
 
 // Ihre Stellenanzeige bei LinkedIn vom xx.xx.xxxx
 Ihre Stellenanzeige auf LinkedIn 
@@ -35,17 +35,19 @@ Ihre Stellenanzeige auf LinkedIn
 
 {empty} +
 
-Sehr geehrte Frau Hammrich,
+Sehr geehrte Frau Ostwald,
 
-Ihre Stellenanzeige für die Position als Software Engineer .NET bei der Liebherr-Aerospace Lindenberg GmbH hat mich sofort sehr angesprochen. Die Entwicklung technologisch anspruchsvoller Web- und Desktop-Anwendungen im Microsoft-Umfeld entspricht exakt meinem professionellen Hintergrund und meiner langjährigen Leidenschaft.
+Ihre Stellenanzeige für anspruchsvolle Kundenprojekte in der Insolvenzbranche hat mich sofort sehr angesprochen. Sie suchen keinen Standard-Ticketservice, sondern eine Persönlichkeit, die technische Expertise mit Beratungskompetenz verbindet und individuelle Lösungen für komplexe Geschäftsprozesse gestaltet. Mit meiner fast 20-jährigen Berufserfahrung in der Softwareentwicklung und meinem fundierten technischen Hintergrund bringe ich genau die Kompetenzen mit, die Sie für diese vielseitige Rolle suchen.
 
-Mit fast 20 Jahren Erfahrung in der Softwareentwicklung – darunter langjährige Tätigkeiten für globale Unternehmen wie Microsoft, Carbonite und SimCorp – bringe ich fundiertes Fachwissen mit. Ich habe umfassende Expertise in C# (.NET Core und Framework), ASP.NET, WPF sowie modernen Cloud- und Container-Technologien wie Docker und Kubernetes. Auch in den Bereichen skalierbare Software-Architekturen, RESTful APIs, CI/CD-Prozesse und automatisierte Tests (Unit- und Integrationstests) besitze ich tiefe praktische Erfahrung.
+In meiner bisherigen Laufbahn – unter anderem bei GlobalLogic für Kunden wie Microsoft und SimCorp sowie bei langjährigen Tätigkeiten im Bereich Client-Server- und Web-Anwendungen – habe ich umfangreiche Erfahrung in der Konzeption, Entwicklung und Optimierung individueller Softwarelösungen gesammelt. Ich besitze fundierte Kenntnisse in C# und dem .NET-Ökosystem, relationalen Datenbanken wie MS SQL Server und MS-Access sowie in der Erstellung von Schnittstellen und Datenmigrationen. Auch die strukturierte Versionsverwaltung mit Git und das Erstellen technischer Dokumentationen gehören zu meinem täglichen Handwerkszeug.
 
-Da ich vor kurzem nach Deutschland gezogen bin, suche ich vor allem meinen ersten beruflichen Einstieg und praktische Arbeitserfahrung hier vor Ort, um mich in das deutsche Arbeitsumfeld optimal zu integrieren. Eine klassische leistungsgerechte Vergütung steht für mich im Moment nicht an erster Stelle; vielmehr möchte ich meine langjährige fachliche Kompetenz und meine „Hands-on“-Mentalität direkt und motiviert in Ihr Team einbringen, mich bewähren und gemeinsam mit Ihnen hochwertige Systeme gestalten.
+Besonders reizvoll an dieser Position finde ich die direkte Zusammenarbeit mit Kunden und Fachabteilungen. Es bereitet mir große Freude, fachliche Anforderungen zu analysieren, passgenaue Workflows zu entwickeln und Kunden bei der Digitalisierung und Optimierung ihrer Geschäftsprozesse partnerschaftlich zu unterstützen. Da ich in Speyer lebe, ist Ihr Standort in Karlsruhe für mich gut erreichbar, und ich freue mich sehr auf die regelmäßige Präsenz vor Ort sowie auf gelegentliche Termine bei unseren Kunden.
 
-Neben sehr guten technischen Kenntnissen bringe ich eine strukturierte, analytische Arbeitsweise sowie fließende englische Sprachkenntnisse für die internationale Zusammenarbeit mit. Meine deutschen Sprachkenntnisse befinden sich auf dem Niveau B1 und ich arbeite kontinuierlich daran, diese im täglichen Austausch weiter zu verbessern.
+Da ich mich derzeit auf meinem beruflichen Weg in Deutschland befinde, steht für mich bei dieser Bewerbung nicht das Gehalt im Vordergrund. Mein Hauptziel ist es, in einem tollen Team Fuß zu fassen, wertvolle Praxiserfahrung in Deutschland zu sammeln und langfristig zum Erfolg Ihres Unternehmens beizutragen.
 
-Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen und meine Motivation zu erläutern, freue ich sich sehr.
+Ich spreche fließend Englisch und verfüge über deutsche Sprachkenntnisse auf dem B1-Niveau. Ich bin überzeugt, dass ich mich schnell in Ihr Team integrieren und einen echten Mehrwert für Ihre Projekte in der Insolvenzbranche leisten kann.
+
+Über die Gelegenheit, mich Ihnen beim digitalen Kennenlernen, im fachlichen Interview oder bei einem Schnuppertag in Karlsruhe persönlich vorzustellen, freue ich mich sehr.
 
 {empty} +
 
