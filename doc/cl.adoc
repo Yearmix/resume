@@ -14,9 +14,9 @@ Speyer, Germany • +49 170 2884753 • alex.pokrowskiy@gmail.com • https://ww
 
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-Lovion GmbH +
-Phoenixseestr. 6 +
-44263 Dortmund +
+DV Trend Service GmbH +
+Butterstr. 13 +
+70736 Fellbach, Württemberg +
 Deutschland +
 
 {empty} +
@@ -27,26 +27,26 @@ Speyer, {revdate}
 {empty} +
 
 [.fhel.fblue.head-h2]
-*Bewerbung als Senior Softwareentwickler*in (m/w/d) – C#*
+*Bewerbung als Softwareentwickler:in C# / .NET (m/w/d)*
 
 // Ihre Stellenanzeige bei LinkedIn vom xx.xx.xxxx
 Ihre Stellenanzeige auf Bundesagentur für Arbeit +
-Einsatzorte: Darmstadt +
-Referenz-Nr.: 10001-1003682607-S
+// Einsatzorte: Darmstadt +
+Referenz-Nr.: 10001-1003840195-S
 
 {empty} +
 
-Sehr geehrte Frau Gläser,
+Sehr geehrter Herr Benjamin Cimbollek,
 
-Ihre Stellenanzeige bei der ITS Gruppe hat mich sofort sehr angesprochen. Sie suchen erfahrene Entwickler*innen für die objektorientierte Softwareentwicklung mit .NET, C# und TypeScript sowie für die Gestaltung von Architekturkonzepten. Da ich über fast 20 Jahre professionelle Erfahrung im Software Engineering verfüge und mich intensiv mit C#, .NET und modernen Web-Technologien beschäftige, sehe ich in dieser Position eine hervorragende Gelegenheit, mein Wissen gewinnbringend einzubringen.
+Ihre Stellenanzeige bei der DV Trend Service GmbH hat mich sofort angesprochen. Als erfahrener .NET-Entwickler mit fast 20 Jahren Berufserfahrung in den Bereichen Software Design, Architektur und Desktop-Entwicklung suche ich genau die Herausforderung, die Sie anbieten: die Modernisierung gewachsener Softwarelandschaften und die eigenständige Entwicklung robuster Backend- und Windows-Desktop-Anwendungen.
 
-In meiner bisherigen beruflichen Laufbahn – unter anderem bei internationalen Unternehmen wie Microsoft, Carbonite und SimCorp – habe ich umfassende Expertise in der Entwicklung komplexer Client-Server- und Webanwendungen aufgebaut. Ich bringe fundierte Kenntnisse in C#, .NET, objektorientierter Programmierung, relationalen Datenbanken (MS SQL) sowie in agilen Methoden wie SCRUM mit. Auch die testgetriebene Softwareentwicklung und die Erarbeitung technischer Anforderungen sind mir bestens vertraut. Die von Ihnen genannte Software Lovion BIS weckt zudem mein großes Interesse, mich in neue, spannende Fachbereiche einzuarbeiten.
+Mit meiner langjährigen Praxis in der Entwicklung mit C# und .NET sowie dem Umgang mit Microsoft SQL Server bringe ich fundiertes Know-how für Ihre Projekte mit. In meiner bisherigen Laufbahn – unter anderem bei GlobalLogic (SimCorp, Microsoft, Carbonite) sowie in früheren Stationen im Bereich der Retail- und Client-Server-Systeme – war ich intensiv mit der Weiterentwicklung, Refaktorierung und stabilen Anbindung von Desktop- und Backend-Komponenten betraut. Ich lege großen Wert auf sauberen Code, strukturierte Vorgehensweisen und lösungsorientiertes Arbeiten, insbesondere im Umgang mit geschäftskritischen Daten.
 
-Da ich vor kurzem nach Deutschland gezogen bin, suche ich hier nun primär meinen ersten festen Arbeitsplatz und wertvolle praktische Berufserfahrung in einem deutschen Team, bei dem ich mich langfristig einbringen kann. Das Thema Gehalt steht für mich im Vergleich zu einer spannenden Aufgabe, einem guten Arbeitsumfeld und dem gemeinsamen Erfolg im Team im Hintergrund.
+Da ich mich derzeit auf den Aufbau meiner beruflichen Zukunft in Deutschland konzentriere, liegt mein primärer Fokus nicht auf der Gehaltsfrage, sondern darauf, in einem stabilen und wertschätzenden Umfeld Fuß zu fassen, praktische Berufserfahrung im deutschen Arbeitsmarkt zu sammeln und langfristig einen wertvollen Beitrag zu leisten. Die Möglichkeit, Verantwortung zu übernehmen, bestehende Anwendungen in moderne Lösungen zu überführen und eigene Ideen einzubringen, motiviert mich sehr. Ich spreche fließend Englisch und verfüge über solide Deutschkenntnisse auf B1-Niveau, womit ich mich gut in Ihr Team integrieren kann.
 
-Ich spreche fließend Englisch und verfüge über das B1-Zertifikat in deutscher Sprache. Durch meine langjährige Arbeit in multinationalen Teams kann ich mich problemlos in Ihr dynamisches Arbeitsumfeld integrieren und schätze sowohl die eigenverantwortliche Arbeit als auch den engen Austausch mit Kollegen.
+Ich bin bereit, die Tätigkeit ab sofort aufzunehmen.
 
-Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen und meine Motivation zu zeigen, freue ich mich sehr.
+Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen, freue ich mich sehr.
 
 {empty} +
 
