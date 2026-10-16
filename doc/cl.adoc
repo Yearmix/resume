@@ -14,9 +14,9 @@ Speyer, Germany • +49 170 2884753 • alex.pokrowskiy@gmail.com • https://ww
 
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-SKALBACH GMBH +
-Königstraße 34 +
-70173 Stuttgart +
+Majori GmbH +
+Karl-Liebknecht-Str. 5 +
+10178 Berlin +
 Deutschland +
 
 {empty} +
@@ -27,24 +27,26 @@ Speyer, {revdate}
 {empty} +
 
 [.fhel.fblue.head-h2]
-*Bewerbung als Softwareentwickler C#/.NET (m/w/d)*
+*Bewerbung als Softwareentwickler C# / .NET (m/w/d)*
 
 // Ihre Stellenanzeige bei LinkedIn vom xx.xx.xxxx
 Ihre Stellenanzeige auf Xing +
-Einsatzorte: Bühl
+Einsatzorte: Rottweil
 // Referenz-Nr.: 273669
 
 {empty} +
 
-Sehr geehrte Frau Zanic,
+Sehr geehrte Frau Werischak,
 
-Ihre Stellenanzeige für die Position als Softwareentwickler C#/.NET hat mich sofort angesprochen. Da ich nach meinem Umzug nach Deutschland nun den nächsten Schritt in meiner beruflichen Laufbahn gehen möchte, suche ich gezielt nach einer spannenden Herausforderung in einem innovativen Unternehmen. Ihr Umfeld mit modernen Entwicklungsprozessen und geschäftskritischen Systemen passt perfekt zu meinem Profil.
+Ihre Stellenanzeige hat mich sofort angesprochen. Sie suchen einen erfahrenen Softwareentwickler für die Entwicklung anspruchsvoller industrieller Anwendungen auf Basis von C# und .NET in einem agilen Team. Genau das entspricht meiner langjährigen beruflichen Erfahrung und meiner Leidenschaft für saubere Softwarearchitektur.
 
-Mit fast 20 Jahren Berufserfahrung in der Softwareentwicklung bringe ich ein tiefes technisches Fundament mit. In meiner Laufbahn – unter anderem bei internationalen Unternehmen wie Microsoft, Carbonite und SimCorp – habe ich umfangreiche Expertise in der Entwicklung von C#-, .NET- und Web-Anwendungen aufgebaut. Ich verfüge über fundierte Kenntnisse in moderner Softwarearchitektur, Datenbanken, REST-Schnittstellen sowie in der Qualitätssicherung durch sauberen und wartbaren Code.
+Mit fast 20 Jahren Erfahrung in der Softwareentwicklung – unter anderem in Projekten für namhafte Unternehmen wie Microsoft, Carbonite und SimCorp – bringe ich fundiertes Know-how in C#, .NET, ASP.NET sowie relationalen Datenbanken und modernen Cloud-Umgebungen mit. In meiner bisherigen Laufbahn habe ich komplexe Client-Server- und Webanwendungen von der Anforderungsanalyse bis zur Qualitätssicherung erfolgreich konzipiert und umgesetzt. Die von Ihnen beschriebene agile Arbeitsweise und der technische Austausch im Team passen perfekt zu meiner strukturierten und qualitätsbewussten Arbeitsweise.
 
-Da ich mich derzeit auf den Aufbau meiner beruflichen Zukunft in Deutschland konzentriere, steht für mich nicht das Gehalt im Vordergrund. Mein Hauptziel ist es, in einem professionellen und kollegialen Team Fuß zu fassen, wertvolle Praxiserfahrung im deutschen Arbeitsmarkt zu sammeln und langfristig zum Erfolg Ihres Unternehmens beizutragen. Meine Deutschkenntnisse befinden sich auf dem Niveau B1, und dank meiner langjährigen Arbeit in multinationalen Teams verständige ich mich zudem fließend und sicher auf Englisch.
+Da ich in Deutschland Fuß fasse, suche ich primär nach einer passenden Einstiegsmöglichkeit und wertvoller Berufserfahrung in einem etablierten Unternehmen vor Ort, weshalb mir das Gehalt zunächst weniger wichtig ist als die Chance, mich langfristig in Ihr Team einzubringen und Verantwortung zu übernehmen.
 
-Ich freue mich sehr über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen und Sie von meiner Motivation und meiner fachlichen Eignung zu überzeugen.
+Ich lebe in Speyer und bringe gute Deutschkenntnisse auf B1-Niveau sowie fließendes Englisch mit. Durch meine internationale Projekterfahrung kann ich mich problemlos in Ihr Team integrieren und aktiv zur Entwicklung neuer Funktionen beitragen.
+
+Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen, freue ich mich sehr.
 
 {empty} +
 
