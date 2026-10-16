@@ -14,9 +14,9 @@ Speyer, Germany • +49 170 2884753 • alex.pokrowskiy@gmail.com • https://ww
 
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-DV Trend Service GmbH +
-Butterstr. 13 +
-70736 Fellbach, Württemberg +
+Brunel GmbH +
+Langemarckstraße 4 +
+28199 Bremen +
 Deutschland +
 
 {empty} +
@@ -27,24 +27,24 @@ Speyer, {revdate}
 {empty} +
 
 [.fhel.fblue.head-h2]
-*Bewerbung als Softwareentwickler:in C# / .NET (m/w/d)*
+*Bewerbung als Softwareentwickler (m/w/d) Microsoft .NET / C#*
 
 // Ihre Stellenanzeige bei LinkedIn vom xx.xx.xxxx
 Ihre Stellenanzeige auf Bundesagentur für Arbeit +
 // Einsatzorte: Darmstadt +
-Referenz-Nr.: 10001-1003840195-S
+Referenz-Nr.: TR-296105
 
 {empty} +
 
-Sehr geehrter Herr Benjamin Cimbollek,
+Sehr geehrte Damen und Herren,
 
-Ihre Stellenanzeige bei der DV Trend Service GmbH hat mich sofort angesprochen. Als erfahrener .NET-Entwickler mit fast 20 Jahren Berufserfahrung in den Bereichen Software Design, Architektur und Desktop-Entwicklung suche ich genau die Herausforderung, die Sie anbieten: die Modernisierung gewachsener Softwarelandschaften und die eigenständige Entwicklung robuster Backend- und Windows-Desktop-Anwendungen.
+Ihre Stellenanzeige hat mich sofort sehr angesprochen. Sie suchen einen engagierten Softwareentwickler für die Entwicklung anspruchsvoller Softwarelösungen im Microsoft-.NET-Umfeld und die Mitgestaltung moderner Systemarchitekturen. Genau dies entspricht meiner langjährigen beruflichen Erfahrung und der Tätigkeit, die ich als meinen nächsten Karriereschritt in Deutschland anstrebe.
 
-Mit meiner langjährigen Praxis in der Entwicklung mit C# und .NET sowie dem Umgang mit Microsoft SQL Server bringe ich fundiertes Know-how für Ihre Projekte mit. In meiner bisherigen Laufbahn – unter anderem bei GlobalLogic (SimCorp, Microsoft, Carbonite) sowie in früheren Stationen im Bereich der Retail- und Client-Server-Systeme – war ich intensiv mit der Weiterentwicklung, Refaktorierung und stabilen Anbindung von Desktop- und Backend-Komponenten betraut. Ich lege großen Wert auf sauberen Code, strukturierte Vorgehensweisen und lösungsorientiertes Arbeiten, insbesondere im Umgang mit geschäftskritischen Daten.
+Mit fast 20 Jahren Berufserfahrung im Software Engineering und erfolgreichen Projekten für namhafte Unternehmen wie Microsoft, Carbonite und SimCorp bringe ich fundiertes Know-how in C#, .NET, objektorientierter Softwareentwicklung und modernen Webtechnologien mit. In meinen vorherigen Positionen war ich umfassend an der Neuentwicklung, Refakturierung und Performance-Optimierung komplexer Anwendungen beteiligt. Zudem bin ich mit agilen Arbeitsweisen wie Scrum und Kanban sowie der Modellierung mittels UML bestens vertraut.
 
-Da ich mich derzeit auf den Aufbau meiner beruflichen Zukunft in Deutschland konzentriere, liegt mein primärer Fokus nicht auf der Gehaltsfrage, sondern darauf, in einem stabilen und wertschätzenden Umfeld Fuß zu fassen, praktische Berufserfahrung im deutschen Arbeitsmarkt zu sammeln und langfristig einen wertvollen Beitrag zu leisten. Die Möglichkeit, Verantwortung zu übernehmen, bestehende Anwendungen in moderne Lösungen zu überführen und eigene Ideen einzubringen, motiviert mich sehr. Ich spreche fließend Englisch und verfüge über solide Deutschkenntnisse auf B1-Niveau, womit ich mich gut in Ihr Team integrieren kann.
+Da ich erst vor einiger Zeit nach Deutschland gekommen bin, liegt mein Hauptfokus derzeit nicht auf einer bestimmten Gehaltsvorstellung, sondern darauf, hier in Deutschland Fuß zu fassen, wertvolle Praxiserfahrung in einem starken Team zu sammeln und mich langfristig in ein spannendes Projektumfeld wie das von Brunel einzubringen. Ich verfüge über B1-Kenntnisse in der deutschen Sprache, spreche fließend Englisch und bin es gewohnt, mich in internationalen und agilen Teams schnell und problemlos zu integrieren.
 
-Ich bin bereit, die Tätigkeit ab sofort aufzunehmen.
+Da ich in Speyer ansässig bin, ist der Standort Heilbronn für mich gut erreichbar. Ich bin bereit, die Tätigkeit zeitnah aufzunehmen, und stehe Ihnen für eine Probearbeit oder eine Kennenlernphase sehr gerne zur Verfügung.
 
 Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen, freue ich mich sehr.
 
