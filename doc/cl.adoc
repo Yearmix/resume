@@ -14,9 +14,9 @@ Speyer, Germany • +49 170 2884753 • alex.pokrowskiy@gmail.com • https://ww
 
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-alphacoders GmbH +
-Am Sandtorkai 48 +
-20457 Hamburg +
+Lovion GmbH +
+Phoenixseestr. 6 +
+44263 Dortmund +
 Deutschland +
 
 {empty} +
@@ -27,26 +27,26 @@ Speyer, {revdate}
 {empty} +
 
 [.fhel.fblue.head-h2]
-*Bewerbung als Senior Software Developer (m/w/d) – .NET / C#*
+*Bewerbung als Senior Softwareentwickler*in (m/w/d) – C#*
 
 // Ihre Stellenanzeige bei LinkedIn vom xx.xx.xxxx
-Ihre Stellenanzeige auf Xing +
-Einsatzorte: Frankfurt am Main
-// Referenz-Nr.: 273669
+Ihre Stellenanzeige auf Bundesagentur für Arbeit +
+Einsatzorte: Darmstadt +
+Referenz-Nr.: 10001-1003682607-S
 
 {empty} +
 
-Sehr geehrter Herr Lassen,
+Sehr geehrte Frau Gläser,
 
-Ihre Stellenanzeige hat mich sofort angesprochen. Als erfahrener Entwickler im .NET-Umfeld verfolge ich die Entwicklung robuster und skalierbarer Softwarearchitekturen mit großer Leidenschaft. Die Möglichkeit, bei Ihnen an anspruchsvollen Enterprise-Lösungen und modernen Microservice-Landschaften mit C# und .NET Core mitzuwirken, passt perfekt zu meinem fachlichen Hintergrund und meinen beruflichen Zielen in Deutschland.
+Ihre Stellenanzeige bei der ITS Gruppe hat mich sofort sehr angesprochen. Sie suchen erfahrene Entwickler*innen für die objektorientierte Softwareentwicklung mit .NET, C# und TypeScript sowie für die Gestaltung von Architekturkonzepten. Da ich über fast 20 Jahre professionelle Erfahrung im Software Engineering verfüge und mich intensiv mit C#, .NET und modernen Web-Technologien beschäftige, sehe ich in dieser Position eine hervorragende Gelegenheit, mein Wissen gewinnbringend einzubringen.
 
-Mit fast 20 Jahren praktischer Erfahrung in der Softwareentwicklung habe ich komplexe, verteilte Systeme erfolgreich konzipiert, implementiert und optimiert. In meiner langjährigen Tätigkeit – unter anderem bei global agierenden Unternehmen wie SimCorp und Carbonite – gehörten die Entwicklung performanter REST-APIs, die Modernisierung bestehender Softwarelandschaften sowie die Sicherung hoher Codequalität durch Clean Code und Clean Architecture zu meinen Kernaufgaben. Ich bringe fundierte Kenntnisse in C#, .NET, relationalen Datenbanken (MS SQL, Oracle, PostgreSQL) sowie modernen Container- und CI/CD-Prozessen (Docker, Kubernetes, Azure) mit. Die Zusammenarbeit in agilen Teams und das technische Sparring auf Augenhöhe sind für mich dabei der Schlüssel zu herausragenden Ergebnissen.
+In meiner bisherigen beruflichen Laufbahn – unter anderem bei internationalen Unternehmen wie Microsoft, Carbonite und SimCorp – habe ich umfassende Expertise in der Entwicklung komplexer Client-Server- und Webanwendungen aufgebaut. Ich bringe fundierte Kenntnisse in C#, .NET, objektorientierter Programmierung, relationalen Datenbanken (MS SQL) sowie in agilen Methoden wie SCRUM mit. Auch die testgetriebene Softwareentwicklung und die Erarbeitung technischer Anforderungen sind mir bestens vertraut. Die von Ihnen genannte Software Lovion BIS weckt zudem mein großes Interesse, mich in neue, spannende Fachbereiche einzuarbeiten.
 
-Da ich mich derzeit in der Phase der beruflichen Etablierung auf dem deutschen Arbeitsmarkt befinde, suche ich in erster Linie einen stabilen und spannenden Arbeitsplatz, an dem ich meine langjährige internationale Erfahrung voll einbringen und kontinuierlich ausbauen kann. Der fachliche Austausch, die wertvolle Praxiserfahrung in Ihrem Team und die gemeinsame Weiterentwicklung moderner Technologien stehen für mich im Vordergrund; eine konkrete Gehaltsverhandlung ist für mich daher aktuell zweitrangig.
+Da ich vor kurzem nach Deutschland gezogen bin, suche ich hier nun primär meinen ersten festen Arbeitsplatz und wertvolle praktische Berufserfahrung in einem deutschen Team, bei dem ich mich langfristig einbringen kann. Das Thema Gehalt steht für mich im Vergleich zu einer spannenden Aufgabe, einem guten Arbeitsumfeld und dem gemeinsamen Erfolg im Team im Hintergrund.
 
-Da ich meinen Wohnsitz in Speyer (Rheinland-Pfalz) habe, ist der Großraum Frankfurt für mich gut erreichbar. Zudem bietet Ihre ausgeprägte Remote-Kultur eine hervorragende Basis für eine effiziente Zusammenarbeit.
+Ich spreche fließend Englisch und verfüge über das B1-Zertifikat in deutscher Sprache. Durch meine langjährige Arbeit in multinationalen Teams kann ich mich problemlos in Ihr dynamisches Arbeitsumfeld integrieren und schätze sowohl die eigenverantwortliche Arbeit als auch den engen Austausch mit Kollegen.
 
-Ich freue mich sehr auf die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen und meine Motivation sowie meine fachlichen Qualifikationen zu erläutern.
+Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen und meine Motivation zu zeigen, freue ich mich sehr.
 
 {empty} +
 
