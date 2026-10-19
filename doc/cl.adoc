@@ -14,9 +14,9 @@ Speyer, Germany • +49 170 2884753 • alex.pokrowskiy@gmail.com • https://ww
 
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-Brunel GmbH +
-Langemarckstraße 4 +
-28199 Bremen +
+Siemens AG / Healthcare Sector +
+Henkestrasse 127 +
+91052 Erlangen +
 Deutschland +
 
 {empty} +
@@ -27,26 +27,28 @@ Speyer, {revdate}
 {empty} +
 
 [.fhel.fblue.head-h2]
-*Bewerbung als Softwareentwickler (m/w/d) Microsoft .NET / C#*
+*Bewerbung als Software Developer (w/m/d)*
 
 // Ihre Stellenanzeige bei LinkedIn vom xx.xx.xxxx
-Ihre Stellenanzeige auf Bundesagentur für Arbeit +
+// Ihre Stellenanzeige auf Bundesagentur für Arbeit +
 // Einsatzorte: Darmstadt +
-Referenz-Nr.: TR-296105
+Referenz-Nr.: P-100930
 
 {empty} +
 
 Sehr geehrte Damen und Herren,
 
-Ihre Stellenanzeige hat mich sofort sehr angesprochen. Sie suchen einen engagierten Softwareentwickler für die Entwicklung anspruchsvoller Softwarelösungen im Microsoft-.NET-Umfeld und die Mitgestaltung moderner Systemarchitekturen. Genau dies entspricht meiner langjährigen beruflichen Erfahrung und der Tätigkeit, die ich als meinen nächsten Karriereschritt in Deutschland anstrebe.
+mit großem Interesse habe ich Ihre Stellenanzeige für die Position als Software Developer gelesen. Die Arbeit an digitalen Lösungen für klinische Entscheidungen bei Siemens Healthineers begeistert mich sehr. Als erfahrener Softwareentwickler möchte ich meine Kenntnisse gewinnbringend in Ihr Team einbringen.
 
-Mit fast 20 Jahren Berufserfahrung im Software Engineering und erfolgreichen Projekten für namhafte Unternehmen wie Microsoft, Carbonite und SimCorp bringe ich fundiertes Know-how in C#, .NET, objektorientierter Softwareentwicklung und modernen Webtechnologien mit. In meinen vorherigen Positionen war ich umfassend an der Neuentwicklung, Refakturierung und Performance-Optimierung komplexer Anwendungen beteiligt. Zudem bin ich mit agilen Arbeitsweisen wie Scrum und Kanban sowie der Modellierung mittels UML bestens vertraut.
+Ich verfüge über fast 20 Jahre professionelle Erfahrung in der Entwicklung und dem Design von Softwarelösungen. In meinen bisherigen Positionen – unter anderem in internationalen Projekten für Unternehmen wie Microsoft, Carbonite und SimCorp – habe ich umfassende Kenntnisse in C# und der .NET-Entwicklung aufgebaut.
 
-Da ich erst vor einiger Zeit nach Deutschland gekommen bin, liegt mein Hauptfokus derzeit nicht auf einer bestimmten Gehaltsvorstellung, sondern darauf, hier in Deutschland Fuß zu fassen, wertvolle Praxiserfahrung in einem starken Team zu sammeln und mich langfristig in ein spannendes Projektumfeld wie das von Brunel einzubringen. Ich verfüge über B1-Kenntnisse in der deutschen Sprache, spreche fließend Englisch und bin es gewohnt, mich in internationalen und agilen Teams schnell und problemlos zu integrieren.
+Auch mit modernen Cloud- und Container-Technologien wie Kubernetes und Docker sowie mit CI/CD-Pipelines und DevOps-Praktiken bin ich bestens vertraut. Zuletzt habe ich mich intensiv mit Telemetrie, Observability (unter anderem OpenTelemetry, Grafana und InfluxDB) sowie mit der Arbeit in gemischten Windows- und Linux-Umgebungen beschäftigt. Ich verfolge aktuelle Technologietrends mit großem Interesse und nutze AI-gestützte Tools und Agenten gezielt, um Entwicklungsabläufe zu unterstützen und sauberen, gut testbaren Code zu schreiben.
 
-Da ich in Speyer ansässig bin, ist der Standort Heilbronn für mich gut erreichbar. Ich bin bereit, die Tätigkeit zeitnah aufzunehmen, und stehe Ihnen für eine Probearbeit oder eine Kennenlernphase sehr gerne zur Verfügung.
+Aktuell suche ich meinen ersten Arbeitsplatz in Deutschland. Für mich stehen dabei der erfolgreiche Einstieg in den deutschen Arbeitsmarkt, die fachliche Integration sowie wertvolle berufliche Erfahrungen in einem führenden Medizintechnikunternehmen an erster Stelle. Aus diesem Grund zeigt sich meine Gehaltsvorstellung sehr flexibel und orientiert sich an den üblichen Standards Ihres Hauses für diese Position.
 
-Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen, freue ich mich sehr.
+Aufgrund meiner bisherigen Arbeit in internationalen Teams kommuniziere ich verhandlungssicher auf Englisch. Zudem verfüge ich über Sprachkenntnisse in Deutsch auf B1-Niveau, die ich im Arbeitsalltag stetig weiter ausbaue. Einer flexiblen Arbeitsteilung zwischen Präsenz in Erlangen und mobilem Arbeiten stehe ich sehr positiv gegenüber.
+
+Ich freue mich über die Gelegenheit, mich und meine Qualifikationen in einem persönlichen Gespräch bei Ihnen vorzustellen.
 
 {empty} +
 
