@@ -14,9 +14,9 @@ Speyer, Germany • +49 170 2884753 • alex.pokrowskiy@gmail.com • https://ww
 
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-Siemens AG / Healthcare Sector +
-Henkestrasse 127 +
-91052 Erlangen +
+COS Software GmbH +
+Darmstädter Str. 79 b +
+64839 Münster (Hessen) +
 Deutschland +
 
 {empty} +
@@ -27,28 +27,26 @@ Speyer, {revdate}
 {empty} +
 
 [.fhel.fblue.head-h2]
-*Bewerbung als Software Developer (w/m/d)*
+*Bewerbung als Senior Software Developer (w/m/d)*
 
 // Ihre Stellenanzeige bei LinkedIn vom xx.xx.xxxx
-// Ihre Stellenanzeige auf Bundesagentur für Arbeit +
+Ihre Stellenanzeige auf Bundesagentur für Arbeit +
 // Einsatzorte: Darmstadt +
-Referenz-Nr.: P-100930
+Referenz-Nr.: 10001-1003536766-S
 
 {empty} +
 
-Sehr geehrte Damen und Herren,
+Sehr geehrter Herr Worreschk,
 
-mit großem Interesse habe ich Ihre Stellenanzeige für die Position als Software Developer gelesen. Die Arbeit an digitalen Lösungen für klinische Entscheidungen bei Siemens Healthineers begeistert mich sehr. Als erfahrener Softwareentwickler möchte ich meine Kenntnisse gewinnbringend in Ihr Team einbringen.
+mit großem Interesse habe ich Ihre Stellenanzeige für die Position als Senior Software Developer gelesen. Die Aufgabe, praxisnahe Lösungen für über 10.000 Nutzer im Land- und Baumaschinenhandel zu entwickeln, motiviert mich sehr. Ich möchte meine langjährige Erfahrung als Entwickler einbringen, um die nächste Generation Ihrer Warenwirtschaftslösung erfolgreich mitzugestalten.
 
-Ich verfüge über fast 20 Jahre professionelle Erfahrung in der Entwicklung und dem Design von Softwarelösungen. In meinen bisherigen Positionen – unter anderem in internationalen Projekten für Unternehmen wie Microsoft, Carbonite und SimCorp – habe ich umfassende Kenntnisse in C# und der .NET-Entwicklung aufgebaut.
+Ich verfüge über ein abgeschlossenes Studium der Informatik und fast 20 Jahre professionelle Erfahrung in der Softwareentwicklung. In dieser Zeit habe ich komplexe Softwareprojekte für internationale Unternehmen wie Microsoft, Carbonite und SimCorp umgesetzt. Meine Schwerpunkte liegen in der objektorientierten Entwicklung mit C# und .NET sowie in modernen Web-Schnittstellen (REST, SOAP), Datenbanken (SQL Server) und Softwarearchitekturen. Auch mit der Entwicklung mobiler Anwendungen, Testautomatisierung und modernen Cloud-Technologien bin ich vertraut.
 
-Auch mit modernen Cloud- und Container-Technologien wie Kubernetes und Docker sowie mit CI/CD-Pipelines und DevOps-Praktiken bin ich bestens vertraut. Zuletzt habe ich mich intensiv mit Telemetrie, Observability (unter anderem OpenTelemetry, Grafana und InfluxDB) sowie mit der Arbeit in gemischten Windows- und Linux-Umgebungen beschäftigt. Ich verfolge aktuelle Technologietrends mit großem Interesse und nutze AI-gestützte Tools und Agenten gezielt, um Entwicklungsabläufe zu unterstützen und sauberen, gut testbaren Code zu schreiben.
+Für mich steht aktuell der erfolgreiche Einstieg in den deutschen Arbeitsmarkt an erster Stelle. Ich möchte mich in ein erfahrenes Team einbringen, wertvolle Praxiserfahrung in Deutschland sammeln und gemeinsam mit Ihnen lösungsorientierte Software entwickeln. Ein hohes Gehalt steht für mich zu Beginn nicht im Vordergrund – wichtig sind mir ein stabiler Arbeitsplatz und die berufliche Weiterentwicklung in Ihrem Unternehmen.
 
-Aktuell suche ich meinen ersten Arbeitsplatz in Deutschland. Für mich stehen dabei der erfolgreiche Einstieg in den deutschen Arbeitsmarkt, die fachliche Integration sowie wertvolle berufliche Erfahrungen in einem führenden Medizintechnikunternehmen an erster Stelle. Aus diesem Grund zeigt sich meine Gehaltsvorstellung sehr flexibel und orientiert sich an den üblichen Standards Ihres Hauses für diese Position.
+Aufgrund meiner Arbeit in internationalen Teams spreche ich fließend Englisch. Zudem besitze ich Deutschkenntnisse auf B1-Niveau und lerne die Sprache kontinuierlich weiter. Ein Probearbeitstag bietet die ideale Gelegenheit, meine Fachkompetenz und meine strukturierte Arbeitsweise direkt in der Praxis zu zeigen.
 
-Aufgrund meiner bisherigen Arbeit in internationalen Teams kommuniziere ich verhandlungssicher auf Englisch. Zudem verfüge ich über Sprachkenntnisse in Deutsch auf B1-Niveau, die ich im Arbeitsalltag stetig weiter ausbaue. Einer flexiblen Arbeitsteilung zwischen Präsenz in Erlangen und mobilem Arbeiten stehe ich sehr positiv gegenüber.
-
-Ich freue mich über die Gelegenheit, mich und meine Qualifikationen in einem persönlichen Gespräch bei Ihnen vorzustellen.
+Über die Möglichkeit, mich Ihnen in einem persönlichen Gespräch vorzustellen, freue ich mich sehr.
 
 {empty} +
 
