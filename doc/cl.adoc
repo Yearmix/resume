@@ -14,9 +14,9 @@ Speyer, Germany • +49 170 2884753 • alex.pokrowskiy@gmail.com • https://ww
 
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-Peak One GmbH +
-Große Gallusstraße 14 +
-60315 Frankfurt am Main +
+Exclusive Associates GmbH +
+Sohnstraße 69 +
+40237 Düsseldorf +
 Deutschland +
 
 {empty} +
@@ -27,26 +27,26 @@ Speyer, {revdate}
 {empty} +
 
 [.fhel.fblue.head-h2]
-*Bewerbung als Softwareentwickler (m/w/d) .NET / DevOps*
+*Bewerbung als C# Anwendungsentwickler für Anwendungsentwicklung (m/w/d)*
 
 // Ihre Stellenanzeige bei LinkedIn vom xx.xx.xxxx
 // Ihre Stellenanzeige auf Bundesagentur für Arbeit +
 // Einsatzorte: Darmstadt +
-Referenz-Nr.: BBBH9616
+Referenz-Nr.: J32912
 
 {empty} +
 
-Sehr geehrte Damen und Herren,
+Sehr geehrte Frau Drammeh, sehr geehrter Herr Walia,
 
-mit großer Freude habe ich Ihre Stellenanzeige für die Position als Softwareentwickler .NET / DevOps in Offenau gelesen. Ihre Aufgaben im Bereich maßgeschneiderter Software- und Automatisierungslösungen sowie das Interesse am Aufbau einer neuen Abteilung in Deutschland sprechen mich sehr an. Da ich einen wichtigen und langfristigen Karriereschritt in Deutschland machen möchte, passe ich sehr gut zu Ihren Anforderungen.
+mit großer Freude habe ich Ihre Stellenanzeige für die Position als C# Anwendungsentwickler gelesen. Ich möchte sehr gerne meine erste Arbeitsstelle in Deutschland bei Ihnen antreten. Für mich steht aktuell im Vordergrund, wertvolle berufliche Erfahrungen auf dem deutschen Arbeitsmarkt zu sammeln, mich fachlich weiterzuentwickeln und mein Wissen in Ihr Team einzubringen. Daher hat Ihr Angebot mit flexiblen Arbeitszeiten, Weiterbildungsmöglichkeiten und einer starken Feedbackkultur mein Interesse sofort geweckt.
 
-Ich bringe fast 20 Jahre Erfahrung in der Softwareentwicklung mit. In dieser Zeit habe ich viele Projekte mit .NET, C#, Visual Studio und SQL Server erfolgreich umgesetzt – unter anderem für namhafte Kunden wie Microsoft, SimCorp und Carbonite. Zuletzt habe ich mich intensiv mit Cloud- und DevOps-Technologien wie Kubernetes, Docker, Azure, Git und CI/CD-Pipelines beschäftigt. Das Entwickeln von stabilen Lösungen, das Durchführen von Tests und die technische Dokumentation gehören zu meiner täglichen Praxis.
+Ich bringe langjährige Erfahrung in der Softwareentwicklung mit C#, .NET, ASP.NET sowie modernen UI-Technologien wie WPF und Angular mit. Während meiner bisherigen Laufbahn habe ich komplexe Softwarekomponenten von den Anforderungen über das Requirements Engineering bis hin zu Tests und Abnahmen mitgestaltet. Sauberer und wartbarer Code sowie regelmäßige Code-Reviews sind für mich selbstverständlich.
 
-Für mich steht aktuell der Einstieg in den deutschen Arbeitsmarkt an erster Stelle. Ich möchte vor allem meine langjährige Praxiserfahrung in Ihr Team einbringen, mich fachlich weiterentwickeln und gemeinsam mit Ihnen am Aufbau der neuen Abteilung arbeiten. Aus diesem Grund stehen für mich eine spannende Aufgabe, persönliche Weiterentwicklung und der berufliche Erfolg in Ihrem Unternehmen an erster Stelle, noch vor einer konkreten Gehaltsforderung.
+Ich arbeite sehr gerne in agilen Teams mit Sprints und klaren Abstimmungsformaten. Zudem besitze ich fundierte Kenntnisse in der Erstellung verständlicher Projektdokumentationen und der Qualitätssicherung. Ich spreche fließend Englisch und habe Deutschkenntnisse auf B1-Niveau, die ich im Arbeitsalltag stetig weiter ausbauen möchte.
 
-Da ich mich sehr gut auf Englisch verständigen kann (Wort und Schrift) und mein Deutsch bereits auf B1-Niveau ist, kann ich mich schnell und reibungslos in Ihre Kommunikations- und Arbeitsprozesse integrieren. Auch die gelegentliche Reisetätigkeit zu Kunden vor Ort nehme ich gerne wahr.
+Für meine erste Position in Deutschland priorisiere ich berufliche Erfahrung, eine solide Einarbeitung und eine langfristige Perspektive gegenüber finanziellen Forderungen. Eine angemessene Vergütung orientiert sich sehr gerne an Ihren standardmäßigen Gehaltsstrukturen für diese Position.
 
-Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen und meine Motivation näher zu erläutern, freue ich mich sehr.
+Da ich derzeit in Deutschland lebe, bin ich bezüglich des Standorts und der hybriden Regelung sehr flexibel. Ich bin ab sofort verfügbar und freue mich sehr über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen.
 
 {empty} +
 
