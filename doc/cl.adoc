@@ -14,9 +14,9 @@ Speyer, Germany • +49 170 2884753 • alex.pokrowskiy@gmail.com • https://ww
 
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-Exclusive Associates GmbH +
-Sohnstraße 69 +
-40237 Düsseldorf +
+IQ-optimize Software GmbH +
+Lindleystraße 10 +
+60314 Frankfurt am Main +
 Deutschland +
 
 {empty} +
@@ -27,26 +27,36 @@ Speyer, {revdate}
 {empty} +
 
 [.fhel.fblue.head-h2]
-*Bewerbung als C# Anwendungsentwickler für Anwendungsentwicklung (m/w/d)*
+*Bewerbung als Senior Softwareentwickler C# .NET (w/m/d)*
 
 // Ihre Stellenanzeige bei LinkedIn vom xx.xx.xxxx
 // Ihre Stellenanzeige auf Bundesagentur für Arbeit +
 // Einsatzorte: Darmstadt +
-Referenz-Nr.: J32912
+Referenz-Nr.: SF-5678
 
 {empty} +
 
-Sehr geehrte Frau Drammeh, sehr geehrter Herr Walia,
+Sehr geehrte Damen und Herren,
 
-mit großer Freude habe ich Ihre Stellenanzeige für die Position als C# Anwendungsentwickler gelesen. Ich möchte sehr gerne meine erste Arbeitsstelle in Deutschland bei Ihnen antreten. Für mich steht aktuell im Vordergrund, wertvolle berufliche Erfahrungen auf dem deutschen Arbeitsmarkt zu sammeln, mich fachlich weiterzuentwickeln und mein Wissen in Ihr Team einzubringen. Daher hat Ihr Angebot mit flexiblen Arbeitszeiten, Weiterbildungsmöglichkeiten und einer starken Feedbackkultur mein Interesse sofort geweckt.
+mit großem Interesse habe ich Ihre Stellenanzeige für die Position als Senior Softwareentwickler C# .NET gelesen. Die Weiterentwicklung Ihrer internen CRM- und Workflow-Management-Systeme sowie die Arbeit in der 1&1 Unternehmensgruppe sprechen mich sehr an. Gerne möchte ich meine langjährige Erfahrung als Softwareentwickler in Ihr Team einbringen.
 
-Ich bringe langjährige Erfahrung in der Softwareentwicklung mit C#, .NET, ASP.NET sowie modernen UI-Technologien wie WPF und Angular mit. Während meiner bisherigen Laufbahn habe ich komplexe Softwarekomponenten von den Anforderungen über das Requirements Engineering bis hin zu Tests und Abnahmen mitgestaltet. Sauberer und wartbarer Code sowie regelmäßige Code-Reviews sind für mich selbstverständlich.
+Ich verfüge über knapp 20 Jahre berufliche Erfahrung in der Softwareentwicklung. In meinen bisherigen Positionen für internationale Unternehmen wie Microsoft, Carbonite und SimCorp habe ich komplexe Systeme entwickelt, optimiert und gewartet. Meine Schwerpunkte liegen in der objektorientierten Programmierung mit C# und .NET sowie in der Arbeit mit Datenbanken wie MS SQL und Oracle.
 
-Ich arbeite sehr gerne in agilen Teams mit Sprints und klaren Abstimmungsformaten. Zudem besitze ich fundierte Kenntnisse in der Erstellung verständlicher Projektdokumentationen und der Qualitätssicherung. Ich spreche fließend Englisch und habe Deutschkenntnisse auf B1-Niveau, die ich im Arbeitsalltag stetig weiter ausbauen möchte.
+Darüber hinaus bringe ich fundierte Kenntnisse in folgenden Bereichen mit:
 
-Für meine erste Position in Deutschland priorisiere ich berufliche Erfahrung, eine solide Einarbeitung und eine langfristige Perspektive gegenüber finanziellen Forderungen. Eine angemessene Vergütung orientiert sich sehr gerne an Ihren standardmäßigen Gehaltsstrukturen für diese Position.
+* Backend & Web-Technologien: Sichere Entwicklung von RESTful Webservices, ASP.NET MVC sowie Erfahrung mit JavaScript, HTML/CSS und Bootstrap.
 
-Da ich derzeit in Deutschland lebe, bin ich bezüglich des Standorts und der hybriden Regelung sehr flexibel. Ich bin ab sofort verfügbar und freue mich sehr über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen.
+* Architektur & Qualität: Aktive Mitwirkung am gesamten Softwareentwicklungszyklus, Durchführung von Code-Reviews und die Umsetzung von Testautomatisierung (NUnit, XUnit, Moq).
+
+* Datenbanken & Performance: Erstellung und Optimierung von komplexen SQL-Queries und Prozeduren sowie Erfahrung im Umgang mit großen Datenmengen.
+
+* Moderne Methoden & Cloud: Praktische Erfahrung mit Git, CI/CD, Docker, Kubernetes und Azure-Cloud-Diensten.
+
+Aktuell suche ich meinen ersten Arbeitsplatz in Deutschland. Für mich stehen vor allem neue berufliche Erfahrungen, der persönliche Beitrag zu Ihren Projekten und eine langfristige Integration in Ihr Unternehmen im Vordergrund. Gerne stehe ich Ihnen auch für eine Probearbeit zur Verfügung, damit Sie sich persönlich von meinen fachlichen Qualifikationen und meiner Arbeitsweise überzeugen können.
+
+Ich spreche fließend Englisch und habe mein B1-Zertifikat in Deutsch absolviert. Die Kommunikation in einem dynamischen, professionellen Team stellt für mich eine willkommene Möglichkeit dar, meine Sprachkenntnisse weiter zu vertiefen.
+
+Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen, freue ich mich sehr.
 
 {empty} +
 
