@@ -14,9 +14,9 @@ Speyer, Germany • +49 170 2884753 • alex.pokrowskiy@gmail.com • https://ww
 
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-IQ-optimize Software GmbH +
-Lindleystraße 10 +
-60314 Frankfurt am Main +
+ALTEN GmbH +
+Frankfurter Ring 81 +
+80807 München +
 Deutschland +
 
 {empty} +
@@ -31,32 +31,22 @@ Speyer, {revdate}
 
 // Ihre Stellenanzeige bei LinkedIn vom xx.xx.xxxx
 // Ihre Stellenanzeige auf Bundesagentur für Arbeit +
-// Einsatzorte: Darmstadt +
-Referenz-Nr.: SF-5678
+Einsatzorte: Siegburg 
+// Referenz-Nr.: SF-5678
 
 {empty} +
 
-Sehr geehrte Damen und Herren,
+Sehr geehrte Frau Manglkammer,
 
-mit großem Interesse habe ich Ihre Stellenanzeige für die Position als Senior Softwareentwickler C# .NET gelesen. Die Weiterentwicklung Ihrer internen CRM- und Workflow-Management-Systeme sowie die Arbeit in der 1&1 Unternehmensgruppe sprechen mich sehr an. Gerne möchte ich meine langjährige Erfahrung als Softwareentwickler in Ihr Team einbringen.
+mit großer Begeisterung habe ich Ihre Stellenanzeige für die Position als System & Integration Engineer bei der ALTEN Consulting Services GmbH gelesen. Sie suchen einen engagierten Spezialisten für die Konzeption, Softwareentwicklung und Integration komplexer Kommunikations- und Plattformsysteme. Da diese Aufgaben genau meinen Qualifikationen und meiner beruflichen Leidenschaft entsprechen, möchte ich mich Ihnen sehr gerne vorstellen.
 
-Ich verfüge über knapp 20 Jahre berufliche Erfahrung in der Softwareentwicklung. In meinen bisherigen Positionen für internationale Unternehmen wie Microsoft, Carbonite und SimCorp habe ich komplexe Systeme entwickelt, optimiert und gewartet. Meine Schwerpunkte liegen in der objektorientierten Programmierung mit C# und .NET sowie in der Arbeit mit Datenbanken wie MS SQL und Oracle.
+Ich habe mein Studium der Angewandten Programmierung (Bachelor) erfolgreich abgeschlossen und verfüge über fast 20 Jahre praktische Erfahrung in der Softwareentwicklung und Systemintegration. Während meiner bisherigen Laufbahn habe ich intensiv mit C# und .NET sowie modernen Datenbanken und Schnittstellen gearbeitet. Darüber hinaus bringe ich fundierte Erfahrung in der System- und Netzwerkbetreuung, der Fehleranalyse sowie im Erstellen von technischen Dokumentationen und Schnittstellenbeschreibungen mit.
 
-Darüber hinaus bringe ich fundierte Kenntnisse in folgenden Bereichen mit:
+Für mich steht aktuell der Einstieg in den deutschen Arbeitsmarkt im Vordergrund. Ich suche gezielt nach meiner ersten Arbeitsstelle in Deutschland, um wertvolle Praxiserfahrung in einem starken Team zu sammeln, mich kontinuierlich weiterzuentwickeln und Ihre Projekte verlässlich zu unterstützen. Aus diesem Grund steht das Sammeln von Praxiserfahrung und die erfolgreiche Einarbeitung für mich an erster Stelle.
 
-* Backend & Web-Technologien: Sichere Entwicklung von RESTful Webservices, ASP.NET MVC sowie Erfahrung mit JavaScript, HTML/CSS und Bootstrap.
+Ich spreche sehr gut Englisch und verfüge über gute Deutschkenntnisse (B1-Niveau), die ich täglich weiter ausbaue. Ich arbeite stets strukturiert, eigenständig und lösungsorientiert und füge mich schnell und gerne in neue Teams ein.
 
-* Architektur & Qualität: Aktive Mitwirkung am gesamten Softwareentwicklungszyklus, Durchführung von Code-Reviews und die Umsetzung von Testautomatisierung (NUnit, XUnit, Moq).
-
-* Datenbanken & Performance: Erstellung und Optimierung von komplexen SQL-Queries und Prozeduren sowie Erfahrung im Umgang mit großen Datenmengen.
-
-* Moderne Methoden & Cloud: Praktische Erfahrung mit Git, CI/CD, Docker, Kubernetes und Azure-Cloud-Diensten.
-
-Aktuell suche ich meinen ersten Arbeitsplatz in Deutschland. Für mich stehen vor allem neue berufliche Erfahrungen, der persönliche Beitrag zu Ihren Projekten und eine langfristige Integration in Ihr Unternehmen im Vordergrund. Gerne stehe ich Ihnen auch für eine Probearbeit zur Verfügung, damit Sie sich persönlich von meinen fachlichen Qualifikationen und meiner Arbeitsweise überzeugen können.
-
-Ich spreche fließend Englisch und habe mein B1-Zertifikat in Deutsch absolviert. Die Kommunikation in einem dynamischen, professionellen Team stellt für mich eine willkommene Möglichkeit dar, meine Sprachkenntnisse weiter zu vertiefen.
-
-Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen, freue ich mich sehr.
+Gerne überzeuge ich Sie von meinen Fachkenntnissen und meiner Einsatzbereitschaft im Rahmen eines persönlichen Gesprächs oder auch während eines Probearbeitstages. Ich freue mich sehr über eine Einladung.
 
 {empty} +
 
