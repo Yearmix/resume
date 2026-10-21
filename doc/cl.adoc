@@ -14,9 +14,9 @@ Speyer, Germany • +49 170 2884753 • alex.pokrowskiy@gmail.com • https://ww
 
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-ALTEN GmbH +
-Frankfurter Ring 81 +
-80807 München +
+FERCHAU GmbH +
+Rösslerstr. 88 +
+64293 Darmstadt +
 Deutschland +
 
 {empty} +
@@ -27,26 +27,28 @@ Speyer, {revdate}
 {empty} +
 
 [.fhel.fblue.head-h2]
-*Bewerbung als Senior Softwareentwickler C# .NET (w/m/d)*
+*Bewerbung als Softwareentwickler C# / .NET (m/w/d)*
 
 // Ihre Stellenanzeige bei LinkedIn vom xx.xx.xxxx
-// Ihre Stellenanzeige auf Bundesagentur für Arbeit +
-Einsatzorte: Siegburg 
-// Referenz-Nr.: SF-5678
+Ihre Stellenanzeige auf Bundesagentur für Arbeit +
+// Einsatzorte: Siegburg +
+Referenz-Nr.: VA90-14616-DA
 
 {empty} +
 
-Sehr geehrte Frau Manglkammer,
+Sehr geehrte Frau Wolf,
 
-mit großer Begeisterung habe ich Ihre Stellenanzeige für die Position als System & Integration Engineer bei der ALTEN Consulting Services GmbH gelesen. Sie suchen einen engagierten Spezialisten für die Konzeption, Softwareentwicklung und Integration komplexer Kommunikations- und Plattformsysteme. Da diese Aufgaben genau meinen Qualifikationen und meiner beruflichen Leidenschaft entsprechen, möchte ich mich Ihnen sehr gerne vorstellen.
+mit großem Interesse habe ich Ihre Stellenanzeige für die Position als Softwareentwickler C# / .NET gelesen. Die Aussicht, für FERCHAU an anspruchsvollen und innovativen IT-Projekten zu arbeiten, begeistert mich sehr. Da ich meinen ersten festen Arbeitsplatz in Deutschland suche, möchte ich mich sehr gerne in Ihr Team einbringen.
 
-Ich habe mein Studium der Angewandten Programmierung (Bachelor) erfolgreich abgeschlossen und verfüge über fast 20 Jahre praktische Erfahrung in der Softwareentwicklung und Systemintegration. Während meiner bisherigen Laufbahn habe ich intensiv mit C# und .NET sowie modernen Datenbanken und Schnittstellen gearbeitet. Darüber hinaus bringe ich fundierte Erfahrung in der System- und Netzwerkbetreuung, der Fehleranalyse sowie im Erstellen von technischen Dokumentationen und Schnittstellenbeschreibungen mit.
+Ich bringe fundierte Qualifikationen mit: Ein abgeschlossenes Studium der Informatik sowie langjährige praktische Erfahrung in der objektorientierten Softwareentwicklung mit C# und .NET. In meinen bisherigen Projekten – unter anderem für internationale Unternehmen wie Microsoft, Carbonite und SimCorp – habe ich intensiv mit WPF, Visual Studio, APIs (REST) und SQL-Datenbanken gearbeitet. Zudem besitze ich praktische Kenntnisse in C++, Git, Azure DevOps und automatisierten Tests mit NUnit und xUnit. Die Arbeit in agilen Teams nach Scrum und der Einsatz moderner Werkzeuge gehören für mich zum Standard.
 
-Für mich steht aktuell der Einstieg in den deutschen Arbeitsmarkt im Vordergrund. Ich suche gezielt nach meiner ersten Arbeitsstelle in Deutschland, um wertvolle Praxiserfahrung in einem starken Team zu sammeln, mich kontinuierlich weiterzuentwickeln und Ihre Projekte verlässlich zu unterstützen. Aus diesem Grund steht das Sammeln von Praxiserfahrung und die erfolgreiche Einarbeitung für mich an erster Stelle.
+Aktuell verfüge ich über Deutschkenntnisse auf dem Niveau B1 und passe mich durch meine fließenden Englischkenntnisse sowie meine Erfahrung in internationalen Projekten sehr schnell an neue Arbeitsumgebungen an.
 
-Ich spreche sehr gut Englisch und verfüge über gute Deutschkenntnisse (B1-Niveau), die ich täglich weiter ausbaue. Ich arbeite stets strukturiert, eigenständig und lösungsorientiert und füge mich schnell und gerne in neue Teams ein.
+Für mich steht zurzeit der erfolgreiche Einstieg in den deutschen Arbeitsmarkt, das Sammeln von wertvoller Praxiserfahrung bei FERCHAU sowie der nachhaltige Wissenstransfer im Vordergrund, weshalb gegenseitiges Vertrauen und eine langfristige Zusammenarbeit für mich wichtiger sind als rein monetäre Aspekte. Um mich von meinen fachlichen und persönlichen Qualitäten zu überzeugen, stehe ich auch gerne für eine Probearbeit zur Verfügung.
 
-Gerne überzeuge ich Sie von meinen Fachkenntnissen und meiner Einsatzbereitschaft im Rahmen eines persönlichen Gesprächs oder auch während eines Probearbeitstages. Ich freue mich sehr über eine Einladung.
+Ich wohne in Speyer und kann die Stelle in Darmstadt ab sofort in Vollzeit antreten.
+
+Über eine Einladung zu einem persönlichen Gespräch freue ich mich sehr.
 
 {empty} +
 
