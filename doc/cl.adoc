@@ -14,9 +14,9 @@ Speyer, Germany • +49 170 2884753 • alex.pokrowskiy@gmail.com • https://ww
 
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-FERCHAU GmbH +
-Rösslerstr. 88 +
-64293 Darmstadt +
+Keysight Germany GmbH +
+Herrenberger Str. 130 +
+71034 Böblingen +
 Deutschland +
 
 {empty} +
@@ -27,28 +27,26 @@ Speyer, {revdate}
 {empty} +
 
 [.fhel.fblue.head-h2]
-*Bewerbung als Softwareentwickler C# / .NET (m/w/d)*
+*Bewerbung als Software Engineer for Test Platforms (m/w/d)*
 
 // Ihre Stellenanzeige bei LinkedIn vom xx.xx.xxxx
-Ihre Stellenanzeige auf Bundesagentur für Arbeit +
+// Ihre Stellenanzeige auf Bundesagentur für Arbeit +
 // Einsatzorte: Siegburg +
-Referenz-Nr.: VA90-14616-DA
+Referenz-Nr.: 53922
 
 {empty} +
 
-Sehr geehrte Frau Wolf,
+Sehr geehrte Damen und Herren,
 
-mit großem Interesse habe ich Ihre Stellenanzeige für die Position als Softwareentwickler C# / .NET gelesen. Die Aussicht, für FERCHAU an anspruchsvollen und innovativen IT-Projekten zu arbeiten, begeistert mich sehr. Da ich meinen ersten festen Arbeitsplatz in Deutschland suche, möchte ich mich sehr gerne in Ihr Team einbringen.
+Ihre Stellenanzeige für die Position als Software Engineer for Test Platforms in Böblingen hat mich sofort sehr angesprochen. Mit fast 20 Jahren Berufserfahrung in der Softwareentwicklung und fundierten Kenntnissen in C#, .NET sowie relationalen Datenbanken möchte ich gerne Teil Ihres internationalen Teams bei Keysight werden.
 
-Ich bringe fundierte Qualifikationen mit: Ein abgeschlossenes Studium der Informatik sowie langjährige praktische Erfahrung in der objektorientierten Softwareentwicklung mit C# und .NET. In meinen bisherigen Projekten – unter anderem für internationale Unternehmen wie Microsoft, Carbonite und SimCorp – habe ich intensiv mit WPF, Visual Studio, APIs (REST) und SQL-Datenbanken gearbeitet. Zudem besitze ich praktische Kenntnisse in C++, Git, Azure DevOps und automatisierten Tests mit NUnit und xUnit. Die Arbeit in agilen Teams nach Scrum und der Einsatz moderner Werkzeuge gehören für mich zum Standard.
+Die von Ihnen beschriebene Aufgabe – die Betreuung und Weiterentwicklung interner Testplattformen sowie die Sicherstellung einer hohen Systemverfügbarkeit – passt perfekt zu meinem technischen Profil. In meiner bisherigen Laufbahn für namhafte Unternehmen wie Microsoft, Carbonite und SimCorp habe ich umfangreiche Erfahrungen gesammelt. Ich bin es gewohnt, komplexe Softwareprojekte zu leiten, sauberen Code zu schreiben und eng mit internationalen Teams zusammenzuarbeiten.
 
-Aktuell verfüge ich über Deutschkenntnisse auf dem Niveau B1 und passe mich durch meine fließenden Englischkenntnisse sowie meine Erfahrung in internationalen Projekten sehr schnell an neue Arbeitsumgebungen an.
+Da ich meinen Wohnsitz in Speyer habe, ist der Standort Böblingen für mich gut erreichbar. Mein Hauptziel ist es derzeit nicht, ein bestimmtes Gehalt zu verhandeln, sondern als erfahrener Entwickler meinen ersten Schritt in den deutschen Arbeitsmarkt zu machen und wertvolle Praxiserfahrung in Ihrem Unternehmen zu sammeln. 
 
-Für mich steht zurzeit der erfolgreiche Einstieg in den deutschen Arbeitsmarkt, das Sammeln von wertvoller Praxiserfahrung bei FERCHAU sowie der nachhaltige Wissenstransfer im Vordergrund, weshalb gegenseitiges Vertrauen und eine langfristige Zusammenarbeit für mich wichtiger sind als rein monetäre Aspekte. Um mich von meinen fachlichen und persönlichen Qualitäten zu überzeugen, stehe ich auch gerne für eine Probearbeit zur Verfügung.
+Ich spreche fließend Englisch und verfüge über gute Deutschkenntnisse (B1). Ich bin überzeugt, dass ich Ihr Team mit meiner Fachkompetenz und meinem Engagement vom ersten Tag an unterstützen kann.
 
-Ich wohne in Speyer und kann die Stelle in Darmstadt ab sofort in Vollzeit antreten.
-
-Über eine Einladung zu einem persönlichen Gespräch freue ich mich sehr.
+Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen, freue ich mich sehr.
 
 {empty} +
 
