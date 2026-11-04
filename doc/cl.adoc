@@ -14,9 +14,9 @@ Speyer, Germany • +49 170 2884753 • alex.pokrowskiy@gmail.com • https://ww
 
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-Insiders Technologies GmbH +
-Brüsseler Str. 1 +
-67657 Kaiserslautern +
+SEW-EURODRIVE GmbH & Co KG +
+Ernst-Blickle-Straße 42 +
+76646 Bruchsal +
 Deutschland +
 
 {empty} +
@@ -27,28 +27,32 @@ Speyer, {revdate}
 {empty} +
 
 [.fhel.fblue.head-h2]
-*Bewerbung als Senior C#/ Python Developer (m/w/d)*
+*Bewerbung als Systems Engineer Engineering Software (w/m/d)*
 
 // Ihre Stellenanzeige bei LinkedIn vom xx.xx.xxxx
 Ihre Stellenanzeige auf Bundesagentur für Arbeit +
 // Einsatzorte: Siegburg +
-Referenz-Nr.: 10001-1003947324-S
+Referenz-Nr.: 19470-493367332-S
 
 {empty} +
 
-Sehr geehrte Damen und Herren,
+Sehr geehrte Frau Paseka,
 
-Ihre Stellenanzeige bei Insiders Technologies hat mein großes Interesse geweckt. Die Kombination aus intelligenter Prozessautomatisierung, künstlicher Intelligenz und moderner Cloud-Entwicklung passt perfekt zu meinem Profil. Ich möchte meine langjährige Erfahrung als Softwareentwickler nutzen, um Ihre Produkte und Services aktiv mitzugestalten.
+mit großem Interesse bewerbe ich mich auf die Stelle als Systems Engineer Engineering Software bei SEW-EURODRIVE. Als erfahrener Softwareentwickler mit fast 20 Jahren Berufserfahrung im Microsoft-Umfeld schätze ich die technologische Innovationskraft Ihres Unternehmens sehr. Ich suche meinen ersten Arbeitsplatz in Deutschland und möchte meine umfassenden Kenntnisse in Ihr Team in Bruchsal einbringen.
 
-Ich verfüge über fast 20 Jahre Erfahrung in der Softwareentwicklung mit C#, .NET und Python. In meinen bisherigen Projekten habe ich skalierbare Backendsysteme, REST-APIs und moderne Cloud-Architekturen entwickelt und optimiert. Zudem besitze ich fundierte Kenntnisse in der Arbeit mit Container-Technologien (Docker, Kubernetes) und Cloud-Infrastrukturen. Meine Arbeitsweise ist geprägt von hoher Lösungsorientierung, sauberem Code und einem starken Teamgeist.
+In meinen bisherigen internationalen Projekten – unter anderem für namhafte Unternehmen wie Microsoft, SimCorp und Carbonite – habe ich mich intensiv mit der Architektur, Entwicklung und Integration von komplexen Software-Systemen beschäftigt. Die Auslegung von stabilen Datenmodellen und die Definition von Schnittstellen gehörten dabei stets zu meinen Kernaufgaben. Meine Qualifikationen passen präzise zu den Anforderungen Ihrer Stellenanzeige:
 
-Da dies meine erste Arbeitsstelle in Deutschland ist, steht für mich im Vordergrund, mich schnell in Ihr Team einzubringen, Ihre Technologie-Landschaft kennenzulernen und wertvolle Praxiserfahrung am deutschen Arbeitsmarkt zu sammeln. Meine Gehaltserwartung orientiert sich daher gerne an Ihren üblichen Unternehmensstandards für diese Position.
+Langjährige Expertise in .NET & C#: Fundierte Erfahrung in der Entwicklung und Modernisierung verteilter Anwendungen, Systemarchitekturen sowie API- und Integrationskonzepten.
 
-Ich habe solide Deutschkenntnisse auf B1-Niveau, die ich im Arbeitsalltag kontinuierlich ausbauen möchte. Aufgrund meiner fließenden Englischkenntnisse und meiner jahrelangen Arbeit in internationalen Teams kann ich ab dem ersten Tag problemlos und produktiv mit Ihren Kolleginnen und Kollegen kommunizieren.
+Moderne Frontends & Frameworks: Praktische Erfahrung im Umgang mit Angular und DevExpress zur Erstellung benutzerfreundlicher Schnittstellen.
 
-Reisen zu Ihrem Standort in Kaiserslautern sind für mich problemlos machbar und gut von Speyer aus erreichbar. Die Möglichkeit, im Homeoffice zu arbeiten, schätze ich sehr.
+Agile Prozesse & KI-Methoden: Erprobte Arbeit in agilen Teams (Scrum) sowie großes Interesse am Einsatz moderner, KI-gestützter Entwicklungswerkzeuge zur Prozessoptimierung.
 
-Über eine Einladung zu einem persönlichen Vorstellungsgespräch – gerne online – freue ich mich sehr.
+Für mich steht aktuell der erfolgreiche Einstieg in den deutschen Arbeitsmarkt sowie die langfristige berufliche Integration an erster Stelle. Praxiserfahrung in einem renommierten Industrieunternehmen wie SEW-EURODRIVE und die Weiterentwicklung meiner Kenntnisse sind für mich wertvoller als Gehaltsanforderungen. Ich passe meine Vorstellungen daher gerne den tariflichen Gegebenheiten Ihres Hauses an.
+
+Ich verfüge über Deutschkenntnisse auf dem Niveau B1, die ich täglich weiter ausbaue, und spreche fließend Englisch. Aufgrund meines Wohnorts Speyer ist der Standort Bruchsal für mich sehr gut erreichbar.
+
+Ich stehe Ihnen ab sofort zur Verfügung und freue mich sehr über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen.
 
 {empty} +
 
