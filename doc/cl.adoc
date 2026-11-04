@@ -14,9 +14,9 @@ Speyer, Germany • +49 170 2884753 • alex.pokrowskiy@gmail.com • https://ww
 
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-Agilent Technologies Deutschland GmbH +
-Hewlett-Packard-Str. 8 +
-76337 Waldbronn +
+Insiders Technologies GmbH +
+Brüsseler Str. 1 +
+67657 Kaiserslautern +
 Deutschland +
 
 {empty} +
@@ -27,32 +27,28 @@ Speyer, {revdate}
 {empty} +
 
 [.fhel.fblue.head-h2]
-*Bewerbung als Manufacturing Software Engineer (m/w/d)*
+*Bewerbung als Senior C#/ Python Developer (m/w/d)*
 
 // Ihre Stellenanzeige bei LinkedIn vom xx.xx.xxxx
-// Ihre Stellenanzeige auf Bundesagentur für Arbeit +
+Ihre Stellenanzeige auf Bundesagentur für Arbeit +
 // Einsatzorte: Siegburg +
-Referenz-Nr.: 4039638
+Referenz-Nr.: 10001-1003947324-S
 
 {empty} +
 
 Sehr geehrte Damen und Herren,
 
-mit großer Begeisterung habe ich Ihre Stellenanzeige für die Position als Manufacturing Software Engineer am Standort Waldbronn gelesen. Agilent steht für erstklassige Technologien und Innovationen im Smart-Manufacturing-Umfeld.Als erfahrener Software-Entwickler möchte ich meine Kenntnisse einbringen, um die Automatisierung und Digitalisierung Ihrer Produktion in der Global Lighthouse Factory aktiv mitzugestalten.
+Ihre Stellenanzeige bei Insiders Technologies hat mein großes Interesse geweckt. Die Kombination aus intelligenter Prozessautomatisierung, künstlicher Intelligenz und moderner Cloud-Entwicklung passt perfekt zu meinem Profil. Ich möchte meine langjährige Erfahrung als Softwareentwickler nutzen, um Ihre Produkte und Services aktiv mitzugestalten.
 
-Ich verfüge über fast 20 Jahre Berufserfahrung in der objektorientierten Softwareentwicklung mit C# und .NET. In meinen bisherigen Projekten habe ich komplexe Anwendungen, Test-Infrastrukturen und datenbasierte Lösungen entwickelt. Meine Kenntnisse passen sehr gut zu den Aufgaben in Ihrem Digital Solutions Team:
+Ich verfüge über fast 20 Jahre Erfahrung in der Softwareentwicklung mit C#, .NET und Python. In meinen bisherigen Projekten habe ich skalierbare Backendsysteme, REST-APIs und moderne Cloud-Architekturen entwickelt und optimiert. Zudem besitze ich fundierte Kenntnisse in der Arbeit mit Container-Technologien (Docker, Kubernetes) und Cloud-Infrastrukturen. Meine Arbeitsweise ist geprägt von hoher Lösungsorientierung, sauberem Code und einem starken Teamgeist.
 
-Softwareentwicklung & Testautomatisierung: Ich habe langjährige Erfahrung mit C#, .NET Core, WPF und CI/CD-Prozessen. Zudem habe ich automatisierte Unittests und Systemtests (z. B. mit NUnit, Moq) entwickelt und optimiert.
+Da dies meine erste Arbeitsstelle in Deutschland ist, steht für mich im Vordergrund, mich schnell in Ihr Team einzubringen, Ihre Technologie-Landschaft kennenzulernen und wertvolle Praxiserfahrung am deutschen Arbeitsmarkt zu sammeln. Meine Gehaltserwartung orientiert sich daher gerne an Ihren üblichen Unternehmensstandards für diese Position.
 
-Moderne Technologien & Daten: Neben relationalen Datenbanken (SQL) arbeite ich routiniert mit Docker-Containern und Skriptsprachen wie Python.Auch neue Ansätze wie Data Analytics und künstliche Intelligenz (LLMs, Python-basierte Skripte) integriere ich zielgerichtet in bestehende Systeme.
+Ich habe solide Deutschkenntnisse auf B1-Niveau, die ich im Arbeitsalltag kontinuierlich ausbauen möchte. Aufgrund meiner fließenden Englischkenntnisse und meiner jahrelangen Arbeit in internationalen Teams kann ich ab dem ersten Tag problemlos und produktiv mit Ihren Kolleginnen und Kollegen kommunizieren.
 
-Internationale Zusammenarbeit: Die Arbeit in agilen, internationalen Teams ist für mich alltägliche Praxis. Ich kenne moderne Entwicklungsmethoden wie Scrum, Agile, SAFe sehr gut.
+Reisen zu Ihrem Standort in Kaiserslautern sind für mich problemlos machbar und gut von Speyer aus erreichbar. Die Möglichkeit, im Homeoffice zu arbeiten, schätze ich sehr.
 
-Für mich steht aktuell im Vordergrund, meine erste berufliche Stelle in Deutschland anzutreten. Ich möchte meine langjährige Qualifikation praktisch in ein deutsches High-Tech-Umfeld einbringen und wertvolle Erfahrungen sammeln. Daher ist mir eine langfristige berufliche Perspektive bei Agilent wichtiger als das Thema Gehalt.
-
-Ich spreche fließend Englisch und verfüge über solide Deutschkenntnisse auf B1-Niveau, die ich in der täglichen Praxis rasch vertiefen möchte. Gerne überzeuge ich Sie von meiner fachlichen Kompetenz und lösungsorientierten Arbeitsweise – auch im Rahmen einer Probearbeit oder eines Praktikums.
-
-Über eine Einladung zu einem persönlichen Gespräch freue ich mich sehr.
+Über eine Einladung zu einem persönlichen Vorstellungsgespräch – gerne online – freue ich mich sehr.
 
 {empty} +
 
