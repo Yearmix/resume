@@ -14,9 +14,9 @@ Speyer, Germany • +49 170 2884753 • alex.pokrowskiy@gmail.com • https://ww
 
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-InnetiQs GmbH +
-Fraunhoferstraße 5 +
-76297 Stutensee-Blankenloch +
+pmX GmbH +
+Kegelenstraße 3 +
+70372 Stuttgart +
 Deutschland +
 
 {empty} +
@@ -27,36 +27,34 @@ Speyer, {revdate}
 {empty} +
 
 [.fhel.fblue.head-h2]
-*Bewerbung als Desktop Softwareentwickler C# / .NET (m/w/d)*
+*Bewerbung als Software Developer .NET / C# (m/w/d)*
 
 // Ihre Stellenanzeige bei LinkedIn vom xx.xx.xxxx
-Ihre Stellenanzeige auf Bundesagentur für Arbeit +
-// Einsatzorte: Siegburg +
-Referenz-Nr.: 12288-4991504946-S
+// Ihre Stellenanzeige auf Bundesagentur für Arbeit +
+Einsatzorte: Darmstadt +
+// Referenz-Nr.: 12288-4991504946-S
 
 {empty} +
 
-Sehr geehrte Frau Kummle,
+Sehr geehrte Damen und Herren,
 
-mit großer Begeisterung habe ich Ihre Stellenanzeige für die Position als Desktop Softwareentwickler C# / .NET gelesen. Die Entwicklung von innovativen Inspektionssystemen zur Analyse und Visualisierung wichtiger Messdaten ist eine sehr verantwortungsvolle Aufgabe. Ich möchte mein technisches Wissen gerne in Ihr Team einbringen und gemeinsam mit Ihnen zuverlässige Softwarelösungen gestalten.
+mit großer Begeisterung habe ich Ihre Stellenanzeige für die Position als Software Developer .NET / C# gelesen. Die werteorientierte Unternehmenskultur von pmX und die Arbeit in agilen Teams sprechen mich sehr an. Gerne möchte ich mein fundiertes Fachwissen und meine langjährige Erfahrung in Ihr Unternehmen einbringen.
 
-Ich verfüge über fast 20 Jahre professionelle Erfahrung in der Softwareentwicklung. In meinen bisherigen Projekten für internationale Unternehmen habe ich komplexe Desktop-Anwendungen sowie Datenbankarchitekturen entwickelt und betreut.
+Ich verfüge über ein abgeschlossenes Studium im Bereich Informatik (Bachelor in Application Programming) sowie über fast 20 Jahre professionelle Erfahrung in der Softwareentwicklung. In meinen bisherigen Positionen für internationale Kunden wie Microsoft, Carbonite und SimCorp habe ich komplexe Softwarelösungen entwickelt und optimiert.
 
-Folgende Qualifikationen bringe ich für die Stelle bei InnetiQs mit:
+Meine Qualifikationen passen genau zu Ihrem Anforderungsprofil:
 
-* *Langjährige C# und .NET-Erfahrung:* Ich beherrsche die moderne Entwicklung im .NET-Umfeld und kenne mich bestens mit der Erstellung performanter Datenbank-Anwendungen (u. a. MS SQL, Oracle, PostgreSQL) aus.
+* *C# und .NET / WPF:* Vielseitige Erfahrung in der Entwicklung von Desktop- und Webanwendungen sowie in der Arbeit mit WPF und APIs.
 
-* *Benutzeroberflächen & Architekturen:* Ich habe umfassende praktische Erfahrung in der Entwicklung von Desktop-Anwendungen mit WPF und WinForms unter Anwendung des MVVM-Entwurfsmusters.
+* *Tools & Methoden:* Sicherer Umgang mit Git, Visual Studio und Azure DevOps sowie fundierte Kenntnisse in CI/CD-Pipelines, automatisierten Unit-Tests (NUnit, XUnit) und agilen Vorgehensweisen.
 
-* *Hohe Qualitätsstandards:* Sauberer Code (Clean Code), testgetriebene Entwicklung (TDD) sowie automatisierte Unit-Tests mit NUnit gehören zu meiner täglichen Praxis.
+* *Konzepte & Innovation:* Erfahrung in der Erstellung moderner Softwarearchitekturen und großes Interesse an der Nutzung moderner Tools zur Unterstützung von Entwicklungsprozessen.
 
-* *Internationale Dokumentation & Sprachen:* Meine Deutschkenntnisse liegen auf dem Niveau B1 und ich lerne stetig weiter. Ich spreche fließend Englisch und bin gewohnt, die gesamte technische Dokumentation präzise auf Englisch zu verfassen.
+Da dies meine erste Arbeitsstelle in Deutschland sein wird, stehen für mich der erfolgreiche Berufseinstieg auf dem deutschen Markt, die Integration in Ihr Team sowie das Sammeln wertvoller Praxiserfahrung im Vordergrund. Über die genauen vertraglichen Rahmenbedingungen und ein angemessenes Gehalt spreche ich gerne persönlich mit Ihnen.
 
-Für meinen beruflichen Neustart in Deutschland suche ich eine langfristige Ersteinstellung, bei der die praxisnahe Zusammenarbeit, wertvolle Erfahrungen im deutschen Arbeitsumfeld und spannende technische Herausforderungen für mich im Vordergrund stehen.
+Ich verfüge über ein B1-Zertifikat in Deutsch und spreche fließend Englisch, sodass ich mich problemlos in Ihr Team einbringen kann. Die Position in Darmstadt bzw. im Remote-Setup passt ideal zu meinen Vorstellungen. Ich bin ab sofort verfügbar.
 
-Aufgrund meines Wohnorts Speyer ist der Standort Stutensee für mich sehr gut erreichbar. Ich bin ab sofort verfügbar und stehe Ihnen im Vollzeitverhältnis gerne zur Verfügung. Um Sie von meinen fachlichen Fähigkeiten zu überzeugen, stehe ich auch für eine Probearbeit gerne bereit.
-
-Über eine Einladung zu einem persönlichen Gespräch freue ich mich sehr.
+Über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen, freue ich mich sehr.
 
 {empty} +
 
