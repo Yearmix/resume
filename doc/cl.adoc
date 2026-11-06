@@ -14,9 +14,9 @@ Speyer, Germany • +49 170 2884753 • alex.pokrowskiy@gmail.com • https://ww
 
 [.txt-sml.fgray]#Oleksii Pokrovskyi, Windthorst Str. 15, 67346 Speyer#
 
-SEW-EURODRIVE GmbH & Co KG +
-Ernst-Blickle-Straße 42 +
-76646 Bruchsal +
+InnetiQs GmbH +
+Fraunhoferstraße 5 +
+76297 Stutensee-Blankenloch +
 Deutschland +
 
 {empty} +
@@ -27,32 +27,36 @@ Speyer, {revdate}
 {empty} +
 
 [.fhel.fblue.head-h2]
-*Bewerbung als Systems Engineer Engineering Software (w/m/d)*
+*Bewerbung als Desktop Softwareentwickler C# / .NET (m/w/d)*
 
 // Ihre Stellenanzeige bei LinkedIn vom xx.xx.xxxx
 Ihre Stellenanzeige auf Bundesagentur für Arbeit +
 // Einsatzorte: Siegburg +
-Referenz-Nr.: 19470-493367332-S
+Referenz-Nr.: 12288-4991504946-S
 
 {empty} +
 
-Sehr geehrte Frau Paseka,
+Sehr geehrte Frau Kummle,
 
-mit großem Interesse bewerbe ich mich auf die Stelle als Systems Engineer Engineering Software bei SEW-EURODRIVE. Als erfahrener Softwareentwickler mit fast 20 Jahren Berufserfahrung im Microsoft-Umfeld schätze ich die technologische Innovationskraft Ihres Unternehmens sehr. Ich suche meinen ersten Arbeitsplatz in Deutschland und möchte meine umfassenden Kenntnisse in Ihr Team in Bruchsal einbringen.
+mit großer Begeisterung habe ich Ihre Stellenanzeige für die Position als Desktop Softwareentwickler C# / .NET gelesen. Die Entwicklung von innovativen Inspektionssystemen zur Analyse und Visualisierung wichtiger Messdaten ist eine sehr verantwortungsvolle Aufgabe. Ich möchte mein technisches Wissen gerne in Ihr Team einbringen und gemeinsam mit Ihnen zuverlässige Softwarelösungen gestalten.
 
-In meinen bisherigen internationalen Projekten – unter anderem für namhafte Unternehmen wie Microsoft, SimCorp und Carbonite – habe ich mich intensiv mit der Architektur, Entwicklung und Integration von komplexen Software-Systemen beschäftigt. Die Auslegung von stabilen Datenmodellen und die Definition von Schnittstellen gehörten dabei stets zu meinen Kernaufgaben. Meine Qualifikationen passen präzise zu den Anforderungen Ihrer Stellenanzeige:
+Ich verfüge über fast 20 Jahre professionelle Erfahrung in der Softwareentwicklung. In meinen bisherigen Projekten für internationale Unternehmen habe ich komplexe Desktop-Anwendungen sowie Datenbankarchitekturen entwickelt und betreut.
 
-Langjährige Expertise in .NET & C#: Fundierte Erfahrung in der Entwicklung und Modernisierung verteilter Anwendungen, Systemarchitekturen sowie API- und Integrationskonzepten.
+Folgende Qualifikationen bringe ich für die Stelle bei InnetiQs mit:
 
-Moderne Frontends & Frameworks: Praktische Erfahrung im Umgang mit Angular und DevExpress zur Erstellung benutzerfreundlicher Schnittstellen.
+* *Langjährige C# und .NET-Erfahrung:* Ich beherrsche die moderne Entwicklung im .NET-Umfeld und kenne mich bestens mit der Erstellung performanter Datenbank-Anwendungen (u. a. MS SQL, Oracle, PostgreSQL) aus.
 
-Agile Prozesse & KI-Methoden: Erprobte Arbeit in agilen Teams (Scrum) sowie großes Interesse am Einsatz moderner, KI-gestützter Entwicklungswerkzeuge zur Prozessoptimierung.
+* *Benutzeroberflächen & Architekturen:* Ich habe umfassende praktische Erfahrung in der Entwicklung von Desktop-Anwendungen mit WPF und WinForms unter Anwendung des MVVM-Entwurfsmusters.
 
-Für mich steht aktuell der erfolgreiche Einstieg in den deutschen Arbeitsmarkt sowie die langfristige berufliche Integration an erster Stelle. Praxiserfahrung in einem renommierten Industrieunternehmen wie SEW-EURODRIVE und die Weiterentwicklung meiner Kenntnisse sind für mich wertvoller als Gehaltsanforderungen. Ich passe meine Vorstellungen daher gerne den tariflichen Gegebenheiten Ihres Hauses an.
+* *Hohe Qualitätsstandards:* Sauberer Code (Clean Code), testgetriebene Entwicklung (TDD) sowie automatisierte Unit-Tests mit NUnit gehören zu meiner täglichen Praxis.
 
-Ich verfüge über Deutschkenntnisse auf dem Niveau B1, die ich täglich weiter ausbaue, und spreche fließend Englisch. Aufgrund meines Wohnorts Speyer ist der Standort Bruchsal für mich sehr gut erreichbar.
+* *Internationale Dokumentation & Sprachen:* Meine Deutschkenntnisse liegen auf dem Niveau B1 und ich lerne stetig weiter. Ich spreche fließend Englisch und bin gewohnt, die gesamte technische Dokumentation präzise auf Englisch zu verfassen.
 
-Ich stehe Ihnen ab sofort zur Verfügung und freue mich sehr über die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen.
+Für meinen beruflichen Neustart in Deutschland suche ich eine langfristige Ersteinstellung, bei der die praxisnahe Zusammenarbeit, wertvolle Erfahrungen im deutschen Arbeitsumfeld und spannende technische Herausforderungen für mich im Vordergrund stehen.
+
+Aufgrund meines Wohnorts Speyer ist der Standort Stutensee für mich sehr gut erreichbar. Ich bin ab sofort verfügbar und stehe Ihnen im Vollzeitverhältnis gerne zur Verfügung. Um Sie von meinen fachlichen Fähigkeiten zu überzeugen, stehe ich auch für eine Probearbeit gerne bereit.
+
+Über eine Einladung zu einem persönlichen Gespräch freue ich mich sehr.
 
 {empty} +
 
