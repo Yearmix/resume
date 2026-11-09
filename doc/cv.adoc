@@ -81,7 +81,7 @@ Software Developer mit fast 20 Jahren Berufserfahrung in Design, Entwicklung, De
 
 *Technologien:* .NET, ASP.NET MVC, WCF, JavaScript, jQuery, VSTS
 
-[.head-h2]#*Full-Stack Developer / .NET Software Engineer*# | GlobalLogic / Vacation Rental Pros, Kyiv | 06/2014 – 09/2016
+[.head-h2]#*Full-Stack Developer / .NET Software Engineer*# | Kraftek / Vacation Rental Pros, Kyiv | 06/2014 – 09/2016
 
 .Projekt: Property Management
 * Entwicklung einer UI für Calls und SMS über eine Cloud-API.
